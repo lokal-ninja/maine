@@ -1,6 +1,6 @@
 ---
 title: Etna
 url: /etna/
-latitude: 44.815992400000006
-longitude: -69.11693580000001
+latitude: 44.816137100000006
+longitude: -69.1164813
 ---

@@ -1,4 +1,4 @@
 ---
-title: "McDonalds"
+title: "McDonald's"
 url: /rockland/mcdonalds/
 ---

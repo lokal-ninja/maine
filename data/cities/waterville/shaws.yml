@@ -1,12 +1,12 @@
-id: 5163394237
-type: node
+id: 39762877
+type: way
 shop: supermarket
-latitude: 44.544433100000006
-longitude: -69.6670436
+latitude: 44.544410000000006
+longitude: -69.66790370000001
 postcode: "04901"
 city: Waterville
 street: "Kennedy Memorial Drive"
-housenumber: 151
+housenumber: 251;151
 phone: ""
 opening_hours: ""
 website: ""
