@@ -1,12 +1,12 @@
 id: 7201670668
 type: node
-shop: mall
+shop: hairdresser
 latitude: 44.5706584
 longitude: -69.64246750000001
 postcode: "04901"
 city: Waterville
 street: "Waterville Commons Drive"
 housenumber: 6
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+1-207-873-5908"
+opening_hours: "Mo-Fr 09:00-20:00; Sa 08:30-18:00; Su 09:00-17:00"
+website: "https://www.supercuts.com/locations/me/waterville/the-shops-at-waterville-haircuts-80586.html"
