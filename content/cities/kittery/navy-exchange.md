@@ -1,5 +1,5 @@
 ---
 title: "Navy Exchange"
-url: /portsmouth-naval-shipyard/navy-exchange/
+url: /kittery/navy-exchange/
 shop: convenience
 ---

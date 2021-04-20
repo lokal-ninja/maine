@@ -1,5 +1,5 @@
 ---
 title: "Navy Commissary"
-url: /portsmouth-naval-shipyard/navy-commissary/
+url: /kittery/navy-commissary/
 shop: supermarket
 ---
