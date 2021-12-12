@@ -1,5 +1,5 @@
 ---
 title: "Flying Pond Variety"
 url: /mount-vernon/flying-pond-variety/
-shop: convenience
+shop: variety store
 ---
