@@ -1,5 +1,5 @@
 ---
 title: "Wheat"
 url: /york/wheat/
-shop: clothes
+shop: Kleidung
 ---

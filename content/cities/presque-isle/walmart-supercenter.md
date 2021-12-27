@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /presque-isle/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Six Mile Falls Market"
 url: /bangor/six-mile-falls-market/
-shop: convenience
+shop: Lebensmittel
 ---

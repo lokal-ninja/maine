@@ -1,5 +1,5 @@
 ---
 title: "The Pine Cone"
 url: /waterville/the-pine-cone/
-shop: furniture
+shop: Möbel
 ---

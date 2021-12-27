@@ -1,6 +1,6 @@
 ---
 title: Litchfield
 url: /litchfield/
-latitude: 
-longitude: 
+latitude: 44.189
+longitude: -69.939
 ---

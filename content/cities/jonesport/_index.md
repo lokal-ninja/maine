@@ -1,6 +1,6 @@
 ---
 title: Jonesport
 url: /jonesport/
-latitude: 44.533227000000004
-longitude: -67.598877
+latitude: 44.626
+longitude: -67.6
 ---

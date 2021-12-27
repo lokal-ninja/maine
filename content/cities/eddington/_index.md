@@ -1,6 +1,6 @@
 ---
 title: Eddington
 url: /eddington/
-latitude: 44.8261817
-longitude: -68.6933667
+latitude: 44.791
+longitude: -68.582
 ---

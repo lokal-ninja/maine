@@ -1,6 +1,6 @@
 ---
 title: Rangeley
 url: /rangeley/
-latitude: 44.966741000000006
-longitude: -70.64346300000001
+latitude: 44.967
+longitude: -70.663
 ---

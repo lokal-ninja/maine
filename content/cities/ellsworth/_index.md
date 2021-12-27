@@ -1,6 +1,6 @@
 ---
 title: Ellsworth
 url: /ellsworth/
-latitude: 44.5434831
-longitude: -68.4201819
+latitude: 44.537
+longitude: -68.412
 ---

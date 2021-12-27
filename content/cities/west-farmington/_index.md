@@ -1,6 +1,6 @@
 ---
 title: West Farmington
 url: /west-farmington/
-latitude: 44.6628381
-longitude: -70.1553394
+latitude: 44.663
+longitude: -70.157
 ---

@@ -1,6 +1,6 @@
 ---
 title: Frye Island
 url: /frye-island/
-latitude: 43.838040400000004
-longitude: -70.5249735
+latitude: 43.847
+longitude: -70.519
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Georgetown Country Store"
 url: /georgetown/georgetown-country-store/
-shop: shop
+shop: Allgemein
 ---

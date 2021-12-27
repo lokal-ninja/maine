@@ -1,6 +1,6 @@
 ---
 title: Hermon
 url: /hermon/
-latitude: 44.810096
-longitude: -68.913803
+latitude: 44.801
+longitude: -68.849
 ---

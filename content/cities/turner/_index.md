@@ -1,6 +1,6 @@
 ---
 title: Turner
 url: /turner/
-latitude: 44.256458800000004
-longitude: -70.2561671
+latitude: 44.197
+longitude: -70.244
 ---

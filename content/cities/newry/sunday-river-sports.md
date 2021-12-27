@@ -1,5 +1,5 @@
 ---
 title: "Sunday River Sports"
 url: /newry/sunday-river-sports/
-shop: sports
+shop: Sport
 ---

@@ -1,6 +1,6 @@
 ---
 title: Monson
 url: /monson/
-latitude: 45.287448000000005
-longitude: -69.50157200000001
+latitude: 45.287
+longitude: -69.501
 ---

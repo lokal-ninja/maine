@@ -1,6 +1,6 @@
 ---
 title: Winterharbor
 url: /winterharbor/
-latitude: 
-longitude: 
+latitude: 44.395
+longitude: -68.086
 ---

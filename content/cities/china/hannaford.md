@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /china/hannaford/
-shop: supermarket
+shop: Supermarkt
 ---

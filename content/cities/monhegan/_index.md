@@ -1,6 +1,6 @@
 ---
 title: Monhegan
 url: /monhegan/
-latitude: 
-longitude: 
+latitude: 43.759
+longitude: -69.32
 ---

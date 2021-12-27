@@ -1,6 +1,6 @@
 ---
 title: Newry
 url: /newry/
-latitude: 44.487689
-longitude: -70.787659
+latitude: 44.473
+longitude: -70.857
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ecopelagicon"
 url: /rangeley/ecopelagicon/
-shop: gift
+shop: Andenken
 ---

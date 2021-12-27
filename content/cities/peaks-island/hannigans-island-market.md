@@ -1,5 +1,5 @@
 ---
 title: "Hannigans Island Market"
 url: /peaks-island/hannigans-island-market/
-shop: shop
+shop: Allgemein
 ---

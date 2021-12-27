@@ -1,6 +1,6 @@
 ---
 title: Greenbush
 url: /greenbush/
-latitude: 45.0803409
-longitude: -68.65086360000001
+latitude: 45.035
+longitude: -68.597
 ---

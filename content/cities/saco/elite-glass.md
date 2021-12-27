@@ -1,5 +1,5 @@
 ---
 title: "Elite Glass"
 url: /saco/elite-glass/
-shop: shop
+shop: Allgemein
 ---

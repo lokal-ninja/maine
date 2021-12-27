@@ -1,5 +1,5 @@
 ---
 title: "Tire Warehouse"
 url: /belfast/tire-warehouse/
-shop: tyres
+shop: Reifen
 ---

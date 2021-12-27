@@ -1,5 +1,5 @@
 ---
 title: "DOM'S"
 url: /hallowell/doms/
-shop: hairdresser
+shop: Friseur
 ---

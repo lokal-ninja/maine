@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /westbrook/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

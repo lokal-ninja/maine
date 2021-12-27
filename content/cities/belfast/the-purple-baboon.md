@@ -1,5 +1,5 @@
 ---
 title: "The Purple Baboon"
 url: /belfast/the-purple-baboon/
-shop: gift
+shop: Andenken
 ---

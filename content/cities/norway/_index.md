@@ -1,6 +1,6 @@
 ---
 title: Norway
 url: /norway/
-latitude: 44.214202
-longitude: -70.54527300000001
+latitude: 44.214
+longitude: -70.543
 ---

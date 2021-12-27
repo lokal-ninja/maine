@@ -1,6 +1,6 @@
 ---
 title: Owls Head
 url: /owls-head/
-latitude: 44.0823473
-longitude: -69.05710140000001
+latitude: 44.082
+longitude: -69.058
 ---

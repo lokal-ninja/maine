@@ -1,6 +1,6 @@
 ---
 title: Jackman
 url: /jackman/
-latitude: 45.623763200000006
-longitude: -70.2539833
+latitude: 45.632
+longitude: -70.263
 ---

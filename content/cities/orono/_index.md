@@ -1,6 +1,6 @@
 ---
 title: Orono
 url: /orono/
-latitude: 44.883607000000005
-longitude: -68.672791
+latitude: 44.906
+longitude: -68.691
 ---

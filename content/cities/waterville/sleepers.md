@@ -1,5 +1,5 @@
 ---
 title: "Sleepers"
 url: /waterville/sleepers/
-shop: clothes
+shop: Kleidung
 ---

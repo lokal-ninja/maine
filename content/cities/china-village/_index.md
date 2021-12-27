@@ -1,6 +1,6 @@
 ---
 title: China Village
 url: /china-village/
-latitude: 
-longitude: 
+latitude: 44.48
+longitude: -69.51
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shaw's"
 url: /augusta/shaws/
-shop: supermarket
+shop: Supermarkt
 ---

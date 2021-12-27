@@ -1,6 +1,6 @@
 ---
 title: Parsonsfield
 url: /parsonsfield/
-latitude: 43.727445
-longitude: -70.929108
+latitude: 43.712
+longitude: -70.982
 ---

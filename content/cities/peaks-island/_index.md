@@ -1,6 +1,6 @@
 ---
 title: Peaks Island
 url: /peaks-island/
-latitude: 43.6570272
-longitude: -70.1961587
+latitude: 43.656
+longitude: -70.198
 ---

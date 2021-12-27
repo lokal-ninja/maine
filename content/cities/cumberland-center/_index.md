@@ -1,6 +1,6 @@
 ---
 title: Cumberland Center
 url: /cumberland-center/
-latitude: 43.7964679
-longitude: -70.25893880000001
+latitude: 43.816
+longitude: -70.313
 ---

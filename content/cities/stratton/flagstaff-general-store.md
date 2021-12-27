@@ -1,5 +1,5 @@
 ---
 title: "Flagstaff General Store"
 url: /stratton/flagstaff-general-store/
-shop: convenience
+shop: Lebensmittel
 ---

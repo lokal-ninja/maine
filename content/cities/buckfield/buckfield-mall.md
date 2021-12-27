@@ -1,5 +1,5 @@
 ---
 title: "Buckfield Mall"
 url: /buckfield/buckfield-mall/
-shop: convenience
+shop: Lebensmittel
 ---

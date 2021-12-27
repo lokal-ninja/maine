@@ -1,6 +1,6 @@
 ---
 title: East Waterboro
 url: /east-waterboro/
-latitude: 43.589319
-longitude: -70.7091728
+latitude: 43.591
+longitude: -70.711
 ---

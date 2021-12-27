@@ -1,6 +1,6 @@
 ---
 title: Pittsfield
 url: /pittsfield/
-latitude: 44.782810000000005
-longitude: -69.383469
+latitude: 44.787
+longitude: -69.398
 ---

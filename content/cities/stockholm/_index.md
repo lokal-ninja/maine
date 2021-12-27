@@ -1,6 +1,6 @@
 ---
 title: Stockholm
 url: /stockholm/
-latitude: 47.042522000000005
-longitude: -68.139954
+latitude: 47.042
+longitude: -68.139
 ---

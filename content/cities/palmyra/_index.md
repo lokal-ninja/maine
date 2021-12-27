@@ -1,6 +1,6 @@
 ---
 title: Palmyra
 url: /palmyra/
-latitude: 44.84662
-longitude: -69.358749
+latitude: 44.838
+longitude: -69.294
 ---

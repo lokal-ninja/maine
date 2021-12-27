@@ -1,6 +1,6 @@
 ---
 title: Winterport
 url: /winterport/
-latitude: 44.63788
-longitude: -68.845139
+latitude: 44.637
+longitude: -68.846
 ---

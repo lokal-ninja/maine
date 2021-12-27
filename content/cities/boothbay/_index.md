@@ -1,6 +1,6 @@
 ---
 title: Boothbay
 url: /boothbay/
-latitude: 43.876470600000005
-longitude: -69.63365710000001
+latitude: 43.909
+longitude: -69.617
 ---

@@ -1,6 +1,6 @@
 ---
 title: Biddeford
 url: /biddeford/
-latitude: 43.492584300000004
-longitude: -70.4533844
+latitude: 43.476
+longitude: -70.513
 ---

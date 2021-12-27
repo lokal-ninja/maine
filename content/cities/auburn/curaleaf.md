@@ -1,5 +1,5 @@
 ---
 title: "Curaleaf"
 url: /auburn/curaleaf/
-shop: cannabis
+shop: Hanf
 ---

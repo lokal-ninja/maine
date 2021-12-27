@@ -1,5 +1,5 @@
 ---
 title: "Day's Jewelers"
 url: /augusta/days-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,6 +1,6 @@
 ---
 title: Monmouth
 url: /monmouth/
-latitude: 44.238804
-longitude: -70.035782
+latitude: 44.244
+longitude: -70.034
 ---

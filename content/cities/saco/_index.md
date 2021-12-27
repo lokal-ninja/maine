@@ -1,6 +1,6 @@
 ---
 title: Saco
 url: /saco/
-latitude: 43.5009176
-longitude: -70.4428286
+latitude: 43.512
+longitude: -70.435
 ---

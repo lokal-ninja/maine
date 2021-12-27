@@ -1,5 +1,5 @@
 ---
 title: "Deb's Variety"
 url: /winterport/debs-variety/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fast and Happy Bicycles"
 url: /springvale/fast-and-happy-bicycles/
-shop: bicycle
+shop: Fahrrad
 ---

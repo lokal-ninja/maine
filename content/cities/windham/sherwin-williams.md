@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /windham/sherwin-williams/
-shop: paint
+shop: Farben
 ---

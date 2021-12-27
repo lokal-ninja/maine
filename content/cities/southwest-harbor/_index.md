@@ -1,6 +1,6 @@
 ---
 title: Southwest Harbor
 url: /southwest-harbor/
-latitude: 44.2798024
-longitude: -68.3250168
+latitude: 44.28
+longitude: -68.326
 ---

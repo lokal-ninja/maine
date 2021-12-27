@@ -1,5 +1,5 @@
 ---
 title: "Uncle Dean's Natural Market"
 url: /waterville/uncle-deans-natural-market/
-shop: supermarket
+shop: Supermarkt
 ---

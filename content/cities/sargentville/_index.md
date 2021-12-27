@@ -1,6 +1,6 @@
 ---
 title: Sargentville
 url: /sargentville/
-latitude: 44.301625
-longitude: -68.6721024
+latitude: 44.311
+longitude: -68.668
 ---

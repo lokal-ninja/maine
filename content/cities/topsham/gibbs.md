@@ -1,5 +1,5 @@
 ---
 title: "Gibbs"
 url: /topsham/gibbs/
-shop: convenience
+shop: Lebensmittel
 ---

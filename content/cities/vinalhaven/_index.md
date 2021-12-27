@@ -1,6 +1,6 @@
 ---
 title: Vinalhaven
 url: /vinalhaven/
-latitude: 44.0481374
-longitude: -68.8316985
+latitude: 44.048
+longitude: -68.833
 ---

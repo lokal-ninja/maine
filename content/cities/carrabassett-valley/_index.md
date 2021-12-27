@@ -1,6 +1,6 @@
 ---
 title: Carrabassett Valley
 url: /carrabassett-valley/
-latitude: 
-longitude: 
+latitude: 45.077
+longitude: -70.212
 ---

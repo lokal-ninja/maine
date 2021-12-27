@@ -1,5 +1,5 @@
 ---
 title: "Matheson"
 url: /portland/matheson/
-shop: shop
+shop: Allgemein
 ---

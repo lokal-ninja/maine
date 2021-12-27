@@ -1,6 +1,6 @@
 ---
 title: Milbridge
 url: /milbridge/
-latitude: 44.535353300000004
-longitude: -67.881173
+latitude: 44.536
+longitude: -67.882
 ---

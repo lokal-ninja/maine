@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /freeport/clarks/
-shop: shoes
+shop: Schuhe
 ---

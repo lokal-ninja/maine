@@ -1,6 +1,6 @@
 ---
 title: Whiting
 url: /whiting/
-latitude: 44.791094
-longitude: -67.175903
+latitude: 44.788
+longitude: -67.183
 ---

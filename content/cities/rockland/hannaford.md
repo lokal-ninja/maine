@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /rockland/hannaford/
-shop: supermarket
+shop: Supermarkt
 ---

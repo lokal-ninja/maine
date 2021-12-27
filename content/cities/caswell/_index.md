@@ -1,6 +1,6 @@
 ---
 title: Caswell
 url: /caswell/
-latitude: 47.0036707
-longitude: -67.85018960000001
+latitude: 47.02
+longitude: -67.807
 ---

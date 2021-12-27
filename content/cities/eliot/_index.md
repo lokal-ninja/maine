@@ -1,6 +1,6 @@
 ---
 title: Eliot
 url: /eliot/
-latitude: 43.153142100000004
-longitude: -70.8000557
+latitude: 43.121
+longitude: -70.762
 ---

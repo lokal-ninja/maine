@@ -1,5 +1,5 @@
 ---
 title: "Patmans"
 url: /windham/patmans/
-shop: alcohol
+shop: Spirituosen
 ---

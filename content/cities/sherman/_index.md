@@ -1,6 +1,6 @@
 ---
 title: Sherman
 url: /sherman/
-latitude: 45.871366
-longitude: -68.418045
+latitude: 45.875
+longitude: -68.416
 ---

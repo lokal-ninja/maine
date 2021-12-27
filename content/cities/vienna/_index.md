@@ -1,6 +1,6 @@
 ---
 title: Vienna
 url: /vienna/
-latitude: 44.533717
-longitude: -69.98497
+latitude: 44.538
+longitude: -69.995
 ---

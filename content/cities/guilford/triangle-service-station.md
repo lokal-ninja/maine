@@ -1,5 +1,5 @@
 ---
 title: "Triangle Service Station"
 url: /guilford/triangle-service-station/
-shop: convenience
+shop: Lebensmittel
 ---

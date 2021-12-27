@@ -1,6 +1,6 @@
 ---
 title: Bath
 url: /bath/
-latitude: 43.910755
-longitude: -69.820862
+latitude: 43.912
+longitude: -69.817
 ---

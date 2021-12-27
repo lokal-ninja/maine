@@ -1,5 +1,5 @@
 ---
 title: "Aubuchon"
 url: /augusta/aubuchon/
-shop: doityourself
+shop: Baumarkt
 ---

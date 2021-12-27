@@ -1,6 +1,6 @@
 ---
 title: South Paris
 url: /south-paris/
-latitude: 44.223681000000006
-longitude: -70.5133929
+latitude: 44.213
+longitude: -70.458
 ---
