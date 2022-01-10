@@ -1,5 +1,5 @@
 ---
 title: "Windham Weaponry"
 url: /windham/windham-weaponry/
-shop: Sport
+shop: sports
 ---

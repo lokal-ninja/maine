@@ -1,5 +1,5 @@
 ---
 title: "487 Nutrition"
 url: /pittsfield/487-nutrition/
-shop: Getränke
+shop: beverages
 ---

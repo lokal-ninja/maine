@@ -1,5 +1,5 @@
 ---
 title: "Edwards Brothers Supermarkets"
 url: /ellsworth/edwards-brothers-supermarkets/
-shop: Supermarkt
+shop: supermarket
 ---

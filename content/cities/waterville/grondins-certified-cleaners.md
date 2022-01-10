@@ -1,5 +1,5 @@
 ---
 title: "Grondins Certified Cleaners"
 url: /waterville/grondins-certified-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

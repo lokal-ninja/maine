@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /dover-foxcroft/carquest/
-shop: Autoteile
+shop: car parts
 ---

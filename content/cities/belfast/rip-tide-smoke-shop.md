@@ -1,5 +1,5 @@
 ---
 title: "Rip Tide Smoke Shop"
 url: /belfast/rip-tide-smoke-shop/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Applebee's Superette"
 url: /greenbush/applebees-superette/
-shop: Allgemein
+shop: shop
 ---

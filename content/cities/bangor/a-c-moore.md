@@ -1,5 +1,5 @@
 ---
 title: "A.C. Moore"
 url: /bangor/a-c-moore/
-shop: Basteln
+shop: craft
 ---

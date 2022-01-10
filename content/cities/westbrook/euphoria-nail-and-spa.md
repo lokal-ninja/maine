@@ -1,5 +1,5 @@
 ---
 title: "Euphoria Nail and Spa"
 url: /westbrook/euphoria-nail-and-spa/
-shop: Kosmetik
+shop: beauty
 ---

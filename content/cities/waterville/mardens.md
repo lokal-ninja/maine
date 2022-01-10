@@ -1,5 +1,5 @@
 ---
 title: "Mardens"
 url: /waterville/mardens/
-shop: Baumarkt
+shop: doityourself
 ---

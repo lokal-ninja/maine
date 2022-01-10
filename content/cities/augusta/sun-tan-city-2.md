@@ -1,5 +1,5 @@
 ---
 title: "Sun Tan City"
 url: /augusta/sun-tan-city-2/
-shop: Allgemein
+shop: shop
 ---

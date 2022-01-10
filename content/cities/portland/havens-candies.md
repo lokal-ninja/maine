@@ -1,5 +1,5 @@
 ---
 title: "Haven's Candies"
 url: /portland/havens-candies/
-shop: Schokolade
+shop: chocolate
 ---

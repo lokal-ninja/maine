@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /bangor/kmart/
-shop: Warenhaus
+shop: department store
 ---

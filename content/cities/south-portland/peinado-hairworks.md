@@ -1,5 +1,5 @@
 ---
 title: "Peinado Hairworks"
 url: /south-portland/peinado-hairworks/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "North Country Auto"
 url: /presque-isle/north-country-auto/
-shop: Autohaus
+shop: car
 ---

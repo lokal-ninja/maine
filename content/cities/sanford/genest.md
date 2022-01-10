@@ -1,5 +1,5 @@
 ---
 title: "Genest"
 url: /sanford/genest/
-shop: Baustoffe
+shop: trade
 ---

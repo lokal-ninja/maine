@@ -1,5 +1,5 @@
 ---
 title: "Hub Furniture"
 url: /westbrook/hub-furniture/
-shop: Möbel
+shop: furniture
 ---

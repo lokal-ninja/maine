@@ -1,5 +1,5 @@
 ---
 title: "Pat's Bike Shop"
 url: /brewer/pats-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

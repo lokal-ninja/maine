@@ -1,5 +1,5 @@
 ---
 title: "Mechanic Falls Auto Supply"
 url: /mechanic-falls/mechanic-falls-auto-supply/
-shop: Autoteile
+shop: car parts
 ---

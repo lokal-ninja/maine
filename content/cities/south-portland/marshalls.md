@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /south-portland/marshalls/
-shop: Warenhaus
+shop: department store
 ---

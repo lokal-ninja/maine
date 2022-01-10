@@ -1,5 +1,5 @@
 ---
 title: "Prompto"
 url: /brewer/prompto/
-shop: Autowerkstatt
+shop: car repair
 ---

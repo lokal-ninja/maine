@@ -1,5 +1,5 @@
 ---
 title: "Anderson's Store"
 url: /stockholm/andersons-store/
-shop: Supermarkt
+shop: supermarket
 ---

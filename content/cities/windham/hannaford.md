@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /windham/hannaford/
-shop: Supermarkt
+shop: supermarket
 ---

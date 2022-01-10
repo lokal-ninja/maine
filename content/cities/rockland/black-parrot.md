@@ -1,5 +1,5 @@
 ---
 title: "Black Parrot"
 url: /rockland/black-parrot/
-shop: Kleidung
+shop: clothes
 ---

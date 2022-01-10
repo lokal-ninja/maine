@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /madawaska/kmart/
-shop: Warenhaus
+shop: department store
 ---

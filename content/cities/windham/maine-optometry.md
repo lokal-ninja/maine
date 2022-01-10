@@ -1,5 +1,5 @@
 ---
 title: "Maine Optometry"
 url: /windham/maine-optometry/
-shop: Optiker
+shop: optician
 ---

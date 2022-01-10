@@ -1,5 +1,5 @@
 ---
 title: "Scissor Excitement"
 url: /hampden/scissor-excitement/
-shop: Friseur
+shop: hairdresser
 ---

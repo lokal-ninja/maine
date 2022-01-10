@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /westbrook/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

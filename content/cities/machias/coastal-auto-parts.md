@@ -1,5 +1,5 @@
 ---
 title: "Coastal Auto Parts"
 url: /machias/coastal-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

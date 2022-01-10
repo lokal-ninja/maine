@@ -1,5 +1,5 @@
 ---
 title: "Frost's Garage Inc"
 url: /hampden/frosts-garage-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

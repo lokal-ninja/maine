@@ -1,5 +1,5 @@
 ---
 title: "Hannaford's"
 url: /millinocket/hannafords/
-shop: Supermarkt
+shop: supermarket
 ---

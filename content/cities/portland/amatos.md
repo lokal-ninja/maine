@@ -1,5 +1,5 @@
 ---
 title: "Amato's"
 url: /portland/amatos/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Shoes"
 url: /waterville/super-shoes/
-shop: Schuhe
+shop: shoes
 ---

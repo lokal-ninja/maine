@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /southwest-harbor/iga/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Big Stop"
 url: /medway/big-stop/
-shop: Lebensmittel
+shop: convenience
 ---

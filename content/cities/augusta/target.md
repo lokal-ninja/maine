@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /augusta/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Primary Auto Sales"
 url: /sabattus/primary-auto-sales/
-shop: Autohaus
+shop: car
 ---

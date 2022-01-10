@@ -1,5 +1,5 @@
 ---
 title: "Reny's"
 url: /bath/renys/
-shop: Warenhaus
+shop: department store
 ---

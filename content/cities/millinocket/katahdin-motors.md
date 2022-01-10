@@ -1,5 +1,5 @@
 ---
 title: "Katahdin Motors"
 url: /millinocket/katahdin-motors/
-shop: Autohaus
+shop: car
 ---

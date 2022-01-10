@@ -1,5 +1,5 @@
 ---
 title: "The Chocolate Shoppe"
 url: /augusta/the-chocolate-shoppe/
-shop: Schokolade
+shop: chocolate
 ---

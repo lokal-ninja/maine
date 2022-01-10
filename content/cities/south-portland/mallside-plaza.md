@@ -1,5 +1,5 @@
 ---
 title: "Mallside Plaza"
 url: /south-portland/mallside-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

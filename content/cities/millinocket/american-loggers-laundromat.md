@@ -1,5 +1,5 @@
 ---
 title: "American Loggers Laundromat"
 url: /millinocket/american-loggers-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

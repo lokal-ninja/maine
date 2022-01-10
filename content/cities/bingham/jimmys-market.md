@@ -1,5 +1,5 @@
 ---
 title: "Jimmy's Market"
 url: /bingham/jimmys-market/
-shop: Supermarkt
+shop: supermarket
 ---

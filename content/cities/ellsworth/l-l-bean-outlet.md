@@ -1,5 +1,5 @@
 ---
 title: "L.L. Bean Outlet"
 url: /ellsworth/l-l-bean-outlet/
-shop: Warenhaus
+shop: department store
 ---

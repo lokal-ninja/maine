@@ -1,5 +1,5 @@
 ---
 title: "SoPo Seafood"
 url: /south-portland/sopo-seafood/
-shop: Fisch
+shop: seafood
 ---

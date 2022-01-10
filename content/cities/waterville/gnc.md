@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /waterville/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

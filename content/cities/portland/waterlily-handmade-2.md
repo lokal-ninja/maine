@@ -1,5 +1,5 @@
 ---
 title: "Waterlily Handmade"
 url: /portland/waterlily-handmade-2/
-shop: Schmuck
+shop: jewelry
 ---

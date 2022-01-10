@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /augusta/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marden's"
 url: /scarborough/mardens/
-shop: Allgemein
+shop: shop
 ---

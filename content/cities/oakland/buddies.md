@@ -1,5 +1,5 @@
 ---
 title: "Buddies"
 url: /oakland/buddies/
-shop: Supermarkt
+shop: supermarket
 ---

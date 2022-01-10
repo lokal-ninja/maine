@@ -1,5 +1,5 @@
 ---
 title: "Cosmo Prof"
 url: /portland/cosmo-prof/
-shop: Kosmetik
+shop: beauty
 ---

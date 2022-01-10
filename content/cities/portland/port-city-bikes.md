@@ -1,5 +1,5 @@
 ---
 title: "Port City Bikes"
 url: /portland/port-city-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

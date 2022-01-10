@@ -1,5 +1,5 @@
 ---
 title: "Town Fair Tire"
 url: /biddeford/town-fair-tire/
-shop: Reifen
+shop: tyres
 ---

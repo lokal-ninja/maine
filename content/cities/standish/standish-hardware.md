@@ -1,5 +1,5 @@
 ---
 title: "Standish Hardware"
 url: /standish/standish-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

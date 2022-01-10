@@ -1,5 +1,5 @@
 ---
 title: "Big Apple"
 url: /augusta/big-apple/
-shop: Lebensmittel
+shop: convenience
 ---

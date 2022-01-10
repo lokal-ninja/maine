@@ -1,5 +1,5 @@
 ---
 title: "Boulder Nordic Sport East"
 url: /portland/boulder-nordic-sport-east/
-shop: Sport
+shop: sports
 ---

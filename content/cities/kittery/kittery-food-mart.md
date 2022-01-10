@@ -1,5 +1,5 @@
 ---
 title: "Kittery Food Mart"
 url: /kittery/kittery-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

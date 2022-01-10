@@ -1,5 +1,5 @@
 ---
 title: "Pleaus"
 url: /waterville/pleaus/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mainly Grains Baker"
 url: /south-portland/mainly-grains-baker/
-shop: Bäckerei
+shop: bakery
 ---

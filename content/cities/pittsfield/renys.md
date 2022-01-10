@@ -1,5 +1,5 @@
 ---
 title: "Reny's"
 url: /pittsfield/renys/
-shop: Warenhaus
+shop: department store
 ---

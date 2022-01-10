@@ -1,5 +1,5 @@
 ---
 title: "Solon Superette"
 url: /solon/solon-superette/
-shop: Lebensmittel
+shop: convenience
 ---

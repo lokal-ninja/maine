@@ -1,5 +1,5 @@
 ---
 title: "Merkaba Sol"
 url: /augusta/merkaba-sol/
-shop: Kramladen
+shop: variety store
 ---

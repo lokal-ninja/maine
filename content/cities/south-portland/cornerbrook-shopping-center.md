@@ -1,5 +1,5 @@
 ---
 title: "Cornerbrook Shopping Center"
 url: /south-portland/cornerbrook-shopping-center/
-shop: Einkaufszentrum
+shop: mall
 ---

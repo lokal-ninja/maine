@@ -1,5 +1,5 @@
 ---
 title: "F.X. Marcotte Furniture"
 url: /lewiston/f-x-marcotte-furniture/
-shop: Möbel
+shop: furniture
 ---

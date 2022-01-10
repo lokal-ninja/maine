@@ -1,5 +1,5 @@
 ---
 title: "Patkus Guitars"
 url: /waterville/patkus-guitars/
-shop: Instrumente
+shop: musical instrument
 ---

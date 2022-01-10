@@ -1,5 +1,5 @@
 ---
 title: "Music Man"
 url: /hampden/music-man/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bedderest"
 url: /auburn/bedderest/
-shop: Betten
+shop: bed
 ---

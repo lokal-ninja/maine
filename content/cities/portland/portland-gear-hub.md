@@ -1,5 +1,5 @@
 ---
 title: "Portland Gear Hub"
 url: /portland/portland-gear-hub/
-shop: Fahrrad
+shop: bicycle
 ---

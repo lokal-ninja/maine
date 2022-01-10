@@ -1,5 +1,5 @@
 ---
 title: "Hannaford Supermarket"
 url: /wells/hannaford-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

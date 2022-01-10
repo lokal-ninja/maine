@@ -1,5 +1,5 @@
 ---
 title: "SuperShoes"
 url: /ellsworth/supershoes/
-shop: Schuhe
+shop: shoes
 ---

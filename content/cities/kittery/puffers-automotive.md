@@ -1,5 +1,5 @@
 ---
 title: "Puffer's Automotive"
 url: /kittery/puffers-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

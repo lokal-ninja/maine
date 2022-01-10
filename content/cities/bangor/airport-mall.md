@@ -1,5 +1,5 @@
 ---
 title: "Airport Mall"
 url: /bangor/airport-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

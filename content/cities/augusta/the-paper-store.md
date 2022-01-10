@@ -1,5 +1,5 @@
 ---
 title: "The Paper Store"
 url: /augusta/the-paper-store/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /fort-fairfield/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

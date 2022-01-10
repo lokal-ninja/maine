@@ -1,5 +1,5 @@
 ---
 title: "Hogan Tire"
 url: /lincoln/hogan-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

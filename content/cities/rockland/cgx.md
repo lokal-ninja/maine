@@ -1,5 +1,5 @@
 ---
 title: "CGX"
 url: /rockland/cgx/
-shop: Warenhaus
+shop: department store
 ---

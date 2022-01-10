@@ -1,5 +1,5 @@
 ---
 title: "Pines Market"
 url: /eustis/pines-market/
-shop: Lebensmittel
+shop: convenience
 ---

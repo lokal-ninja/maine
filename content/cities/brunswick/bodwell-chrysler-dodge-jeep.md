@@ -1,5 +1,5 @@
 ---
 title: "Bodwell Chrysler Dodge Jeep"
 url: /brunswick/bodwell-chrysler-dodge-jeep/
-shop: Autohaus
+shop: car
 ---

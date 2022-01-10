@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /yarmouth/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

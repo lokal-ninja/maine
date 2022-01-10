@@ -1,5 +1,5 @@
 ---
 title: "Bass"
 url: /kittery/bass/
-shop: Kleidung
+shop: clothes
 ---

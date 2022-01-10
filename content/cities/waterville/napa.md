@@ -1,5 +1,5 @@
 ---
 title: "NAPA"
 url: /waterville/napa/
-shop: Autoteile
+shop: car parts
 ---

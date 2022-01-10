@@ -1,5 +1,5 @@
 ---
 title: "Ashland Auto Supply"
 url: /ashland/ashland-auto-supply/
-shop: Autoteile
+shop: car parts
 ---

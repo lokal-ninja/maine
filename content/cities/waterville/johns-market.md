@@ -1,5 +1,5 @@
 ---
 title: "John's Market"
 url: /waterville/johns-market/
-shop: Lebensmittel
+shop: convenience
 ---

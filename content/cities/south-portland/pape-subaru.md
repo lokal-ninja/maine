@@ -1,5 +1,5 @@
 ---
 title: "Pape Subaru"
 url: /south-portland/pape-subaru/
-shop: Autohaus
+shop: car
 ---

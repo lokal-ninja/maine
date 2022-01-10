@@ -1,5 +1,5 @@
 ---
 title: "Harvest Market"
 url: /fort-fairfield/harvest-market/
-shop: Lebensmittel
+shop: convenience
 ---

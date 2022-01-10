@@ -1,5 +1,5 @@
 ---
 title: "Springvale Gulf Express"
 url: /springvale/springvale-gulf-express/
-shop: Lebensmittel
+shop: convenience
 ---

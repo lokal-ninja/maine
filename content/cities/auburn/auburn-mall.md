@@ -1,5 +1,5 @@
 ---
 title: "Auburn Mall"
 url: /auburn/auburn-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Handy's Market"
 url: /yarmouth/handys-market/
-shop: Lebensmittel
+shop: convenience
 ---

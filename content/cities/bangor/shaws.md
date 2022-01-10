@@ -1,5 +1,5 @@
 ---
 title: "Shaw's"
 url: /bangor/shaws/
-shop: Supermarkt
+shop: supermarket
 ---

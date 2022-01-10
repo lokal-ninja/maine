@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /augusta/hannaford/
-shop: Supermarkt
+shop: supermarket
 ---

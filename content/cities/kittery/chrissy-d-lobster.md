@@ -1,5 +1,5 @@
 ---
 title: "Chrissy D Lobster"
 url: /kittery/chrissy-d-lobster/
-shop: Fisch
+shop: seafood
 ---

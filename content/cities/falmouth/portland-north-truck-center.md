@@ -1,5 +1,5 @@
 ---
 title: "Portland North Truck Center"
 url: /falmouth/portland-north-truck-center/
-shop: Autowerkstatt
+shop: car repair
 ---

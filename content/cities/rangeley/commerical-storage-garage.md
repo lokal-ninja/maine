@@ -1,5 +1,5 @@
 ---
 title: "Commerical Storage Garage"
 url: /rangeley/commerical-storage-garage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Laney Pit Stop"
 url: /skowhegan/laney-pit-stop/
-shop: Lebensmittel
+shop: convenience
 ---

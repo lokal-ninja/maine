@@ -1,5 +1,5 @@
 ---
 title: "MIKA"
 url: /augusta/mika/
-shop: Einkaufszentrum
+shop: mall
 ---

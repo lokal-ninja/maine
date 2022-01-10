@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /bangor/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

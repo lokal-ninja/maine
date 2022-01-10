@@ -1,5 +1,5 @@
 ---
 title: "Sullivan Tire"
 url: /windham/sullivan-tire/
-shop: Reifen
+shop: tyres
 ---

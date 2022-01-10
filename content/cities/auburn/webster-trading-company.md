@@ -1,5 +1,5 @@
 ---
 title: "Webster Trading Company"
 url: /auburn/webster-trading-company/
-shop: Leiher
+shop: pawnbroker
 ---

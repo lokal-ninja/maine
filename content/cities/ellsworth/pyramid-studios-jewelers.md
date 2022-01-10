@@ -1,5 +1,5 @@
 ---
 title: "Pyramid Studios, Jewelers"
 url: /ellsworth/pyramid-studios-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

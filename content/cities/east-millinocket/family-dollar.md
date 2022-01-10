@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /east-millinocket/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

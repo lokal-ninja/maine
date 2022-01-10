@@ -1,5 +1,5 @@
 ---
 title: "Lucas Auto Repair"
 url: /harpswell/lucas-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rainbow Bicycles"
 url: /lewiston/rainbow-bicycles/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rob's True Value"
 url: /belfast/robs-true-value/
-shop: Eisenwaren
+shop: hardware
 ---

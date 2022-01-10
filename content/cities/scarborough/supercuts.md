@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /scarborough/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

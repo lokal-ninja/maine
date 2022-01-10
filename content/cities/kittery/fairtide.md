@@ -1,5 +1,5 @@
 ---
 title: "Fairtide"
 url: /kittery/fairtide/
-shop: Gebrauchtwaren
+shop: charity
 ---

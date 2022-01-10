@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /augusta/carquest/
-shop: Autoteile
+shop: car parts
 ---

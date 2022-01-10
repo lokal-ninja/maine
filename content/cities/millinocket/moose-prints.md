@@ -1,5 +1,5 @@
 ---
 title: "Moose Prints"
 url: /millinocket/moose-prints/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /westbrook/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

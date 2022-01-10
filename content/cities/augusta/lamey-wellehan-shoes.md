@@ -1,5 +1,5 @@
 ---
 title: "Lamey Wellehan Shoes"
 url: /augusta/lamey-wellehan-shoes/
-shop: Schuhe
+shop: shoes
 ---

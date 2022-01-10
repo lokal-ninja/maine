@@ -1,5 +1,5 @@
 ---
 title: "Andy's Agway"
 url: /dayton/andys-agway/
-shop: Garten-Center
+shop: garden centre
 ---

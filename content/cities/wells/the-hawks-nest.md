@@ -1,5 +1,5 @@
 ---
 title: "The Hawks Nest"
 url: /wells/the-hawks-nest/
-shop: Lebensmittel
+shop: convenience
 ---

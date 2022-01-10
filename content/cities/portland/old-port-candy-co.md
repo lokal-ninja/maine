@@ -1,5 +1,5 @@
 ---
 title: "Old Port Candy Co."
 url: /portland/old-port-candy-co/
-shop: Schokolade
+shop: chocolate
 ---

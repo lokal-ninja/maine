@@ -1,5 +1,5 @@
 ---
 title: "Tire Warehouse"
 url: /skowhegan/tire-warehouse/
-shop: Reifen
+shop: tyres
 ---
