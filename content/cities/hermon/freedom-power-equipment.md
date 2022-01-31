@@ -1,5 +1,5 @@
 ---
 title: "Freedom Power Equipment"
 url: /hermon/freedom-power-equipment/
-shop: shop
+shop: groundskeeping
 ---
