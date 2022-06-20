@@ -1,6 +1,6 @@
 ---
 title: Kittery
 url: /kittery/
-latitude: 43.111
-longitude: -70.736
+latitude: 43.11
+longitude: -70.737
 ---
