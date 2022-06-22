@@ -1,4 +1,4 @@
-baseURL = "https://us.shoogle.net/maine"
+baseURL = "https://us.shoogle.net/maine/"
 languageCode = "en-US"
 title = "Maine"
 theme = "ln-base"
