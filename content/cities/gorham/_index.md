@@ -1,6 +1,6 @@
 ---
 title: Gorham
 url: /gorham/
-latitude: 43.685
-longitude: -70.386
+latitude: 43.679
+longitude: -70.439
 ---
