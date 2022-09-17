@@ -1,6 +1,6 @@
 ---
 title: Casco
 url: /casco/
-latitude: 44.005
-longitude: -70.522
+latitude: 43.983
+longitude: -70.517
 ---
