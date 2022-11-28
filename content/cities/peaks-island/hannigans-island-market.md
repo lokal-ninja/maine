@@ -1,5 +1,5 @@
 ---
-title: "Hannigans Island Market"
+title: "Hannigan's Island Market"
 url: /peaks-island/hannigans-island-market/
-shop: shop
+shop: convenience
 ---
