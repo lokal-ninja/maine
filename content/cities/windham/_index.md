@@ -1,6 +1,6 @@
 ---
 title: Windham
 url: /windham/
-latitude: 43.79
-longitude: -70.408
+latitude: 43.836
+longitude: -70.444
 ---
