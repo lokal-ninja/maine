@@ -1,6 +1,6 @@
 ---
 title: Brewer
 url: /brewer/
-latitude: 44.798
-longitude: -68.761
+latitude: 44.783
+longitude: -68.754
 ---
