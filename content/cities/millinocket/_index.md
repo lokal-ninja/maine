@@ -1,6 +1,6 @@
 ---
 title: Millinocket
 url: /millinocket/
-latitude: 45.656
-longitude: -68.689
+latitude: 45.657
+longitude: -68.709
 ---
