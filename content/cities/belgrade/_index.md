@@ -1,6 +1,6 @@
 ---
 title: Belgrade
 url: /belgrade/
-latitude: 44.47
-longitude: -69.834
+latitude: 44.468
+longitude: -69.833
 ---
