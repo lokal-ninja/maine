@@ -1,6 +1,6 @@
 ---
 title: Rumford
 url: /rumford/
-latitude: 44.546
-longitude: -70.546
+latitude: 44.52
+longitude: -70.557
 ---
