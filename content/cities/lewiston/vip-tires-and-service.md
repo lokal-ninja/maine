@@ -1,5 +1,5 @@
 ---
-title: "VIP Tires & Service"
+title: "VIP Tires and Service"
 url: /lewiston/vip-tires-and-service/
-shop: car parts
+shop: car repair
 ---
