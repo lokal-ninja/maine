@@ -1,6 +1,6 @@
 ---
 title: Harpswell
 url: /harpswell/
-latitude: 43.788
-longitude: -69.893
+latitude: 43.801
+longitude: -69.896
 ---
