@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
-url: /portland/hannaford/
+url: /portland/hannaford-riverside-street/
 shop: supermarket
 ---

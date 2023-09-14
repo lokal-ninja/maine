@@ -1,5 +1,5 @@
 ---
 title: "Shaw's"
-url: /augusta/shaws/
+url: /augusta/shaws-western-avenue/
 shop: supermarket
 ---

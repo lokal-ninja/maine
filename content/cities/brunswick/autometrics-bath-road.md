@@ -1,5 +1,5 @@
 ---
 title: "Autometrics"
-url: /brunswick/autometrics/
+url: /brunswick/autometrics-bath-road/
 shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Big Apple"
-url: /augusta/big-apple/
+url: /augusta/big-apple-civic-center-drive/
 shop: convenience
 ---

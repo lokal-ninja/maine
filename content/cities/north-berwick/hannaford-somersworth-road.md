@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
-url: /north-berwick/hannaford/
+url: /north-berwick/hannaford-somersworth-road/
 shop: supermarket
 ---
