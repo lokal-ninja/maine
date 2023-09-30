@@ -1,6 +1,6 @@
 ---
 title: Kingfield
 url: /kingfield/
-latitude: 44.959
-longitude: -70.155
+latitude: 44.968
+longitude: -70.164
 ---
