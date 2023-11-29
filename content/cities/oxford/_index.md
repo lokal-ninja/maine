@@ -1,6 +1,6 @@
 ---
 title: Oxford
 url: /oxford/
-latitude: 44.135
-longitude: -70.466
+latitude: 44.193
+longitude: -70.526
 ---

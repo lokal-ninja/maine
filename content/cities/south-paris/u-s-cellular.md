@@ -1,5 +1,5 @@
 ---
 title: "U.S. Cellular"
-url: /augusta/u-s-cellular-senator-way/
+url: /south-paris/u-s-cellular/
 shop: mobile phone
 ---
