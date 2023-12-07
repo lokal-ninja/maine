@@ -1,5 +1,5 @@
 ---
 title: "Marden's"
 url: /lewiston/mardens/
-shop: variety store
+shop: department store
 ---

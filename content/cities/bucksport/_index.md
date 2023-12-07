@@ -1,6 +1,6 @@
 ---
 title: Bucksport
 url: /bucksport/
-latitude: 44.57
-longitude: -68.785
+latitude: 44.572
+longitude: -68.786
 ---
