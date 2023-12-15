@@ -1,6 +1,6 @@
 ---
 title: Castine
 url: /castine/
-latitude: 44.388
-longitude: -68.796
+latitude: 44.392
+longitude: -68.803
 ---
