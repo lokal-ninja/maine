@@ -1,6 +1,6 @@
 ---
 title: Bridgton
 url: /bridgton/
-latitude: 44.054
-longitude: -70.7
+latitude: 44.053
+longitude: -70.702
 ---
