@@ -1,6 +1,6 @@
 ---
 title: Cornish
 url: /cornish/
-latitude: 43.806
-longitude: -70.813
+latitude: 43.803
+longitude: -70.822
 ---
