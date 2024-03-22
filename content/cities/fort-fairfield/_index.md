@@ -1,6 +1,6 @@
 ---
 title: Fort Fairfield
 url: /fort-fairfield/
-latitude: 46.771
-longitude: -67.829
+latitude: 46.772
+longitude: -67.834
 ---
