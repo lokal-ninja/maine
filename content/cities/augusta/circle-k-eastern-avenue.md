@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /augusta/circle-k-western-avenue/
+url: /augusta/circle-k-eastern-avenue/
 shop: convenience
 ---
