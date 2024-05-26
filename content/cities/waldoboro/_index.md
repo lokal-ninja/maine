@@ -1,6 +1,6 @@
 ---
 title: Waldoboro
 url: /waldoboro/
-latitude: 44.101
-longitude: -69.385
+latitude: 44.096
+longitude: -69.376
 ---
