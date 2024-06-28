@@ -1,6 +1,6 @@
 ---
 title: Farmington
 url: /farmington/
-latitude: 44.67
+latitude: 44.644
 longitude: -70.152
 ---
