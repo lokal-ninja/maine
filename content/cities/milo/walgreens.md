@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /milo/walgreens/
-shop: chemist
+shop: Drogerie
 ---

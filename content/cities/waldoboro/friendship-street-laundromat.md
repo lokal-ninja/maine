@@ -1,5 +1,5 @@
 ---
 title: "Friendship Street Laundromat"
 url: /waldoboro/friendship-street-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

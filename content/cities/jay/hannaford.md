@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /jay/hannaford/
-shop: supermarket
+shop: Supermarkt
 ---

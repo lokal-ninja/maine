@@ -1,5 +1,5 @@
 ---
 title: "Greenfellows"
 url: /manchester/greenfellows/
-shop: garden centre
+shop: Garten-Center
 ---

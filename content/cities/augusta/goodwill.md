@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /augusta/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

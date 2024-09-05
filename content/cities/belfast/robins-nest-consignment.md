@@ -1,5 +1,5 @@
 ---
 title: "Robin's Nest Consignment"
 url: /belfast/robins-nest-consignment/
-shop: furniture
+shop: Möbel
 ---

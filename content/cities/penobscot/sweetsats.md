@@ -1,5 +1,5 @@
 ---
 title: "SweetSats"
 url: /penobscot/sweetsats/
-shop: apiary
+shop: Imkerei
 ---

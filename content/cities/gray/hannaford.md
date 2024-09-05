@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /gray/hannaford/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /brewer/valero/
-shop: convenience
+shop: Lebensmittel
 ---

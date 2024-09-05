@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /biddeford/petsmart/
-shop: pet
+shop: Tiere
 ---

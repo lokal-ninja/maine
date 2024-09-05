@@ -1,5 +1,5 @@
 ---
 title: "Pauline's Bloomers"
 url: /brunswick/paulines-bloomers/
-shop: florist
+shop: Blumen
 ---

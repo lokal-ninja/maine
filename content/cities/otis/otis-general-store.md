@@ -1,5 +1,5 @@
 ---
 title: "Otis General Store"
 url: /otis/otis-general-store/
-shop: general
+shop: Dorfladen
 ---

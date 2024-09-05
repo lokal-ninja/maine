@@ -1,5 +1,5 @@
 ---
 title: "PortFiber"
 url: /portland/portfiber/
-shop: craft
+shop: Basteln
 ---

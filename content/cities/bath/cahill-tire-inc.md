@@ -1,5 +1,5 @@
 ---
 title: "Cahill Tire Inc."
 url: /bath/cahill-tire-inc/
-shop: tyres
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /scarborough/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

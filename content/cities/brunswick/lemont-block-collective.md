@@ -1,5 +1,5 @@
 ---
 title: "Lemont Block Collective"
 url: /brunswick/lemont-block-collective/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maine Printer Supply"
 url: /scarborough/maine-printer-supply/
-shop: copyshop
+shop: Kopieren
 ---

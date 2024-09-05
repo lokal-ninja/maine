@@ -1,5 +1,5 @@
 ---
 title: "Gerry's Used Cars"
 url: /veazie/gerrys-used-cars/
-shop: car
+shop: Autohaus
 ---

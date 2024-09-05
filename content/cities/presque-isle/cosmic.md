@@ -1,5 +1,5 @@
 ---
 title: "Cosmic"
 url: /presque-isle/cosmic/
-shop: clothes
+shop: Kleidung
 ---

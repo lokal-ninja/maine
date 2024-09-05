@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /palmyra/autozone/
-shop: car parts
+shop: Autoteile
 ---

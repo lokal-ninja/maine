@@ -1,5 +1,5 @@
 ---
 title: "Elements"
 url: /biddeford/elements/
-shop: books
+shop: Bücher
 ---

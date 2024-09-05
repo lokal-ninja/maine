@@ -1,5 +1,5 @@
 ---
 title: "Cumberland Farms"
 url: /north-berwick/cumberland-farms/
-shop: convenience
+shop: Lebensmittel
 ---

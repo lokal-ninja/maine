@@ -1,5 +1,5 @@
 ---
 title: "Creaser Jewelers"
 url: /south-paris/creaser-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

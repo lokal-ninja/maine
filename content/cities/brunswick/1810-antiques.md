@@ -1,5 +1,5 @@
 ---
 title: "1810 Antiques"
 url: /brunswick/1810-antiques/
-shop: antiques
+shop: Antiquitäten
 ---

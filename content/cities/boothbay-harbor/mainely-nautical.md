@@ -1,5 +1,5 @@
 ---
 title: "Mainely Nautical"
 url: /boothbay-harbor/mainely-nautical/
-shop: bag
+shop: Taschen & Koffer
 ---

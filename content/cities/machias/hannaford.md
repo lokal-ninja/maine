@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /machias/hannaford/
-shop: supermarket
+shop: Supermarkt
 ---

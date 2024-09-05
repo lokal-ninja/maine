@@ -1,5 +1,5 @@
 ---
 title: "Millinocket Floral Shop"
 url: /millinocket/millinocket-floral-shop/
-shop: florist
+shop: Blumen
 ---

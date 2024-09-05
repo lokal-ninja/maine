@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /east-waterboro/hannaford/
-shop: supermarket
+shop: Supermarkt
 ---

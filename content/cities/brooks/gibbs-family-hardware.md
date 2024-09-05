@@ -1,5 +1,5 @@
 ---
 title: "Gibbs Family Hardware"
 url: /brooks/gibbs-family-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

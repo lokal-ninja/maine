@@ -1,5 +1,5 @@
 ---
 title: "Kamala Boutique"
 url: /edgecomb/kamala-boutique/
-shop: clothes
+shop: Kleidung
 ---

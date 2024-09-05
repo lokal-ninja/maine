@@ -1,5 +1,5 @@
 ---
 title: "Sea Bags"
 url: /boothbay-harbor/sea-bags/
-shop: bag
+shop: Taschen & Koffer
 ---

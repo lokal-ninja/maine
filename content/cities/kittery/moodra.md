@@ -1,5 +1,5 @@
 ---
 title: "Moodra"
 url: /kittery/moodra/
-shop: hairdresser
+shop: Friseur
 ---

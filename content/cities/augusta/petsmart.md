@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /augusta/petsmart/
-shop: pet
+shop: Tiere
 ---

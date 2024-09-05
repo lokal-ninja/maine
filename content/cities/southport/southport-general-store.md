@@ -1,5 +1,5 @@
 ---
 title: "Southport General Store"
 url: /southport/southport-general-store/
-shop: general
+shop: Dorfladen
 ---

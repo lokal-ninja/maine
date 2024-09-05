@@ -1,5 +1,5 @@
 ---
 title: "Broadcove Market"
 url: /cushing/broadcove-market/
-shop: convenience
+shop: Lebensmittel
 ---

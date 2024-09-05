@@ -1,5 +1,5 @@
 ---
 title: "Wears Bonnie"
 url: /sanford/wears-bonnie/
-shop: clothes
+shop: Kleidung
 ---

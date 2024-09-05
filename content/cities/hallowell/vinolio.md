@@ -1,5 +1,5 @@
 ---
 title: "vinolio"
 url: /hallowell/vinolio/
-shop: wine
+shop: Wein
 ---

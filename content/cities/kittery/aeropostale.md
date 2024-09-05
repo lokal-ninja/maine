@@ -1,5 +1,5 @@
 ---
 title: "Aeropostale"
 url: /kittery/aeropostale/
-shop: clothes
+shop: Kleidung
 ---

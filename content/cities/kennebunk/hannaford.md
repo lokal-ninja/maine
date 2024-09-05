@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /kennebunk/hannaford/
-shop: supermarket
+shop: Supermarkt
 ---

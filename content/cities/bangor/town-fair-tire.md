@@ -1,5 +1,5 @@
 ---
 title: "Town Fair Tire"
 url: /bangor/town-fair-tire/
-shop: tyres
+shop: Reifen
 ---

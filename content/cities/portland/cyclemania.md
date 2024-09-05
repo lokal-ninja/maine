@@ -1,5 +1,5 @@
 ---
 title: "CycleMania"
 url: /portland/cyclemania/
-shop: bicycle
+shop: Fahrrad
 ---

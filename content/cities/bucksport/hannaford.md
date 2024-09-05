@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /bucksport/hannaford/
-shop: supermarket
+shop: Supermarkt
 ---

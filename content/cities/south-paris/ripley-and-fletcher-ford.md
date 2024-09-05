@@ -1,5 +1,5 @@
 ---
 title: "Ripley and Fletcher Ford"
 url: /south-paris/ripley-and-fletcher-ford/
-shop: car
+shop: Autohaus
 ---

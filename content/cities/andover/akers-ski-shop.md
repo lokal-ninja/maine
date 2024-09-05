@@ -1,5 +1,5 @@
 ---
 title: "Akers Ski Shop"
 url: /andover/akers-ski-shop/
-shop: sports
+shop: Sport
 ---

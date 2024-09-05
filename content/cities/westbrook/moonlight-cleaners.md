@@ -1,5 +1,5 @@
 ---
 title: "Moonlight Cleaners"
 url: /westbrook/moonlight-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

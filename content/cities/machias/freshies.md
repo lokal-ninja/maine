@@ -1,5 +1,5 @@
 ---
 title: "Freshies"
 url: /machias/freshies/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /westbrook/rei/
-shop: outdoor
+shop: Outdoor
 ---

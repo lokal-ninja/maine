@@ -1,5 +1,5 @@
 ---
 title: "Jandreau's Greenhouse"
 url: /millinocket/jandreaus-greenhouse/
-shop: garden centre
+shop: Garten-Center
 ---

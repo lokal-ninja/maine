@@ -1,5 +1,5 @@
 ---
 title: "Play It Again Sports"
 url: /portland/play-it-again-sports/
-shop: sports
+shop: Sport
 ---

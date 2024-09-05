@@ -1,5 +1,5 @@
 ---
 title: "Sullivan Tire and Auto Service"
 url: /lewiston/sullivan-tire-and-auto-service/
-shop: car repair
+shop: Autowerkstatt
 ---

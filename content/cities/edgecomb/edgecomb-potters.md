@@ -1,5 +1,5 @@
 ---
 title: "Edgecomb Potters"
 url: /edgecomb/edgecomb-potters/
-shop: pottery
+shop: Töpferei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Cleaning Center"
 url: /south-paris/the-cleaning-center/
-shop: laundry
+shop: Wäscherei
 ---

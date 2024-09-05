@@ -1,5 +1,5 @@
 ---
 title: "Moulinette"
 url: /wiscasset/moulinette/
-shop: gift
+shop: Andenken
 ---

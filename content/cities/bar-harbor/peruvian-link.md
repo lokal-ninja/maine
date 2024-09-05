@@ -1,5 +1,5 @@
 ---
 title: "Peruvian Link"
 url: /bar-harbor/peruvian-link/
-shop: clothes
+shop: Kleidung
 ---

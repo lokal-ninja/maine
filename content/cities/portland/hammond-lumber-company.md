@@ -1,5 +1,5 @@
 ---
 title: "Hammond Lumber Company"
 url: /portland/hammond-lumber-company/
-shop: hardware
+shop: Eisenwaren
 ---

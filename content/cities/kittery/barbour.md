@@ -1,5 +1,5 @@
 ---
 title: "Barbour"
 url: /kittery/barbour/
-shop: clothes
+shop: Kleidung
 ---

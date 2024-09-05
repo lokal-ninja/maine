@@ -1,5 +1,5 @@
 ---
 title: "Sheepscot General Store and Farm"
 url: /whitefield/sheepscot-general-store-and-farm/
-shop: shop
+shop: Allgemein
 ---

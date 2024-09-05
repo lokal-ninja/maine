@@ -1,5 +1,5 @@
 ---
 title: "Den's Automotive Services, Inc"
 url: /fryeburg/dens-automotive-services-inc/
-shop: car repair
+shop: Autowerkstatt
 ---

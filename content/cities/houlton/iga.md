@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /houlton/iga/
-shop: supermarket
+shop: Supermarkt
 ---
