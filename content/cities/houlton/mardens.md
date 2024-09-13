@@ -1,5 +1,5 @@
 ---
 title: "Marden's"
 url: /houlton/mardens/
-shop: Kramladen
+shop: variety store
 ---

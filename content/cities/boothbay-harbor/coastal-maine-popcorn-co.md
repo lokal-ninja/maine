@@ -1,5 +1,5 @@
 ---
 title: "Coastal Maine Popcorn Co."
 url: /boothbay-harbor/coastal-maine-popcorn-co/
-shop: Süßwaren
+shop: confectionery
 ---

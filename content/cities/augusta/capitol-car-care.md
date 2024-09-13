@@ -1,5 +1,5 @@
 ---
 title: "Capitol Car Care"
 url: /augusta/capitol-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Richardson's Hardware"
 url: /patten/richardsons-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

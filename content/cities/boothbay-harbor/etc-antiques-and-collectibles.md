@@ -1,5 +1,5 @@
 ---
 title: "ETC. Antiques and Collectibles"
 url: /boothbay-harbor/etc-antiques-and-collectibles/
-shop: Antiquitäten
+shop: antiques
 ---

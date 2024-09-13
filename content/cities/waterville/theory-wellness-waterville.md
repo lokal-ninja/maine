@@ -1,5 +1,5 @@
 ---
 title: "Theory Wellness - Waterville"
 url: /waterville/theory-wellness-waterville/
-shop: Allgemein
+shop: shop
 ---

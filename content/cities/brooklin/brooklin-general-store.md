@@ -1,5 +1,5 @@
 ---
 title: "Brooklin General Store"
 url: /brooklin/brooklin-general-store/
-shop: Lebensmittel
+shop: convenience
 ---

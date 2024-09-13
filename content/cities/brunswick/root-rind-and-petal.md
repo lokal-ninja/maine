@@ -1,5 +1,5 @@
 ---
 title: "Root, Rind and Petal"
 url: /brunswick/root-rind-and-petal/
-shop: Bioladen
+shop: health food
 ---

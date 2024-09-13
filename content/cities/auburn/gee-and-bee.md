@@ -1,5 +1,5 @@
 ---
 title: "Gee and Bee"
 url: /auburn/gee-and-bee/
-shop: Sport
+shop: sports
 ---

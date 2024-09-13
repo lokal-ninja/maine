@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /augusta/gamestop/
-shop: Videospiele
+shop: video games
 ---

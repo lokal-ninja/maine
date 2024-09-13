@@ -1,5 +1,5 @@
 ---
 title: "Zumiez"
 url: /kittery/zumiez/
-shop: Kleidung
+shop: clothes
 ---

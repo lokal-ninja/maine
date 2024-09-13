@@ -1,5 +1,5 @@
 ---
 title: "Albertson Automotive"
 url: /canaan/albertson-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

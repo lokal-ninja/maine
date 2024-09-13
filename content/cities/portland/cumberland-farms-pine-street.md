@@ -1,5 +1,5 @@
 ---
 title: "Cumberland Farms"
 url: /portland/cumberland-farms-pine-street/
-shop: Lebensmittel
+shop: convenience
 ---

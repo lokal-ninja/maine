@@ -1,5 +1,5 @@
 ---
 title: "Bar Harbor Bicycle Shop"
 url: /bar-harbor/bar-harbor-bicycle-shop/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sperry"
 url: /kittery/sperry/
-shop: Schuhe
+shop: shoes
 ---

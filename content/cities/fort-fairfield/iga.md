@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /fort-fairfield/iga/
-shop: Supermarkt
+shop: supermarket
 ---

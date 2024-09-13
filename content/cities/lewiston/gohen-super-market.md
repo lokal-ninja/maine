@@ -1,5 +1,5 @@
 ---
 title: "Gohen Super Market"
 url: /lewiston/gohen-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

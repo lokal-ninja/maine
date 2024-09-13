@@ -1,5 +1,5 @@
 ---
 title: "Pinkham's Gourmet Market"
 url: /boothbay-harbor/pinkhams-gourmet-market/
-shop: Supermarkt
+shop: supermarket
 ---

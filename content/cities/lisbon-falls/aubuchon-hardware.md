@@ -1,5 +1,5 @@
 ---
 title: "Aubuchon Hardware"
 url: /lisbon-falls/aubuchon-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

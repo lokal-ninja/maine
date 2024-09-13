@@ -1,5 +1,5 @@
 ---
 title: "Sanford Radiator"
 url: /waterboro/sanford-radiator/
-shop: Autowerkstatt
+shop: car repair
 ---

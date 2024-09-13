@@ -1,5 +1,5 @@
 ---
 title: "Jetport Plaza"
 url: /south-portland/jetport-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

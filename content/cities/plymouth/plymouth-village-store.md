@@ -1,5 +1,5 @@
 ---
 title: "Plymouth Village Store"
 url: /plymouth/plymouth-village-store/
-shop: Lebensmittel
+shop: convenience
 ---

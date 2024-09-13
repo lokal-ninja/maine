@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /biddeford/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

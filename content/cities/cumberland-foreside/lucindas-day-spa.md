@@ -1,5 +1,5 @@
 ---
 title: "Lucinda's Day Spa"
 url: /cumberland-foreside/lucindas-day-spa/
-shop: Kosmetik
+shop: beauty
 ---

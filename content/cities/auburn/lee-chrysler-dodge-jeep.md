@@ -1,5 +1,5 @@
 ---
 title: "Lee Chrysler Dodge Jeep"
 url: /auburn/lee-chrysler-dodge-jeep/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /standish/hannaford/
-shop: Supermarkt
+shop: supermarket
 ---

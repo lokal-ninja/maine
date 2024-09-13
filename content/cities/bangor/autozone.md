@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /bangor/autozone/
-shop: Autoteile
+shop: car parts
 ---

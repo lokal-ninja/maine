@@ -1,5 +1,5 @@
 ---
 title: "Brownfield Country Market"
 url: /brownfield/brownfield-country-market/
-shop: Supermarkt
+shop: supermarket
 ---

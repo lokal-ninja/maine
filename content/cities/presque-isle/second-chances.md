@@ -1,5 +1,5 @@
 ---
 title: "Second Chances"
 url: /presque-isle/second-chances/
-shop: Gebrauchtwaren
+shop: charity
 ---

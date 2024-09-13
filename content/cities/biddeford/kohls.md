@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /biddeford/kohls/
-shop: Warenhaus
+shop: department store
 ---

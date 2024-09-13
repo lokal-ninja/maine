@@ -1,5 +1,5 @@
 ---
 title: "Food City"
 url: /bridgton/food-city/
-shop: Supermarkt
+shop: supermarket
 ---

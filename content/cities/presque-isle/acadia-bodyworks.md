@@ -1,5 +1,5 @@
 ---
 title: "Acadia Bodyworks"
 url: /presque-isle/acadia-bodyworks/
-shop: Massage
+shop: massage
 ---

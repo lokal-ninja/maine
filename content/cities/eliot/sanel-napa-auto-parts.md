@@ -1,5 +1,5 @@
 ---
 title: "Sanel NAPA Auto Parts"
 url: /eliot/sanel-napa-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

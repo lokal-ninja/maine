@@ -1,5 +1,5 @@
 ---
 title: "L/A Radiator Shop"
 url: /auburn/l-a-radiator-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Through the Garden Gate"
 url: /corinna/through-the-garden-gate/
-shop: Garten-Center
+shop: garden centre
 ---

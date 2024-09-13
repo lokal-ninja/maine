@@ -1,5 +1,5 @@
 ---
 title: "Bow Street Market"
 url: /freeport/bow-street-market/
-shop: Supermarkt
+shop: supermarket
 ---

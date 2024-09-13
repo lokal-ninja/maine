@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /south-portland/burlington/
-shop: Warenhaus
+shop: department store
 ---

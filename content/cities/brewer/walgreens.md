@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /brewer/walgreens/
-shop: Drogerie
+shop: chemist
 ---

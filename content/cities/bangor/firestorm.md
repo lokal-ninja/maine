@@ -1,5 +1,5 @@
 ---
 title: "FIRESTORM"
 url: /bangor/firestorm/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Berlin City Nissan"
 url: /south-portland/berlin-city-nissan/
-shop: Autohaus
+shop: car
 ---

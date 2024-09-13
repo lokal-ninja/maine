@@ -1,5 +1,5 @@
 ---
 title: "Sullivan Tire"
 url: /scarborough/sullivan-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

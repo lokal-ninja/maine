@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /kittery/gap/
-shop: Kleidung
+shop: clothes
 ---

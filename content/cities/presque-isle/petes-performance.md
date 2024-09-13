@@ -1,5 +1,5 @@
 ---
 title: "Pete's Performance"
 url: /presque-isle/petes-performance/
-shop: Autowerkstatt
+shop: car repair
 ---

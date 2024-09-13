@@ -1,5 +1,5 @@
 ---
 title: "Aura Hair Design"
 url: /boothbay-harbor/aura-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

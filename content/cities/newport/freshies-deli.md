@@ -1,5 +1,5 @@
 ---
 title: "Freshies Deli"
 url: /newport/freshies-deli/
-shop: Lebensmittel
+shop: convenience
 ---

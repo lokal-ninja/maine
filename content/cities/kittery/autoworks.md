@@ -1,5 +1,5 @@
 ---
 title: "Autoworks"
 url: /kittery/autoworks/
-shop: Autowerkstatt
+shop: car repair
 ---

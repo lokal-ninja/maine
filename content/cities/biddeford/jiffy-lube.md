@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /biddeford/jiffy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

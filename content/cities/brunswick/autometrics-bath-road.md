@@ -1,5 +1,5 @@
 ---
 title: "Autometrics"
 url: /brunswick/autometrics-bath-road/
-shop: Autowerkstatt
+shop: car repair
 ---

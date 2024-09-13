@@ -1,5 +1,5 @@
 ---
 title: "Eliot Automotive"
 url: /eliot/eliot-automotive/
-shop: Autohaus
+shop: car
 ---

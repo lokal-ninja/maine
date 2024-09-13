@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /augusta/supercuts-stephen-king-drive/
-shop: Friseur
+shop: hairdresser
 ---

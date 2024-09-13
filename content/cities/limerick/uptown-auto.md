@@ -1,5 +1,5 @@
 ---
 title: "Uptown Auto"
 url: /limerick/uptown-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

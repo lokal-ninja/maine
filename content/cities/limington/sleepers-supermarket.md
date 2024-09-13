@@ -1,5 +1,5 @@
 ---
 title: "Sleepers supermarket"
 url: /limington/sleepers-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

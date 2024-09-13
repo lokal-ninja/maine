@@ -1,5 +1,5 @@
 ---
 title: "Yarrow"
 url: /kittery/yarrow/
-shop: Kramladen
+shop: variety store
 ---

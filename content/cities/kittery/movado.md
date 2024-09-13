@@ -1,5 +1,5 @@
 ---
 title: "Movado"
 url: /kittery/movado/
-shop: Uhren
+shop: watches
 ---

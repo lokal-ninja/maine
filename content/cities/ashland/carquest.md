@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /ashland/carquest/
-shop: Autoteile
+shop: car parts
 ---

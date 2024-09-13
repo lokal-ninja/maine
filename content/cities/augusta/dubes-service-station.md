@@ -1,5 +1,5 @@
 ---
 title: "Dube's Service Station"
 url: /augusta/dubes-service-station/
-shop: Autowerkstatt
+shop: car repair
 ---

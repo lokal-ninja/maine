@@ -1,5 +1,5 @@
 ---
 title: "Label Shopper"
 url: /oxford/label-shopper/
-shop: Kleidung
+shop: clothes
 ---

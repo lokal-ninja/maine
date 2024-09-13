@@ -1,5 +1,5 @@
 ---
 title: "Import Auto Body"
 url: /kittery/import-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

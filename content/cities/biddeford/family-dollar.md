@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /biddeford/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

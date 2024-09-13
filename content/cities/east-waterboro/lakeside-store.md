@@ -1,5 +1,5 @@
 ---
 title: "Lakeside Store"
 url: /east-waterboro/lakeside-store/
-shop: Kramladen
+shop: variety store
 ---

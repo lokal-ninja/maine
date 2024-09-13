@@ -1,5 +1,5 @@
 ---
 title: "Karens Flower Emporium"
 url: /gray/karens-flower-emporium/
-shop: Blumen
+shop: florist
 ---

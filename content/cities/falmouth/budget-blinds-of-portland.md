@@ -1,5 +1,5 @@
 ---
 title: "Budget Blinds of Portland"
 url: /falmouth/budget-blinds-of-portland/
-shop: Jalousien
+shop: window blind
 ---

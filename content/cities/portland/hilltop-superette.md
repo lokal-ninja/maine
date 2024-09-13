@@ -1,5 +1,5 @@
 ---
 title: "Hilltop Superette"
 url: /portland/hilltop-superette/
-shop: Lebensmittel
+shop: convenience
 ---

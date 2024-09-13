@@ -1,5 +1,5 @@
 ---
 title: "Terry's Uniques"
 url: /andover/terrys-uniques/
-shop: Andenken
+shop: gift
 ---

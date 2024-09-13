@@ -1,5 +1,5 @@
 ---
 title: "Big Apple"
 url: /auburn/big-apple/
-shop: Lebensmittel
+shop: convenience
 ---

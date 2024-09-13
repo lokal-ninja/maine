@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /waterville/gamestop/
-shop: Videospiele
+shop: video games
 ---

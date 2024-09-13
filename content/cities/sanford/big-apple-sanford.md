@@ -1,5 +1,5 @@
 ---
 title: "Big Apple Sanford"
 url: /sanford/big-apple-sanford/
-shop: Lebensmittel
+shop: convenience
 ---

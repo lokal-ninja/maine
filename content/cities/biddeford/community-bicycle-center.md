@@ -1,5 +1,5 @@
 ---
 title: "Community Bicycle Center"
 url: /biddeford/community-bicycle-center/
-shop: Fahrrad
+shop: bicycle
 ---

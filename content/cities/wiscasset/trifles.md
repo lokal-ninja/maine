@@ -1,5 +1,5 @@
 ---
 title: "Trifles"
 url: /wiscasset/trifles/
-shop: Antiquitäten
+shop: antiques
 ---

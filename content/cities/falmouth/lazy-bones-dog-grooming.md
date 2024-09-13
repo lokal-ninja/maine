@@ -1,5 +1,5 @@
 ---
 title: "Lazy Bones Dog Grooming"
 url: /falmouth/lazy-bones-dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

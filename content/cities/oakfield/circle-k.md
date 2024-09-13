@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /oakfield/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

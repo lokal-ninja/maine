@@ -1,5 +1,5 @@
 ---
 title: "Catholic Charities"
 url: /presque-isle/catholic-charities/
-shop: Gebrauchtwaren
+shop: charity
 ---

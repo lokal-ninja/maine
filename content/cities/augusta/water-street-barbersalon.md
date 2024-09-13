@@ -1,5 +1,5 @@
 ---
 title: "Water Street Barbersalon"
 url: /augusta/water-street-barbersalon/
-shop: Friseur
+shop: hairdresser
 ---

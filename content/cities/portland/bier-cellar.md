@@ -1,5 +1,5 @@
 ---
 title: "Bier Cellar"
 url: /portland/bier-cellar/
-shop: Spirituosen
+shop: alcohol
 ---

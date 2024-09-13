@@ -1,5 +1,5 @@
 ---
 title: "Merrymeeting Plaza"
 url: /brunswick/merrymeeting-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

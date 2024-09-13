@@ -1,5 +1,5 @@
 ---
 title: "Andy's Auto Detailing"
 url: /sanford/andys-auto-detailing/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rosemont Bakery"
 url: /portland/rosemont-bakery/
-shop: Allgemein
+shop: shop
 ---

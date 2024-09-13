@@ -1,5 +1,5 @@
 ---
 title: "New Balance"
 url: /kittery/new-balance/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hallow Point Tattoo"
 url: /fryeburg/hallow-point-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

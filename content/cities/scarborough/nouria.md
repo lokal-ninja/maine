@@ -1,5 +1,5 @@
 ---
 title: "Nouria"
 url: /scarborough/nouria/
-shop: Lebensmittel
+shop: convenience
 ---

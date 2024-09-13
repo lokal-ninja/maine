@@ -1,5 +1,5 @@
 ---
 title: "Bolz's Service"
 url: /kittery/bolzs-service/
-shop: Autowerkstatt
+shop: car repair
 ---

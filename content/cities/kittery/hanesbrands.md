@@ -1,5 +1,5 @@
 ---
 title: "Hanesbrands"
 url: /kittery/hanesbrands/
-shop: Kleidung
+shop: clothes
 ---

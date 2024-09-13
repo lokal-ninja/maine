@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /rangeley/iga/
-shop: Supermarkt
+shop: supermarket
 ---

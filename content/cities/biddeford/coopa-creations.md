@@ -1,5 +1,5 @@
 ---
 title: "Coopa Creations"
 url: /biddeford/coopa-creations/
-shop: Tattoo
+shop: tattoo
 ---

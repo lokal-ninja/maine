@@ -1,5 +1,5 @@
 ---
 title: "Andover Auto Shop"
 url: /andover/andover-auto-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

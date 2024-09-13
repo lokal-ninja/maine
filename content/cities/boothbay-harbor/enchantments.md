@@ -1,5 +1,5 @@
 ---
 title: "Enchantments"
 url: /boothbay-harbor/enchantments/
-shop: Andenken
+shop: gift
 ---

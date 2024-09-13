@@ -1,5 +1,5 @@
 ---
 title: "TidePools"
 url: /boothbay-harbor/tidepools/
-shop: Andenken
+shop: gift
 ---

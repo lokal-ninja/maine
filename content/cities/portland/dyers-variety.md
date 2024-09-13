@@ -1,5 +1,5 @@
 ---
 title: "Dyer's Variety"
 url: /portland/dyers-variety/
-shop: Lebensmittel
+shop: convenience
 ---

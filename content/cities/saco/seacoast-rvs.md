@@ -1,5 +1,5 @@
 ---
 title: "Seacoast RVs"
 url: /saco/seacoast-rvs/
-shop: Wohnwagen
+shop: caravan
 ---

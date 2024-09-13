@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /scarborough/michaels/
-shop: Basteln
+shop: craft
 ---

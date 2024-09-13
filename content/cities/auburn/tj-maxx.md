@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /auburn/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

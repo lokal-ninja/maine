@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /norway/walgreens/
-shop: Drogerie
+shop: chemist
 ---

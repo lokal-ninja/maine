@@ -1,5 +1,5 @@
 ---
 title: "Ellis Family Market"
 url: /patten/ellis-family-market/
-shop: Supermarkt
+shop: supermarket
 ---

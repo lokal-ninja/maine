@@ -1,5 +1,5 @@
 ---
 title: "Sherman's"
 url: /rockland/shermans/
-shop: Bücher
+shop: books
 ---

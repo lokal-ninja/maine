@@ -1,5 +1,5 @@
 ---
 title: "Loyal Biscuit Co,"
 url: /rockland/loyal-biscuit-co/
-shop: Tiere
+shop: pet
 ---

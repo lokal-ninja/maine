@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /bangor/dollar-tree-union-street/
-shop: Kramladen
+shop: variety store
 ---

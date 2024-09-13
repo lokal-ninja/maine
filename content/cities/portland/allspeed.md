@@ -1,5 +1,5 @@
 ---
 title: "Allspeed"
 url: /portland/allspeed/
-shop: Fahrrad
+shop: bicycle
 ---

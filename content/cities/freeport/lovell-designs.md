@@ -1,5 +1,5 @@
 ---
 title: "Lovell Designs"
 url: /freeport/lovell-designs/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /westbrook/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

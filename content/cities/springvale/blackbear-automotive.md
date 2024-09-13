@@ -1,5 +1,5 @@
 ---
 title: "Blackbear Automotive"
 url: /springvale/blackbear-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

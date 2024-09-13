@@ -1,5 +1,5 @@
 ---
 title: "Cuts By Courtney"
 url: /kittery/cuts-by-courtney/
-shop: Friseur
+shop: hairdresser
 ---

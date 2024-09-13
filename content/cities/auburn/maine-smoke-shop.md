@@ -1,5 +1,5 @@
 ---
 title: "Maine Smoke Shop"
 url: /auburn/maine-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Highly Cannaco - Boothbay Recreational"
 url: /boothbay/highly-cannaco-boothbay-recreational/
-shop: Hanf
+shop: cannabis
 ---

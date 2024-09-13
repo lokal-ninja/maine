@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /augusta/verizon/
-shop: Handy
+shop: mobile phone
 ---

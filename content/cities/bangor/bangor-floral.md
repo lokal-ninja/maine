@@ -1,5 +1,5 @@
 ---
 title: "Bangor Floral"
 url: /bangor/bangor-floral/
-shop: Blumen
+shop: florist
 ---

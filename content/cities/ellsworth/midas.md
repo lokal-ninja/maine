@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /ellsworth/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

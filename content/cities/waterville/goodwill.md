@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /waterville/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

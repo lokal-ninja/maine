@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /boothbay-harbor/carquest/
-shop: Autoteile
+shop: car parts
 ---

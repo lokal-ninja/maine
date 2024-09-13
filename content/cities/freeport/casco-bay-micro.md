@@ -1,5 +1,5 @@
 ---
 title: "Casco Bay Micro"
 url: /freeport/casco-bay-micro/
-shop: Computer
+shop: computer
 ---

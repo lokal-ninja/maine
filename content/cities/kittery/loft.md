@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /kittery/loft/
-shop: Kleidung
+shop: clothes
 ---

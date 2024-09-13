@@ -1,5 +1,5 @@
 ---
 title: "Reny's"
 url: /madison/renys/
-shop: Warenhaus
+shop: department store
 ---

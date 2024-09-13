@@ -1,5 +1,5 @@
 ---
 title: "Beals Ice Cream"
 url: /portland/beals-ice-cream/
-shop: Eisprodukte
+shop: ice cream
 ---

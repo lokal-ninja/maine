@@ -1,5 +1,5 @@
 ---
 title: "Ampersand"
 url: /orono/ampersand/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

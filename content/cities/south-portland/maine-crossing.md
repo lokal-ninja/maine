@@ -1,5 +1,5 @@
 ---
 title: "Maine Crossing"
 url: /south-portland/maine-crossing/
-shop: Einkaufszentrum
+shop: mall
 ---

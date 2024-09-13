@@ -1,5 +1,5 @@
 ---
 title: "Maine Coast Mall"
 url: /ellsworth/maine-coast-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

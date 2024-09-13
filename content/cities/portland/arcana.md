@@ -1,5 +1,5 @@
 ---
 title: "Arcana"
 url: /portland/arcana/
-shop: Andenken
+shop: gift
 ---

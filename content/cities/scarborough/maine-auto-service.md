@@ -1,5 +1,5 @@
 ---
 title: "Maine Auto Service"
 url: /scarborough/maine-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

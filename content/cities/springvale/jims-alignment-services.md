@@ -1,5 +1,5 @@
 ---
 title: "Jim's Alignment Services"
 url: /springvale/jims-alignment-services/
-shop: Autowerkstatt
+shop: car repair
 ---

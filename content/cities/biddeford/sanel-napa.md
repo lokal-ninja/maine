@@ -1,5 +1,5 @@
 ---
 title: "Sanel NAPA"
 url: /biddeford/sanel-napa/
-shop: Autowerkstatt
+shop: car repair
 ---

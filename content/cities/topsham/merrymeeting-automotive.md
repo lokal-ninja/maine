@@ -1,5 +1,5 @@
 ---
 title: "Merrymeeting Automotive"
 url: /topsham/merrymeeting-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

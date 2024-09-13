@@ -1,5 +1,5 @@
 ---
 title: "Chase's Daily"
 url: /belfast/chases-daily/
-shop: Bäckerei
+shop: bakery
 ---

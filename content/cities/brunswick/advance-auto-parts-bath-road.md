@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /brunswick/advance-auto-parts-bath-road/
-shop: Autoteile
+shop: car parts
 ---

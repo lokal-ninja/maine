@@ -1,5 +1,5 @@
 ---
 title: "Plummer Funeral Home"
 url: /augusta/plummer-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

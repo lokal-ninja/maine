@@ -1,5 +1,5 @@
 ---
 title: "Midtown Music"
 url: /biddeford/midtown-music/
-shop: Instrumente
+shop: musical instrument
 ---

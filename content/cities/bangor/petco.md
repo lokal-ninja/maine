@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /bangor/petco/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Limerick Transmission Co"
 url: /limerick/limerick-transmission-co/
-shop: Autowerkstatt
+shop: car repair
 ---

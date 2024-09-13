@@ -1,5 +1,5 @@
 ---
 title: "Restaurant Barn"
 url: /ellsworth/restaurant-barn/
-shop: Haushaltsgeräte
+shop: appliance
 ---

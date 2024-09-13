@@ -1,5 +1,5 @@
 ---
 title: "The Essential Store"
 url: /rumford/the-essential-store/
-shop: Lebensmittel
+shop: convenience
 ---

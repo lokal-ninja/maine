@@ -1,5 +1,5 @@
 ---
 title: "Men's Wearhouse"
 url: /augusta/mens-wearhouse-senator-way/
-shop: Kleidung
+shop: clothes
 ---

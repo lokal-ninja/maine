@@ -1,5 +1,5 @@
 ---
 title: "Treats"
 url: /wiscasset/treats/
-shop: Bäckerei
+shop: bakery
 ---

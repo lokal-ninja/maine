@@ -1,5 +1,5 @@
 ---
 title: "Eat More Cheese"
 url: /belfast/eat-more-cheese/
-shop: Käse
+shop: cheese
 ---

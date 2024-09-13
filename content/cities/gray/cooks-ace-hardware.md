@@ -1,5 +1,5 @@
 ---
 title: "Cook's Ace Hardware"
 url: /gray/cooks-ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

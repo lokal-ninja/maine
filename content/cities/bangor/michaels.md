@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /bangor/michaels/
-shop: Basteln
+shop: craft
 ---

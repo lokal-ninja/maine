@@ -1,5 +1,5 @@
 ---
 title: "Casco Bay Auctions"
 url: /freeport/casco-bay-auctions/
-shop: Antiquitäten
+shop: antiques
 ---

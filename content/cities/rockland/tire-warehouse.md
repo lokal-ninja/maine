@@ -1,5 +1,5 @@
 ---
 title: "Tire Warehouse"
 url: /rockland/tire-warehouse/
-shop: Reifen
+shop: tyres
 ---

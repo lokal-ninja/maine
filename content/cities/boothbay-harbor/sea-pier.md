@@ -1,5 +1,5 @@
 ---
 title: "Sea Pier"
 url: /boothbay-harbor/sea-pier/
-shop: Fisch
+shop: seafood
 ---

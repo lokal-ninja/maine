@@ -1,5 +1,5 @@
 ---
 title: "Charlie's Mitsubishi"
 url: /augusta/charlies-mitsubishi/
-shop: Autohaus
+shop: car
 ---

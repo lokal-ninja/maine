@@ -1,5 +1,5 @@
 ---
 title: "All That Jazz"
 url: /rumford/all-that-jazz/
-shop: Friseur
+shop: hairdresser
 ---

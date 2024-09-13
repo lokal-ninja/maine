@@ -1,5 +1,5 @@
 ---
 title: "Fortins Furniture"
 url: /waterville/fortins-furniture/
-shop: Möbel
+shop: furniture
 ---

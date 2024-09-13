@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /bangor/burlington/
-shop: Warenhaus
+shop: department store
 ---

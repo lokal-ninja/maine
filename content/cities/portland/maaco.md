@@ -1,5 +1,5 @@
 ---
 title: "MAACO"
 url: /portland/maaco/
-shop: Autowerkstatt
+shop: car repair
 ---

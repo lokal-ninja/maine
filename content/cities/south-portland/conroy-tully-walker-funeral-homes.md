@@ -1,5 +1,5 @@
 ---
 title: "Conroy-Tully Walker Funeral Homes"
 url: /south-portland/conroy-tully-walker-funeral-homes/
-shop: Bestattungen
+shop: funeral directors
 ---
