@@ -1,11 +1,11 @@
 id: 395700097
-type: way
+type: node
 latitude: 43.67846
 longitude: -70.28744
 postcode: "04103"
 city: Portland
-street: "Forest Avenue"
-housenumber: 887
-phone: "+1-207-773-8808"
+street: Forest Avenue
+housenumber: "887"
+phone: +1-207-773-8808
 opening_hours: ""
-website: "https://www.rsvpdiscountbeverage.com/"
+website: https://www.rsvpdiscountbeverage.com/

@@ -1,11 +1,11 @@
 id: 710675360
-type: way
+type: node
 latitude: 43.83485
 longitude: -70.43361
 postcode: "04062"
 city: Windham
-street: "Tandberg Trail"
-housenumber: 95
+street: Tandberg Trail
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

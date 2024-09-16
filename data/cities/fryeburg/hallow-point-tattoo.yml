@@ -1,11 +1,11 @@
 id: 1291641931
-type: way
+type: node
 latitude: 44.01642
 longitude: -70.98082
 postcode: "04037"
 city: Fryeburg
-street: "Main Street"
-housenumber: 581
+street: Main Street
+housenumber: "581"
 phone: ""
 opening_hours: ""
 website: ""

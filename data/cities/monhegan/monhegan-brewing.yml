@@ -1,11 +1,11 @@
 id: 1181479205
-type: way
+type: node
 latitude: 43.7593
 longitude: -69.32052
 postcode: "04852"
 city: Monhegan
-street: "Lobster Cove Road"
-housenumber: 129
+street: Lobster Cove Road
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

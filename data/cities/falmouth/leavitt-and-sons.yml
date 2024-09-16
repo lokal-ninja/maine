@@ -1,11 +1,11 @@
 id: 360959450
-type: way
+type: node
 latitude: 43.72183
 longitude: -70.23228
 postcode: "04105"
 city: Falmouth
-street: "Depot Road"
-housenumber: 37
-phone: "+1-207-781-3753"
+street: Depot Road
+housenumber: "37"
+phone: +1-207-781-3753
 opening_hours: ""
-website: "https://www.leavittandsons.com/"
+website: https://www.leavittandsons.com/

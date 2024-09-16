@@ -1,11 +1,11 @@
 id: 1193108652
-type: way
+type: node
 latitude: 44.8256
 longitude: -68.71935
 postcode: "04401"
 city: Veazie
-street: "State Street"
-housenumber: 1212
+street: State Street
+housenumber: "1212"
 phone: ""
-opening_hours: "07:00-17:00"
+opening_hours: 07:00-17:00
 website: ""

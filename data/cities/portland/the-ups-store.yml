@@ -1,11 +1,11 @@
 id: 293116951
-type: way
+type: node
 latitude: 43.70324
 longitude: -70.28866
 postcode: "04103"
 city: Portland
-street: "Auburn Street"
-housenumber: 91
-phone: "+1-207-878-3393"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su off"
-website: "https://locations.theupsstore.com/me/portland/91-auburn-st"
+street: Auburn Street
+housenumber: "91"
+phone: +1-207-878-3393
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su off
+website: https://locations.theupsstore.com/me/portland/91-auburn-st

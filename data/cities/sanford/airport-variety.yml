@@ -1,11 +1,11 @@
 id: 724629385
-type: way
+type: node
 latitude: 43.40206
 longitude: -70.71036
 postcode: "04073"
 city: Sanford
-street: "Main Street"
-housenumber: 1829
-phone: "+1-207-324-8815"
-opening_hours: "05:30-22:00"
+street: Main Street
+housenumber: "1829"
+phone: +1-207-324-8815
+opening_hours: 05:30-22:00
 website: ""

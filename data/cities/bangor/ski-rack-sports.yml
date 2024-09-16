@@ -1,11 +1,11 @@
 id: 184608772
-type: way
+type: node
 latitude: 44.84035
 longitude: -68.74282
 postcode: "04401"
 city: Bangor
-street: "Longview Drive"
-housenumber: 24
+street: Longview Drive
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.skiracksports.com/"
+website: https://www.skiracksports.com/

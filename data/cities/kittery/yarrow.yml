@@ -1,11 +1,11 @@
 id: 983427727
-type: way
+type: node
 latitude: 43.08644
 longitude: -70.74592
 postcode: "03904"
 city: Kittery
-street: "Walker Street"
-housenumber: 23
+street: Walker Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

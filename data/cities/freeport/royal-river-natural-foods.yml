@@ -1,11 +1,11 @@
 id: 363643912
-type: way
+type: node
 latitude: 43.83518
 longitude: -70.12601
 postcode: "04032"
 city: Freeport
-street: "Us Route One"
-housenumber: 443
-phone: "+1-207-865-0046"
+street: Us Route One
+housenumber: "443"
+phone: +1-207-865-0046
 opening_hours: ""
-website: "https://www.rrnf.com/"
+website: https://www.rrnf.com/

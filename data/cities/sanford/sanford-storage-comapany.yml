@@ -1,11 +1,11 @@
 id: 992478344
-type: way
+type: node
 latitude: 43.40135
 longitude: -70.73772
 postcode: "04073"
 city: Sanford
-street: "Country Club Road"
-housenumber: 158
-phone: "+1-866-298-7867"
+street: Country Club Road
+housenumber: "158"
+phone: +1-866-298-7867
 opening_hours: ""
-website: "https://www.sanfordstorage.com/"
+website: https://www.sanfordstorage.com/

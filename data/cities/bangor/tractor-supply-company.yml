@@ -1,11 +1,11 @@
 id: 314272496
-type: way
+type: node
 latitude: 44.83743
 longitude: -68.79175
 postcode: "04401"
 city: Bangor
-street: "Broadway"
-housenumber: 1161
-phone: "+1 207-947-9604"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Broadway
+housenumber: "1161"
+phone: +1 207-947-9604
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

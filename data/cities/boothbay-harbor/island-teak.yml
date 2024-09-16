@@ -1,11 +1,11 @@
 id: 1167634477
-type: way
+type: node
 latitude: 43.85039
 longitude: -69.63164
 postcode: "04538"
 city: Boothbay Harbor
-street: "Sea Street"
-housenumber: 38
+street: Sea Street
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

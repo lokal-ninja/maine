@@ -1,11 +1,11 @@
 id: 702324002
-type: way
+type: node
 latitude: 46.90797
 longitude: -67.81921
 postcode: "04750"
 city: Limestone
-street: "Long Road"
-housenumber: 64
+street: Long Road
+housenumber: "64"
 phone: ""
 opening_hours: ""
-website: "https://www.caldwellsauto.com"
+website: https://www.caldwellsauto.com

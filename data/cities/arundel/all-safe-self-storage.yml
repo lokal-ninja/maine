@@ -1,11 +1,11 @@
 id: 976810088
-type: way
+type: node
 latitude: 43.43639
 longitude: -70.50391
 postcode: "04046"
 city: Arundel
-street: "Portland Road"
-housenumber: 2105
-phone: "+1 207 284 2100"
+street: Portland Road
+housenumber: "2105"
+phone: +1 207 284 2100
 opening_hours: ""
 website: ""

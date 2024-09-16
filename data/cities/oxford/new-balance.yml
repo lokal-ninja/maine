@@ -1,11 +1,11 @@
 id: 1227428376
-type: way
+type: node
 latitude: 44.15851
 longitude: -70.49149
 postcode: "04270"
 city: Oxford
-street: "Industrial Drive"
-housenumber: 19
-phone: "+1-207-539-9022"
-opening_hours: "Mo-Su 10:00-18:00"
+street: Industrial Drive
+housenumber: "19"
+phone: +1-207-539-9022
+opening_hours: Mo-Su 10:00-18:00
 website: ""

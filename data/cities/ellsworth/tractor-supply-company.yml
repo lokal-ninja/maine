@@ -1,11 +1,11 @@
 id: 544839176
-type: way
+type: node
 latitude: 44.51647
 longitude: -68.39673
 postcode: "04605"
 city: Ellsworth
-street: "Mardens Way"
-housenumber: 33
-phone: "+1 207-664-2203"
-opening_hours: "Mo-Sa 08:00-21:00, Su 08:00-17:00"
+street: Mardens Way
+housenumber: "33"
+phone: +1 207-664-2203
+opening_hours: Mo-Sa 08:00-21:00, Su 08:00-17:00
 website: ""

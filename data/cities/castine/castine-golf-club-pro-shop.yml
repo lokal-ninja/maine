@@ -1,11 +1,11 @@
 id: 716935455
-type: way
+type: node
 latitude: 44.3909
 longitude: -68.80408
 postcode: "04421"
 city: Castine
-street: "Wadsworth Cove Road"
-housenumber: 7
+street: Wadsworth Cove Road
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 278131868
-type: way
+type: node
 latitude: 44.76715
 longitude: -69.71998
 postcode: "04976"
 city: Skowhegan
-street: "Madison Avenue"
-housenumber: 65
+street: Madison Avenue
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 375846881
-type: way
+type: node
 latitude: 44.83469
 longitude: -68.75079
 postcode: "04401"
 city: Bangor
-street: "Stillwater Avenue"
+street: Stillwater Avenue
 housenumber: 754;744
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/me/bangor/744-stillwater-ave.html"
+website: https://www.autozone.com/locations/me/bangor/744-stillwater-ave.html

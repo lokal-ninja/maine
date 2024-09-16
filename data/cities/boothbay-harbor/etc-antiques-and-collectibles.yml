@@ -1,11 +1,11 @@
 id: 1201485106
-type: way
+type: node
 latitude: 43.85312
 longitude: -69.62381
 postcode: "04538"
 city: Boothbay Harbor
-street: "Union Street"
-housenumber: 46
+street: Union Street
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

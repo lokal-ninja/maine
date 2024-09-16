@@ -1,11 +1,11 @@
 id: 587348752
-type: way
+type: node
 latitude: 43.51608
 longitude: -70.37824
 postcode: "04064"
 city: Old Orchard Beach
-street: "Saco Avenue"
-housenumber: 15
-phone: "+1-207-934-1000"
+street: Saco Avenue
+housenumber: "15"
+phone: +1-207-934-1000
 opening_hours: ""
-website: "https://www.riteaid.com/"
+website: https://www.riteaid.com/

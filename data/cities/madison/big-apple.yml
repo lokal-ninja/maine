@@ -1,11 +1,11 @@
 id: 315251000
-type: way
+type: node
 latitude: 44.7969
 longitude: -69.88038
 postcode: "04950"
 city: Madison
-street: "Old Point Avenue"
-housenumber: 17
+street: Old Point Avenue
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 360636491
-type: way
+type: node
 latitude: 43.68205
 longitude: -70.34966
 postcode: "04092"
 city: Westbrook
-street: "Main Street"
-housenumber: 465
-phone: "+1-207-854-9103"
+street: Main Street
+housenumber: "465"
+phone: +1-207-854-9103
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-465+main+st-westbrook-me-04092/id=19078"
+website: https://www.walgreens.com/locator/walgreens-465+main+st-westbrook-me-04092/id=19078

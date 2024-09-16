@@ -1,11 +1,11 @@
 id: 725071747
-type: way
+type: node
 latitude: 43.46434
 longitude: -70.79677
 postcode: "04083"
 city: Springvale
-street: "Main Street"
-housenumber: 489
-phone: "+1 207-324-7857"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/me/springvale/489-main-street-32536"
+street: Main Street
+housenumber: "489"
+phone: +1 207-324-7857
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/me/springvale/489-main-street-32536

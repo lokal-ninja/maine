@@ -1,11 +1,11 @@
 id: 377214394
-type: way
+type: node
 latitude: 43.63261
 longitude: -70.32158
 postcode: "04106"
 city: South Portland
-street: "Clarks Pond Parkway"
-housenumber: 300
-phone: "+1 207-879-2500"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/south-portland/me/south-portland/04106/2406"
+street: Clarks Pond Parkway
+housenumber: "300"
+phone: +1 207-879-2500
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/south-portland/me/south-portland/04106/2406

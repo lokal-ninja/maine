@@ -1,11 +1,11 @@
 id: 389315487
-type: way
+type: node
 latitude: 43.65238
 longitude: -70.27301
 postcode: "04102"
 city: Portland
-street: "Vaughan Street"
-housenumber: 235
-phone: "+1-207-772-8993"
+street: Vaughan Street
+housenumber: "235"
+phone: +1-207-772-8993
 opening_hours: ""
-website: "http://www.vaughanst.com/"
+website: http://www.vaughanst.com/

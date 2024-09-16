@@ -1,11 +1,11 @@
 id: 458357485
-type: way
+type: node
 latitude: 43.65599
 longitude: -70.25409
 postcode: "04101"
 city: Portland
-street: "Fore Street"
-housenumber: 422
-phone: "+1-207-772-0600"
-opening_hours: "10:00-18:00"
+street: Fore Street
+housenumber: "422"
+phone: +1-207-772-0600
+opening_hours: 10:00-18:00
 website: ""

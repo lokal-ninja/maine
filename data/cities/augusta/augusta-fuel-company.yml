@@ -1,11 +1,11 @@
 id: 363805056
-type: way
+type: node
 latitude: 44.32141
 longitude: -69.77376
 postcode: "04330"
 city: Augusta
-street: "Northern Avenue"
-housenumber: 4
-phone: "+1-207-623-3851"
+street: Northern Avenue
+housenumber: "4"
+phone: +1-207-623-3851
 opening_hours: ""
-website: "https://afccomfort.com/"
+website: https://afccomfort.com/

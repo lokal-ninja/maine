@@ -1,11 +1,11 @@
 id: 697644594
-type: way
+type: node
 latitude: 44.59302
 longitude: -69.60896
 postcode: "04937"
 city: Fairfield
-street: "Western Avenue"
-housenumber: 74
+street: Western Avenue
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

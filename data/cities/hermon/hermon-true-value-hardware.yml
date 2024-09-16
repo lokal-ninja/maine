@@ -2,10 +2,10 @@ id: 3113798238
 type: node
 latitude: 44.80543
 longitude: -68.90348
-postcode: "04401-0666"
+postcode: 04401-0666
 city: Hermon
-street: "Route 2"
-housenumber: 2402
-phone: "+1 207-848-2500"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-17:00; Su 09:00-14:00"
+street: Route 2
+housenumber: "2402"
+phone: +1 207-848-2500
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-17:00; Su 09:00-14:00
 website: ""

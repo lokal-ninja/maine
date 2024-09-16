@@ -1,11 +1,11 @@
 id: 406955288
-type: way
+type: node
 latitude: 44.66412
 longitude: -70.14912
 postcode: "04938"
 city: Farmington
-street: "Main Street"
-housenumber: 309
-phone: "+1-207-778-0310"
+street: Main Street
+housenumber: "309"
+phone: +1-207-778-0310
 opening_hours: ""
-website: "https://www.circlek.com/store-locator/US/farmington/309-main-st/m7025"
+website: https://www.circlek.com/store-locator/US/farmington/309-main-st/m7025

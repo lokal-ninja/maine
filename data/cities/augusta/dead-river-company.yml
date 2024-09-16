@@ -1,11 +1,11 @@
 id: 376176842
-type: way
+type: node
 latitude: 44.31029
 longitude: -69.79291
 postcode: "04330"
 city: Augusta
-street: "Capitol Street"
-housenumber: 183
-phone: "+1-207-623-1359"
+street: Capitol Street
+housenumber: "183"
+phone: +1-207-623-1359
 opening_hours: ""
 website: ""

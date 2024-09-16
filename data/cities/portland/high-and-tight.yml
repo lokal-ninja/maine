@@ -1,11 +1,11 @@
 id: 816877971
-type: way
+type: node
 latitude: 43.64845
 longitude: -70.26429
 postcode: "04102"
 city: Portland
-street: "Danforth Street"
-housenumber: 207
+street: Danforth Street
+housenumber: "207"
 phone: ""
 opening_hours: ""
-website: "https://www.vagaro.com/highandtight"
+website: https://www.vagaro.com/highandtight

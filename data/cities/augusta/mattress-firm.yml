@@ -1,11 +1,11 @@
 id: 472279468
-type: way
+type: node
 latitude: 44.34418
 longitude: -69.794
 postcode: "04330"
 city: Augusta
-street: "Civic Center Drive"
-housenumber: 210
-phone: "+1 207-621-2135"
+street: Civic Center Drive
+housenumber: "210"
+phone: +1 207-621-2135
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/me/augusta/085002/"
+website: https://www.mattressfirm.com/en-us/stores/me/augusta/085002/

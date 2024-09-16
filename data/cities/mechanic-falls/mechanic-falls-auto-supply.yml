@@ -1,11 +1,11 @@
 id: 408752660
-type: way
+type: node
 latitude: 44.11173
 longitude: -70.39334
 postcode: "04256"
 city: Mechanic Falls
-street: "Depot Square"
-housenumber: 15
+street: Depot Square
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

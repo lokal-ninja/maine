@@ -1,11 +1,11 @@
 id: 518854427
-type: way
+type: node
 latitude: 43.91453
 longitude: -70.55494
 postcode: "04015"
 city: Casco
-street: "Chippys Lane"
-housenumber: 700
+street: Chippys Lane
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

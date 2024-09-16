@@ -1,11 +1,11 @@
 id: 1304503309
-type: way
+type: node
 latitude: 44.0342
 longitude: -69.53524
 postcode: "04553"
 city: Newcastle
-street: "Main Street"
-housenumber: 74
+street: Main Street
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

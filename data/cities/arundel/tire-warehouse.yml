@@ -1,11 +1,11 @@
 id: 976810102
-type: way
+type: node
 latitude: 43.44049
 longitude: -70.502
 postcode: "04046"
 city: Arundel
-street: "Portland Road"
-housenumber: 2239
+street: Portland Road
+housenumber: "2239"
 phone: ""
 opening_hours: ""
 website: ""

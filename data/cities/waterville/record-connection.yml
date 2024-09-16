@@ -4,8 +4,8 @@ latitude: 44.55748
 longitude: -69.63255
 postcode: "04901"
 city: Waterville
-street: "Main Street"
-housenumber: 252
-phone: "+1-207-873-1798"
-opening_hours: "We-Sa 10:00-17:30"
+street: Main Street
+housenumber: "252"
+phone: +1-207-873-1798
+opening_hours: We-Sa 10:00-17:30
 website: ""

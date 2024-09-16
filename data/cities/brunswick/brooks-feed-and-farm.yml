@@ -1,11 +1,11 @@
 id: 431972228
-type: way
+type: node
 latitude: 43.91119
 longitude: -69.96804
 postcode: "04011"
 city: Brunswick
-street: "Union Street"
-housenumber: 86
+street: Union Street
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

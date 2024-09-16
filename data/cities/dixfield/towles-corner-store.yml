@@ -1,11 +1,11 @@
 id: 423405190
-type: way
+type: node
 latitude: 44.53148
 longitude: -70.45631
 postcode: "04224"
 city: Dixfield
-street: "Main Street"
-housenumber: 36
+street: Main Street
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

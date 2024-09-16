@@ -1,11 +1,11 @@
 id: 857241830
-type: way
+type: node
 latitude: 43.48443
 longitude: -70.45492
 postcode: "04005"
 city: Biddeford
-street: "Granite Street"
-housenumber: 45
+street: Granite Street
+housenumber: "45"
 phone: "+12072829700"
 opening_hours: ""
-website: "http://apexyouthconnection.org/"
+website: http://apexyouthconnection.org/

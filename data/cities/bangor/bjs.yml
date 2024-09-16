@@ -1,11 +1,11 @@
 id: 375855701
-type: way
+type: node
 latitude: 44.84428
 longitude: -68.74088
 postcode: "04401"
 city: Bangor
-street: "Longview Drive"
-housenumber: 110
+street: Longview Drive
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

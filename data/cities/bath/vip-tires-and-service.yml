@@ -1,11 +1,11 @@
 id: 314278953
-type: way
+type: node
 latitude: 43.90657
 longitude: -69.83096
 postcode: "04530"
 city: Bath
-street: "State Road"
-housenumber: 11
+street: State Road
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

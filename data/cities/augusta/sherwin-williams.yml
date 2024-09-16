@@ -1,11 +1,11 @@
 id: 374378134
-type: way
+type: node
 latitude: 44.31184
 longitude: -69.78844
 postcode: ""
 city: Augusta
-street: "Western Ave"
-housenumber: 68
-phone: "+1-207-622-6818"
+street: Western Ave
+housenumber: "68"
+phone: +1-207-622-6818
 opening_hours: ""
 website: ""

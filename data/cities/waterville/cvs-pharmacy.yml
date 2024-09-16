@@ -1,11 +1,11 @@
 id: 850565197
-type: way
+type: node
 latitude: 44.54065
 longitude: -69.64941
 postcode: "04901"
 city: Waterville
-street: "Kennedy Memorial Drive"
-housenumber: 1
+street: Kennedy Memorial Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/waterville-me-pharmacies/1-kennedy-memorial-dr-waterville-me-04901/storeid=620"
+website: https://www.cvs.com/store-locator/waterville-me-pharmacies/1-kennedy-memorial-dr-waterville-me-04901/storeid=620

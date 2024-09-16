@@ -1,11 +1,11 @@
 id: 238405077
-type: way
+type: node
 latitude: 44.54162
 longitude: -68.42401
 postcode: ""
 city: Ellsworth
-street: "Main Street"
-housenumber: 112
-phone: "+1-207-667-1129"
+street: Main Street
+housenumber: "112"
+phone: +1-207-667-1129
 opening_hours: ""
-website: "https://www.facebook.com/pages/2nd-to-None/315927065099827"
+website: https://www.facebook.com/pages/2nd-to-None/315927065099827

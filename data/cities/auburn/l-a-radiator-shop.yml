@@ -1,11 +1,11 @@
 id: 388344515
-type: way
+type: node
 latitude: 44.08757
 longitude: -70.22004
 postcode: "04210"
 city: Auburn
-street: "Riverside Drive"
-housenumber: 48
-phone: "+1-207-784-5551"
+street: Riverside Drive
+housenumber: "48"
+phone: +1-207-784-5551
 opening_hours: ""
-website: "https://laradiatorworks.net/"
+website: https://laradiatorworks.net/

@@ -1,11 +1,11 @@
 id: 886720296
-type: way
+type: node
 latitude: 45.35591
 longitude: -68.52681
 postcode: "04457"
 city: Lincoln
-street: "West Broadway"
-housenumber: 264
+street: West Broadway
+housenumber: "264"
 phone: ""
 opening_hours: ""
 website: ""

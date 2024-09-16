@@ -1,11 +1,11 @@
 id: 376752132
-type: way
+type: node
 latitude: 44.297
 longitude: -69.7843
 postcode: "04330"
 city: Augusta
-street: "State Street"
-housenumber: 340
-phone: "+1-207-430-1680"
+street: State Street
+housenumber: "340"
+phone: +1-207-430-1680
 opening_hours: ""
 website: ""

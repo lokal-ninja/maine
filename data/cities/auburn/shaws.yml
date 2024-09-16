@@ -1,11 +1,11 @@
 id: 695648824
-type: way
+type: node
 latitude: 44.1235
 longitude: -70.22768
 postcode: "04210"
 city: Auburn
-street: "Center Street"
-housenumber: 600
+street: Center Street
+housenumber: "600"
 phone: ""
 opening_hours: ""
-website: "https://local.shaws.com/me/auburn/600-center-st.html"
+website: https://local.shaws.com/me/auburn/600-center-st.html

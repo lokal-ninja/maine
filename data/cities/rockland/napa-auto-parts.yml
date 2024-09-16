@@ -1,11 +1,11 @@
 id: 628936311
-type: way
+type: node
 latitude: 44.10087
 longitude: -69.12498
 postcode: "04841"
 city: Rockland
-street: "Park Street"
-housenumber: 212
+street: Park Street
+housenumber: "212"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.69187
 longitude: -70.79137
 postcode: "04048"
 city: Limerick
-street: "Washington Street"
-housenumber: 63
+street: Washington Street
+housenumber: "63"
 phone: ""
 opening_hours: ""
-website: "http://www.limericktransmission.com"
+website: http://www.limericktransmission.com

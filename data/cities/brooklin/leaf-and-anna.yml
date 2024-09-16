@@ -1,11 +1,11 @@
 id: 891350447
-type: way
+type: node
 latitude: 44.26584
 longitude: -68.56973
 postcode: "04616"
 city: Brooklin
-street: "Reach Road"
-housenumber: 12
+street: Reach Road
+housenumber: "12"
 phone: "2073595030"
 opening_hours: ""
-website: "https://leafandanna.com/"
+website: https://leafandanna.com/

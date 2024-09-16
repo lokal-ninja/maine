@@ -1,11 +1,11 @@
 id: 545578875
-type: way
+type: node
 latitude: 44.38784
 longitude: -69.9664
 postcode: "04355"
 city: Readfield
-street: "Main Street"
-housenumber: 1142
+street: Main Street
+housenumber: "1142"
 phone: ""
 opening_hours: ""
 website: ""

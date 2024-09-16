@@ -1,11 +1,11 @@
 id: 587958109
-type: way
+type: node
 latitude: 44.67091
 longitude: -70.1506
 postcode: "04938"
 city: Farmington
-street: "Broadway"
-housenumber: 200
+street: Broadway
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 161730232
-type: way
+type: node
 latitude: 44.12291
 longitude: -70.23151
 postcode: "04210"
 city: Auburn
-street: "Center Street"
-housenumber: 550
+street: Center Street
+housenumber: "550"
 phone: ""
 opening_hours: ""
 website: ""

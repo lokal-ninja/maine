@@ -1,11 +1,11 @@
 id: 464497439
-type: way
+type: node
 latitude: 43.67305
 longitude: -70.32023
 postcode: "04102"
 city: Portland
-street: "Brighton Avenue"
-housenumber: 1000
+street: Brighton Avenue
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

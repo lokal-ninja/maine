@@ -1,11 +1,11 @@
 id: 366000240
-type: way
+type: node
 latitude: 43.9123
 longitude: -69.96649
 postcode: "04011"
 city: Brunswick
-street: "Elm Street"
-housenumber: 35
-phone: "+1 207-725-6683"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://stores.hannaford.com/me/brunswick/8231"
+street: Elm Street
+housenumber: "35"
+phone: +1 207-725-6683
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://stores.hannaford.com/me/brunswick/8231

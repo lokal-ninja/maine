@@ -4,8 +4,8 @@ latitude: 44.5914
 longitude: -69.59563
 postcode: "04937"
 city: Fairfield
-street: "Main Street"
-housenumber: 235
-phone: "+1-207-453-2990"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.virtuald.com/"
+street: Main Street
+housenumber: "235"
+phone: +1-207-453-2990
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.virtuald.com/

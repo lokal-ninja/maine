@@ -1,11 +1,11 @@
 id: 299475529
-type: way
+type: node
 latitude: 44.52543
 longitude: -68.39376
 postcode: "04605"
 city: Ellsworth
-street: "Myrick Street"
-housenumber: 17
-phone: "+1 207-667-6780"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/1932/ellsworth-me/whats-new"
+street: Myrick Street
+housenumber: "17"
+phone: +1 207-667-6780
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/1932/ellsworth-me/whats-new

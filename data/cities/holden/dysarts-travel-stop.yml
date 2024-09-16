@@ -1,11 +1,11 @@
 id: 509276745
-type: way
+type: node
 latitude: 44.76617
 longitude: -68.7101
 postcode: "04429"
 city: Holden
-street: "Main Road"
-housenumber: 39
+street: Main Road
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

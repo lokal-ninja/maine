@@ -4,8 +4,8 @@ latitude: 44.42599
 longitude: -69.00675
 postcode: "04915"
 city: Belfast
-street: "Main Street"
-housenumber: 94
-phone: "+1-207-358-9701"
-opening_hours: "Mo-Sa 10:00-17:30; Su 11:00-15:00"
-website: "https://eatmorecheese.me/"
+street: Main Street
+housenumber: "94"
+phone: +1-207-358-9701
+opening_hours: Mo-Sa 10:00-17:30; Su 11:00-15:00
+website: https://eatmorecheese.me/

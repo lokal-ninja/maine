@@ -1,11 +1,11 @@
 id: 1196901916
-type: way
+type: node
 latitude: 43.97317
 longitude: -69.63242
 postcode: "04556"
 city: Edgecomb
-street: "Boothbay Road"
-housenumber: 478
+street: Boothbay Road
+housenumber: "478"
 phone: ""
 opening_hours: ""
 website: ""

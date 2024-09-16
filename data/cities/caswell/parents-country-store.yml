@@ -1,11 +1,11 @@
 id: 549169420
-type: way
+type: node
 latitude: 47.02045
 longitude: -67.80668
 postcode: "04750"
 city: Caswell
-street: "Van Burn Road"
-housenumber: 1648
-phone: "+1-207-325-4182"
+street: Van Burn Road
+housenumber: "1648"
+phone: +1-207-325-4182
 opening_hours: ""
 website: ""

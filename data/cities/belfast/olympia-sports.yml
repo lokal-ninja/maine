@@ -4,8 +4,8 @@ latitude: 44.42498
 longitude: -69.02372
 postcode: "04915"
 city: Belfast
-street: "Belmont Avenue"
-housenumber: 1
-phone: "+1-207-338-0749"
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://olympiasports.net/"
+street: Belmont Avenue
+housenumber: "1"
+phone: +1-207-338-0749
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://olympiasports.net/

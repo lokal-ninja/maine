@@ -1,11 +1,11 @@
 id: 884554864
-type: way
+type: node
 latitude: 44.47692
 longitude: -69.50703
 postcode: ""
 city: China Village
-street: "Lakeview Drive"
-housenumber: 1341
-phone: "(207) 968-2498"
-opening_hours: "Mo-Sa 06:00-17:00; Su 09:00-15:00"
-website: "https://www.facebook.com/pages/category/Hardware-Store/Lakeview-Lumber-510689855632506/"
+street: Lakeview Drive
+housenumber: "1341"
+phone: (207) 968-2498
+opening_hours: Mo-Sa 06:00-17:00; Su 09:00-15:00
+website: https://www.facebook.com/pages/category/Hardware-Store/Lakeview-Lumber-510689855632506/

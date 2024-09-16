@@ -1,11 +1,11 @@
 id: 940222724
-type: way
+type: node
 latitude: 43.08922
 longitude: -70.74938
 postcode: "03904"
 city: Kittery
-street: "State Road"
-housenumber: 25
-phone: "+1 207 439 1557"
+street: State Road
+housenumber: "25"
+phone: +1 207 439 1557
 opening_hours: ""
 website: ""

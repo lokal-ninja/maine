@@ -1,11 +1,11 @@
 id: 886013216
-type: way
+type: node
 latitude: 44.30438
 longitude: -69.74517
 postcode: "04330"
 city: Augusta
-street: "Eastern Avenue"
-housenumber: 296
+street: Eastern Avenue
+housenumber: "296"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/me/augusta/17235"
+website: https://www.dollargeneral.com/store-directory/me/augusta/17235

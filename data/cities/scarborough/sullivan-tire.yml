@@ -1,11 +1,11 @@
 id: 652107130
-type: way
+type: node
 latitude: 43.58598
 longitude: -70.35931
 postcode: "04074"
 city: Scarborough
-street: "Route 1"
-housenumber: 391
+street: Route 1
+housenumber: "391"
 phone: ""
 opening_hours: ""
 website: ""

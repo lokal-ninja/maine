@@ -1,11 +1,11 @@
 id: 405214615
-type: way
+type: node
 latitude: 43.64062
 longitude: -70.33367
 postcode: "04106"
 city: South Portland
-street: "Maine Mall Road"
-housenumber: 198
+street: Maine Mall Road
+housenumber: "198"
 phone: ""
 opening_hours: ""
 website: ""

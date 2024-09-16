@@ -1,11 +1,11 @@
 id: 103610174
-type: way
+type: node
 latitude: 44.83459
 longitude: -68.74393
 postcode: "04401"
 city: Bangor
-street: "Bangor Mall Boulevard"
-housenumber: 3
+street: Bangor Mall Boulevard
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 631592616
-type: way
+type: node
 latitude: 44.25196
 longitude: -69.86625
 postcode: "04345"
 city: West Gardiner
-street: "Litchfield-Hallowell Road"
-housenumber: 599
-phone: "+1-207-724-3940"
+street: Litchfield-Hallowell Road
+housenumber: "599"
+phone: +1-207-724-3940
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 881424044
-type: way
+type: node
 latitude: 44.96135
 longitude: -69.26811
 postcode: "04928"
 city: Corinna
-street: "Dexter Road"
-housenumber: 727
+street: Dexter Road
+housenumber: "727"
 phone: ""
 opening_hours: ""
 website: ""

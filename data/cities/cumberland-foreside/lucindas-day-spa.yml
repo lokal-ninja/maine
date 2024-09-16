@@ -1,11 +1,11 @@
 id: 840940619
-type: way
+type: node
 latitude: 43.77361
 longitude: -70.19878
 postcode: "04110"
 city: Cumberland Foreside
-street: "Route 1"
-housenumber: 263
+street: Route 1
+housenumber: "263"
 phone: ""
 opening_hours: ""
 website: ""

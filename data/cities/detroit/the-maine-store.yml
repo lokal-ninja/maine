@@ -1,11 +1,11 @@
 id: 467213966
-type: way
+type: node
 latitude: 44.79239
 longitude: -69.29635
 postcode: "04929"
 city: Detroit
-street: "Main Street"
-housenumber: 4
+street: Main Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

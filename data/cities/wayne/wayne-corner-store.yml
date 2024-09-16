@@ -1,11 +1,11 @@
 id: 549615511
-type: way
+type: node
 latitude: 44.35574
 longitude: -70.07928
 postcode: "04284"
 city: Wayne
-street: "Main Street"
-housenumber: 672
+street: Main Street
+housenumber: "672"
 phone: ""
 opening_hours: ""
 website: ""

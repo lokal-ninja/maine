@@ -1,11 +1,11 @@
 id: 1180989331
-type: way
+type: node
 latitude: 44.14061
 longitude: -70.4823
 postcode: "04270"
 city: Oxford
-street: "King Street"
-housenumber: 115
-phone: "+1-866-631-3571"
+street: King Street
+housenumber: "115"
+phone: +1-866-631-3571
 opening_hours: ""
-website: "http://pollysvariety.com/"
+website: http://pollysvariety.com/

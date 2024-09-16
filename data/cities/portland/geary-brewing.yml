@@ -1,11 +1,11 @@
 id: 872045242
-type: way
+type: node
 latitude: 43.70793
 longitude: -70.31463
 postcode: "04103"
 city: Portland
-street: "Evergreen Drive"
-housenumber: 38
+street: Evergreen Drive
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "https://www.gearybrewing.com/visit"
+website: https://www.gearybrewing.com/visit

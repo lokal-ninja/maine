@@ -1,11 +1,11 @@
 id: 972416326
-type: way
+type: node
 latitude: 43.46488
 longitude: -70.48915
 postcode: "04005"
 city: Biddeford
-street: "Digital Drive"
-housenumber: 1
+street: Digital Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

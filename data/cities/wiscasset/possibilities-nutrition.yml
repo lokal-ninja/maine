@@ -1,11 +1,11 @@
 id: 1219308518
-type: way
+type: node
 latitude: 44.01456
 longitude: -69.66678
 postcode: "04578"
 city: Wiscasset
-street: "Gardiner Road"
-housenumber: 145
+street: Gardiner Road
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

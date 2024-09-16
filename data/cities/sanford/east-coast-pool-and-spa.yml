@@ -1,11 +1,11 @@
 id: 989746589
-type: way
+type: node
 latitude: 43.41699
 longitude: -70.74027
 postcode: "04073"
 city: Sanford
-street: "Alfred Road"
-housenumber: 88
-phone: "+1-207-459-7665"
+street: Alfred Road
+housenumber: "88"
+phone: +1-207-459-7665
 opening_hours: ""
-website: "https://www.eastcoastpoolandspas.com/specials"
+website: https://www.eastcoastpoolandspas.com/specials

@@ -1,11 +1,11 @@
 id: 1076390541
-type: way
+type: node
 latitude: 43.40588
 longitude: -70.5652
 postcode: "04043"
 city: Kennebunk
-street: "Alfred Road"
-housenumber: 3
+street: Alfred Road
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

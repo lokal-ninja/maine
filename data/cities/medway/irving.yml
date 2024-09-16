@@ -1,11 +1,11 @@
 id: 304614277
-type: way
+type: node
 latitude: 45.60995
 longitude: -68.52349
 postcode: "04460"
 city: Medway
-street: "Medway Road"
-housenumber: 1941
+street: Medway Road
+housenumber: "1941"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 44.45136
 longitude: -68.6962
 postcode: "04476"
 city: Penobscot
-street: "Western County Road"
-housenumber: 58
+street: Western County Road
+housenumber: "58"
 phone: ""
-opening_hours: "24/7"
-website: "https://sweetsats.io/"
+opening_hours: 24/7
+website: https://sweetsats.io/

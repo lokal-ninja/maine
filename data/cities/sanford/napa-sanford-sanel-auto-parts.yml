@@ -1,11 +1,11 @@
 id: 640108844
-type: way
+type: node
 latitude: 43.43612
 longitude: -70.77242
 postcode: "04073"
 city: Sanford
-street: "Main Street"
-housenumber: 960
-phone: "+1-207-324-6084"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 08:00-18:00; Su 09:00-18:00"
-website: "https://www.napaonline.com/en/me/sanford/store/28140"
+street: Main Street
+housenumber: "960"
+phone: +1-207-324-6084
+opening_hours: Mo-Fr 07:30-20:00; Sa 08:00-18:00; Su 09:00-18:00
+website: https://www.napaonline.com/en/me/sanford/store/28140

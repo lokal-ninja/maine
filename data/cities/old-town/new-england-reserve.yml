@@ -1,11 +1,11 @@
 id: 544010439
-type: way
+type: node
 latitude: 44.91585
 longitude: -68.68423
 postcode: "04468"
 city: Old Town
-street: "Stillwater Avenue"
-housenumber: 983
-phone: "+1-207-827-0158"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "https://www.newenglandreserve.com/"
+street: Stillwater Avenue
+housenumber: "983"
+phone: +1-207-827-0158
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
+website: https://www.newenglandreserve.com/

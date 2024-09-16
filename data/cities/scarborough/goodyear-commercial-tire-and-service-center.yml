@@ -1,11 +1,11 @@
 id: 1070385320
-type: way
+type: node
 latitude: 43.60645
 longitude: -70.36932
 postcode: "04074"
 city: Scarborough
-street: "Ginn Road"
-housenumber: 10
+street: Ginn Road
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

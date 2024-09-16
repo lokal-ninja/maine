@@ -1,11 +1,11 @@
 id: 1285442342
-type: way
+type: node
 latitude: 44.09612
 longitude: -69.37385
 postcode: "04572"
 city: Waldoboro
-street: "Main Street"
-housenumber: 949
+street: Main Street
+housenumber: "949"
 phone: ""
 opening_hours: ""
 website: ""

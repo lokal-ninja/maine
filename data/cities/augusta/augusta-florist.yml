@@ -1,11 +1,11 @@
 id: 363833932
-type: way
+type: node
 latitude: 44.32652
 longitude: -69.77856
 postcode: "04330"
 city: Augusta
-street: "Mount Vernon Avenue"
-housenumber: 118
-phone: "+1-207-626-2808"
+street: Mount Vernon Avenue
+housenumber: "118"
+phone: +1-207-626-2808
 opening_hours: ""
-website: "https://www.augustamaineflorist.com/"
+website: https://www.augustamaineflorist.com/

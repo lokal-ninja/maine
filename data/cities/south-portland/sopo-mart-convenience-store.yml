@@ -1,11 +1,11 @@
 id: 908237670
-type: way
+type: node
 latitude: 43.61987
 longitude: -70.30628
 postcode: "04106"
 city: South Portland
-street: "Main Street"
-housenumber: 687
+street: Main Street
+housenumber: "687"
 phone: ""
 opening_hours: ""
 website: ""

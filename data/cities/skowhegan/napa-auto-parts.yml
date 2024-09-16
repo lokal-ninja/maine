@@ -1,11 +1,11 @@
 id: 278132232
-type: way
+type: node
 latitude: 44.76596
 longitude: -69.71793
 postcode: "04976"
 city: Skowhegan
-street: "Commercial Street"
-housenumber: 9
+street: Commercial Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 264243972
-type: way
+type: node
 latitude: 43.85438
 longitude: -70.10839
 postcode: "04032"
 city: Freeport
-street: "Main Street"
-housenumber: 9
+street: Main Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/FreeportCigar"
+website: https://www.facebook.com/FreeportCigar

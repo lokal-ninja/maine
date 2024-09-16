@@ -1,11 +1,11 @@
 id: 389132847
-type: way
+type: node
 latitude: 44.55437
 longitude: -70.54913
 postcode: "04276"
 city: Rumford
-street: "Lincoln Avenue"
-housenumber: 51
-phone: "+1-207-369-0300"
+street: Lincoln Avenue
+housenumber: "51"
+phone: +1-207-369-0300
 opening_hours: ""
 website: ""

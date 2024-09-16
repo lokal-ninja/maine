@@ -1,11 +1,11 @@
 id: 407890867
-type: way
+type: node
 latitude: 44.20105
 longitude: -69.0794
 postcode: "04843"
 city: Camden
-street: "Elm Street"
-housenumber: 145
-phone: "+1 207-236-8577"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://stores.hannaford.com/me/camden/8151"
+street: Elm Street
+housenumber: "145"
+phone: +1 207-236-8577
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://stores.hannaford.com/me/camden/8151

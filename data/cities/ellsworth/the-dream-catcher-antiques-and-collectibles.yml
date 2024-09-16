@@ -1,11 +1,11 @@
 id: 238405072
-type: way
+type: node
 latitude: 44.54149
 longitude: -68.42377
 postcode: ""
 city: Ellsworth
-street: "Main Street"
-housenumber: 107
-phone: "+1-207-667-7886"
-opening_hours: "Su 10:00- 17:00; Mo-Th 9:00- 17:00; Fr 9:00- 18:00; Sa 10:00- 18:00"
-website: "http://www.dreamcatcherellsworth.com/"
+street: Main Street
+housenumber: "107"
+phone: +1-207-667-7886
+opening_hours: Su 10:00- 17:00; Mo-Th 9:00- 17:00; Fr 9:00- 18:00; Sa 10:00- 18:00
+website: http://www.dreamcatcherellsworth.com/

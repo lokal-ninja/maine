@@ -1,11 +1,11 @@
 id: 662754453
-type: way
+type: node
 latitude: 44.09684
 longitude: -69.13383
 postcode: "04841"
 city: Rockland
-street: "New County Road"
-housenumber: 218
+street: New County Road
+housenumber: "218"
 phone: ""
 opening_hours: ""
 website: ""

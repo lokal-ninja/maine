@@ -1,11 +1,11 @@
 id: 768661448
-type: way
+type: node
 latitude: 43.45681
 longitude: -70.76356
 postcode: "04073"
 city: Sanford
-street: "Cottage Street"
-housenumber: 313
-phone: "+1-207-209-3311"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 08:30-12:30"
-website: "https://www.maine-storage.com/self-storage/me/sanford/cottage-st/"
+street: Cottage Street
+housenumber: "313"
+phone: +1-207-209-3311
+opening_hours: Mo-Fr 09:00-17:00; Sa 08:30-12:30
+website: https://www.maine-storage.com/self-storage/me/sanford/cottage-st/

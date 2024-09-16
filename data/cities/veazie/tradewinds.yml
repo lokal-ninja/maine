@@ -1,11 +1,11 @@
 id: 1193108650
-type: way
+type: node
 latitude: 44.82504
 longitude: -68.7188
 postcode: "04401"
 city: Veazie
-street: "State Street"
-housenumber: 1215
+street: State Street
+housenumber: "1215"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-21:00"
-website: "https://www.tradewindsmarkets.com/"
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-21:00
+website: https://www.tradewindsmarkets.com/

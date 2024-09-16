@@ -1,11 +1,11 @@
 id: 315245262
-type: way
+type: node
 latitude: 44.95897
 longitude: -70.15501
 postcode: "04947"
 city: Kingfield
-street: "Main Street"
-housenumber: 253
-phone: "+1-207-265-2664"
+street: Main Street
+housenumber: "253"
+phone: +1-207-265-2664
 opening_hours: ""
 website: ""

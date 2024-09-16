@@ -1,11 +1,11 @@
 id: 1198415425
-type: way
+type: node
 latitude: 43.88474
 longitude: -69.63263
 postcode: "04537"
 city: Boothbay
-street: "Storage Lane"
-housenumber: 16
+street: Storage Lane
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

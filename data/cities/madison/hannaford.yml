@@ -1,11 +1,11 @@
 id: 315250966
-type: way
+type: node
 latitude: 44.79749
 longitude: -69.87246
 postcode: "04950"
 city: Madison
-street: "Main Street"
-housenumber: 225
-phone: "+1 207-696-3949"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://stores.hannaford.com/me/madison/8254"
+street: Main Street
+housenumber: "225"
+phone: +1 207-696-3949
+opening_hours: Mo-Su 07:00-20:00
+website: https://stores.hannaford.com/me/madison/8254

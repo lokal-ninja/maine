@@ -1,11 +1,11 @@
 id: 375848602
-type: way
+type: node
 latitude: 44.83004
 longitude: -68.75811
 postcode: "04401"
 city: Bangor
-street: "Stillwater Avenue"
-housenumber: 480
+street: Stillwater Avenue
+housenumber: "480"
 phone: "+12073072033"
-opening_hours: "Mo-Sa 10:00-21:00, Su 10:00-19:00"
-website: "https://oldnavy.gap.com/stores/me/bangor/oldnavy-3785.html"
+opening_hours: Mo-Sa 10:00-21:00, Su 10:00-19:00
+website: https://oldnavy.gap.com/stores/me/bangor/oldnavy-3785.html

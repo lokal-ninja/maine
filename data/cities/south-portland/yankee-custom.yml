@@ -1,11 +1,11 @@
 id: 399556310
-type: way
+type: node
 latitude: 43.63395
 longitude: -70.3145
 postcode: "04106"
 city: South Portland
-street: "Westbrook Street"
-housenumber: 477
-phone: "+1-207-799-7800"
+street: Westbrook Street
+housenumber: "477"
+phone: +1-207-799-7800
 opening_hours: ""
-website: "https://www.yankeecustomtruck.com/"
+website: https://www.yankeecustomtruck.com/

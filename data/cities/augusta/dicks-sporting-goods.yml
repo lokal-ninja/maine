@@ -1,11 +1,11 @@
 id: 371292010
-type: way
+type: node
 latitude: 44.34901
 longitude: -69.78566
 postcode: "04330"
 city: Augusta
-street: "Stephen King Drive"
-housenumber: 80
-phone: "+1 207-622-3987"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/me/augusta/244/"
+street: Stephen King Drive
+housenumber: "80"
+phone: +1 207-622-3987
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/me/augusta/244/

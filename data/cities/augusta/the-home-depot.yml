@@ -1,11 +1,11 @@
 id: 886546438
-type: way
+type: node
 latitude: 44.34562
 longitude: -69.78715
 postcode: "04330"
 city: Augusta
-street: "Stephen King Drive"
-housenumber: 26
-phone: "+1 207-621-6888"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/augusta-me/me/augusta/04330/2404"
+street: Stephen King Drive
+housenumber: "26"
+phone: +1 207-621-6888
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/augusta-me/me/augusta/04330/2404

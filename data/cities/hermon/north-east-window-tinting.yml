@@ -1,11 +1,11 @@
 id: 205880996
-type: way
+type: node
 latitude: 44.7955
 longitude: -68.84753
 postcode: "04401"
 city: Hermon
-street: "Freedom Parkway"
-housenumber: 34
-phone: "+1-207-605-3943"
+street: Freedom Parkway
+housenumber: "34"
+phone: +1-207-605-3943
 opening_hours: ""
-website: "https://northeastwindowtinting.com"
+website: https://northeastwindowtinting.com

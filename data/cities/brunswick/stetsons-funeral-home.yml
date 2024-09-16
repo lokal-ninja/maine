@@ -1,11 +1,11 @@
 id: 726178032
-type: way
+type: node
 latitude: 43.91705
 longitude: -69.96442
 postcode: "04011"
 city: Brunswick
-street: "Federal Street"
-housenumber: 12
+street: Federal Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1154324180
-type: way
+type: node
 latitude: 44.0042
 longitude: -69.67143
 postcode: "04578"
 city: Wiscasset
-street: "Bath Road"
-housenumber: 68
+street: Bath Road
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

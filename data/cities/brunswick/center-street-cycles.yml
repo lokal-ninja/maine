@@ -1,11 +1,11 @@
 id: 1222717910
-type: way
+type: node
 latitude: 43.91597
 longitude: -69.9643
 postcode: "04011"
 city: Brunswick
-street: "Center Street"
-housenumber: 11
+street: Center Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

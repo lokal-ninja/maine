@@ -1,11 +1,11 @@
 id: 231657397
-type: way
+type: node
 latitude: 44.4209
 longitude: -69.01839
 postcode: ""
 city: Belfast
-street: "Lincolnville Avenue"
-housenumber: 95
+street: Lincolnville Avenue
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

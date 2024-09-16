@@ -1,11 +1,11 @@
 id: 403558083
-type: way
+type: node
 latitude: 44.12052
 longitude: -69.10201
 postcode: ""
 city: Rockland
-street: "Camden Street"
-housenumber: 166
-phone: "+1-207-390-8049"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
+street: Camden Street
+housenumber: "166"
+phone: +1-207-390-8049
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
 website: ""

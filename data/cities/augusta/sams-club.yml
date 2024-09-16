@@ -1,11 +1,11 @@
 id: 297092603
-type: way
+type: node
 latitude: 44.34274
 longitude: -69.7869
 postcode: "04330"
 city: Augusta
-street: "Marketplace Drive"
-housenumber: 45
-phone: "+1 207-623-2757"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/augusta-me-sams-club/6462"
+street: Marketplace Drive
+housenumber: "45"
+phone: +1 207-623-2757
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/augusta-me-sams-club/6462

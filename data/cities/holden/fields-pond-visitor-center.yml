@@ -1,11 +1,11 @@
 id: 44643601
-type: way
+type: node
 latitude: 44.73827
 longitude: -68.72779
 postcode: "04429"
 city: Holden
-street: "Fields Pond Road"
-housenumber: 216
+street: Fields Pond Road
+housenumber: "216"
 phone: ""
 opening_hours: ""
 website: ""

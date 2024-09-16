@@ -1,11 +1,11 @@
 id: 974163334
-type: way
+type: node
 latitude: 43.8788
 longitude: -70.4651
 postcode: "04071"
 city: Raymond
-street: "Roosevelt Trail"
-housenumber: 1219
-phone: "+1 207 655 3037"
+street: Roosevelt Trail
+housenumber: "1219"
+phone: +1 207 655 3037
 opening_hours: ""
 website: ""

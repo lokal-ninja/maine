@@ -1,11 +1,11 @@
 id: 403558098
-type: way
+type: node
 latitude: 44.11978
 longitude: -69.10258
 postcode: ""
 city: Rockland
-street: "Camden Street"
-housenumber: 136
+street: Camden Street
+housenumber: "136"
 phone: ""
 opening_hours: ""
 website: ""

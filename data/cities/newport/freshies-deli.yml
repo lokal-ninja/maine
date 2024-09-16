@@ -1,11 +1,11 @@
 id: 495775454
-type: way
+type: node
 latitude: 44.83485
 longitude: -69.27097
 postcode: "04953"
 city: Newport
-street: "Elm Street"
-housenumber: 81
+street: Elm Street
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

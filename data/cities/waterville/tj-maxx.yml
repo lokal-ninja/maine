@@ -4,8 +4,8 @@ latitude: 44.53971
 longitude: -69.65262
 postcode: "04901"
 city: Waterville
-street: "Jfk Plaza"
-housenumber: 100
+street: Jfk Plaza
+housenumber: "100"
 phone: "+12078736501"
-opening_hours: "Mo-Sa 9:30-21:30, Su 10:00-20:00"
-website: "https://tjmaxx.tjx.com/store/index.jsp"
+opening_hours: Mo-Sa 9:30-21:30, Su 10:00-20:00
+website: https://tjmaxx.tjx.com/store/index.jsp

@@ -1,11 +1,11 @@
 id: 768892226
-type: way
+type: node
 latitude: 43.44367
 longitude: -70.76564
 postcode: "04073"
 city: Sanford
-street: "High Street"
-housenumber: 88
-phone: "+1-207-324-3888"
-opening_hours: "Mo-We 05:00-20:00; Th-Sa 05:00-21:00; Su 07:00-20:00"
-website: "https://www.facebook.com/Eastside.88HighSt/"
+street: High Street
+housenumber: "88"
+phone: +1-207-324-3888
+opening_hours: Mo-We 05:00-20:00; Th-Sa 05:00-21:00; Su 07:00-20:00
+website: https://www.facebook.com/Eastside.88HighSt/

@@ -1,11 +1,11 @@
 id: 349864141
-type: way
+type: node
 latitude: 43.65706
 longitude: -70.25912
 postcode: "04101"
 city: Portland
-street: "Monument Square"
-housenumber: 28
+street: Monument Square
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

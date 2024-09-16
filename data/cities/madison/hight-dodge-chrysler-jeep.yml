@@ -1,11 +1,11 @@
 id: 378820311
-type: way
+type: node
 latitude: 44.81516
 longitude: -69.76394
 postcode: "04950"
 city: Madison
-street: "Lakewood Road"
-housenumber: 507
-phone: "+1-207-474-7171"
+street: Lakewood Road
+housenumber: "507"
+phone: +1-207-474-7171
 opening_hours: ""
-website: "https://www.hightchryslerdodgejeep.com/"
+website: https://www.hightchryslerdodgejeep.com/

@@ -1,11 +1,11 @@
 id: 546124346
-type: way
+type: node
 latitude: 44.5189
 longitude: -68.39824
 postcode: "04605"
 city: Ellsworth
-street: "Beechland Road"
-housenumber: 191
+street: Beechland Road
+housenumber: "191"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

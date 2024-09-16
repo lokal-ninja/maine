@@ -1,11 +1,11 @@
 id: 306160141
-type: way
+type: node
 latitude: 46.8615
 longitude: -68.00905
 postcode: "04736"
 city: Caribou
-street: "High Street"
-housenumber: 114
-phone: "+1 207-498-8824"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-20:00"
-website: "https://stores.hannaford.com/me/caribou/8438"
+street: High Street
+housenumber: "114"
+phone: +1 207-498-8824
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-20:00
+website: https://stores.hannaford.com/me/caribou/8438

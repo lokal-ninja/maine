@@ -1,11 +1,11 @@
 id: 92932063
-type: way
+type: node
 latitude: 43.11502
 longitude: -70.7282
 postcode: "03904"
 city: Kittery
-street: "Route 1"
-housenumber: 350
+street: Route 1
+housenumber: "350"
 phone: ""
 opening_hours: ""
 website: ""

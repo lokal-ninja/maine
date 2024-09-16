@@ -1,11 +1,11 @@
 id: 1289570533
-type: way
+type: node
 latitude: 43.59592
 longitude: -70.32505
 postcode: "04074"
 city: Scarborough
-street: "Route 1"
-housenumber: 166
+street: Route 1
+housenumber: "166"
 phone: "+12078838380"
 opening_hours: ""
-website: "https://www.sherwin-williams.com/store-locator/paint-store/scarborough/me/705072"
+website: https://www.sherwin-williams.com/store-locator/paint-store/scarborough/me/705072

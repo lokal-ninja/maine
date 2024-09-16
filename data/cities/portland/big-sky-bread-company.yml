@@ -1,11 +1,11 @@
 id: 390345101
-type: way
+type: node
 latitude: 43.67014
 longitude: -70.28467
 postcode: "04103"
 city: Portland
-street: "Deering Avenue"
-housenumber: 563
-phone: "+1-207-761-5623"
+street: Deering Avenue
+housenumber: "563"
+phone: +1-207-761-5623
 opening_hours: ""
-website: "https://www.mainebread.com/"
+website: https://www.mainebread.com/

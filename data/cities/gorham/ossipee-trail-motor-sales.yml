@@ -1,11 +1,11 @@
 id: 1286488656
-type: way
+type: node
 latitude: 43.7192
 longitude: -70.5242
 postcode: "04038"
 city: Gorham
-street: "Ossipee Trail"
-housenumber: 439
+street: Ossipee Trail
+housenumber: "439"
 phone: "+12078393332"
 opening_hours: ""
-website: "https://www.otmotorsales.com/"
+website: https://www.otmotorsales.com/

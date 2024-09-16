@@ -1,11 +1,11 @@
 id: 1072849363
-type: way
+type: node
 latitude: 43.59203
 longitude: -70.33441
 postcode: "04074"
 city: Scarborough
-street: "Gorham Road"
-housenumber: 29
-phone: "+1 207-883-5058"
-opening_hours: "Mo-Fr 07:00-18:00; Sa-Su 08:00-17:00"
+street: Gorham Road
+housenumber: "29"
+phone: +1 207-883-5058
+opening_hours: Mo-Fr 07:00-18:00; Sa-Su 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 395166578
-type: way
+type: node
 latitude: 45.05447
 longitude: -69.88321
 postcode: "04920"
 city: Bingham
-street: "Main Street"
-housenumber: 266
-phone: "+1-207-672-9394"
+street: Main Street
+housenumber: "266"
+phone: +1-207-672-9394
 opening_hours: ""
 website: ""

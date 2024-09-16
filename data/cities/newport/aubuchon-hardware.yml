@@ -1,11 +1,11 @@
 id: 881443478
-type: way
+type: node
 latitude: 44.8387
 longitude: -69.28248
 postcode: "04953"
 city: Newport
-street: "Moosehead Trail"
-housenumber: 83
+street: Moosehead Trail
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

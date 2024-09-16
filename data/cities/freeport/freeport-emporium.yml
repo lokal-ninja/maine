@@ -1,11 +1,11 @@
 id: 377509445
-type: way
+type: node
 latitude: 43.82819
 longitude: -70.1348
 postcode: "04032"
 city: Freeport
-street: "Us Route One"
-housenumber: 308
-phone: "+1-207-869-5672"
+street: Us Route One
+housenumber: "308"
+phone: +1-207-869-5672
 opening_hours: ""
 website: ""

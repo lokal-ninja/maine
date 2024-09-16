@@ -1,11 +1,11 @@
 id: 345288905
-type: way
+type: node
 latitude: 43.66124
 longitude: -70.25071
 postcode: "04101"
 city: Portland
-street: "India Street"
-housenumber: 71
+street: India Street
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
 website: ""

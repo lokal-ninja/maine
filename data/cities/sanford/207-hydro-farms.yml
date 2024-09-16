@@ -1,11 +1,11 @@
 id: 1013430352
-type: way
+type: node
 latitude: 43.40007
 longitude: -70.73849
 postcode: "04073"
 city: Sanford
-street: "Country Club Road"
-housenumber: 168
+street: Country Club Road
+housenumber: "168"
 phone: ""
 opening_hours: ""
-website: "https://www.207hydro.com/"
+website: https://www.207hydro.com/

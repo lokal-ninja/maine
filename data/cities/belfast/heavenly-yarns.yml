@@ -4,8 +4,8 @@ latitude: 44.42612
 longitude: -69.00623
 postcode: "04915"
 city: Belfast
-street: "High Street"
-housenumber: 133
-phone: "+1-207-338-8388"
-opening_hours: "Mo-Th 10:00-18:00; Fr, Sa 10:00-17:00; Su 11:00-16:00"
-website: "https://heavenlysocksyarns.com/"
+street: High Street
+housenumber: "133"
+phone: +1-207-338-8388
+opening_hours: Mo-Th 10:00-18:00; Fr, Sa 10:00-17:00; Su 11:00-16:00
+website: https://heavenlysocksyarns.com/

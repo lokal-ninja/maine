@@ -1,11 +1,11 @@
 id: 695648829
-type: way
+type: node
 latitude: 44.12963
 longitude: -70.22406
 postcode: "04210"
 city: Auburn
-street: "Center Street"
-housenumber: 809
+street: Center Street
+housenumber: "809"
 phone: ""
 opening_hours: ""
 website: ""

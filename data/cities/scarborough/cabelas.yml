@@ -1,11 +1,11 @@
 id: 156570855
-type: way
+type: node
 latitude: 43.60296
 longitude: -70.37253
 postcode: "04074"
 city: Scarborough
-street: "Cabela Boulevard"
-housenumber: 100
+street: Cabela Boulevard
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-19:00"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-19:00
 website: ""

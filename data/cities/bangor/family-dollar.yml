@@ -1,11 +1,11 @@
 id: 456635733
-type: way
+type: node
 latitude: 44.80301
 longitude: -68.76692
 postcode: "04401"
 city: Bangor
-street: "State Street"
-housenumber: 89
+street: State Street
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

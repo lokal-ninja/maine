@@ -1,11 +1,11 @@
 id: 724301793
-type: way
+type: node
 latitude: 43.40374
 longitude: -70.71756
 postcode: "04073"
 city: Sanford
-street: "Main Street"
-housenumber: 1754
-phone: "+1-833-648-6617"
+street: Main Street
+housenumber: "1754"
+phone: +1-833-648-6617
 opening_hours: ""
-website: "https://www.marcmotors.com/"
+website: https://www.marcmotors.com/

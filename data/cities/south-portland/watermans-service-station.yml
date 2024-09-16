@@ -1,11 +1,11 @@
 id: 417949433
-type: way
+type: node
 latitude: 43.62133
 longitude: -70.30306
 postcode: "04106"
 city: South Portland
-street: "Main Street"
-housenumber: 620
-phone: "+1-207-517-2247"
+street: Main Street
+housenumber: "620"
+phone: +1-207-517-2247
 opening_hours: ""
-website: "jeffwatermansservicecenter.com"
+website: jeffwatermansservicecenter.com

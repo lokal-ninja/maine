@@ -1,11 +1,11 @@
 id: 388344519
-type: way
+type: node
 latitude: 44.08736
 longitude: -70.22281
 postcode: "04210"
 city: Auburn
-street: "Broad Street"
-housenumber: 58
-phone: "+1-207-782-1966"
+street: Broad Street
+housenumber: "58"
+phone: +1-207-782-1966
 opening_hours: ""
 website: ""

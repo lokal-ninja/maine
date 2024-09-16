@@ -1,11 +1,11 @@
 id: 345288883
-type: way
+type: node
 latitude: 43.6621
 longitude: -70.25294
 postcode: "04101"
 city: Portland
-street: "Congress Street"
-housenumber: 273
-phone: "+1 (207) 536-4778"
+street: Congress Street
+housenumber: "273"
+phone: +1 (207) 536-4778
 opening_hours: ""
-website: "https://www.printbookstore.com/"
+website: https://www.printbookstore.com/

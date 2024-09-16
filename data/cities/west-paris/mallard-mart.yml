@@ -1,11 +1,11 @@
 id: 594643211
-type: way
+type: node
 latitude: 44.32972
 longitude: -70.55487
 postcode: "04289"
 city: West Paris
-street: "Bethel Road"
-housenumber: 175
+street: Bethel Road
+housenumber: "175"
 phone: ""
-opening_hours: "06:00-19:00"
+opening_hours: 06:00-19:00
 website: ""

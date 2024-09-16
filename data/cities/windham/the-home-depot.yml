@@ -1,11 +1,11 @@
 id: 579006637
-type: way
+type: node
 latitude: 43.84319
 longitude: -70.44274
 postcode: "04062"
 city: Windham
-street: "Franklin Drive"
-housenumber: 20
-phone: "+1 207-892-1793"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/north-windham/me/windham/04062/2412"
+street: Franklin Drive
+housenumber: "20"
+phone: +1 207-892-1793
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/north-windham/me/windham/04062/2412

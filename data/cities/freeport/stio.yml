@@ -1,11 +1,11 @@
 id: 142995161
-type: way
+type: node
 latitude: 43.85684
 longitude: -70.10265
 postcode: "04032"
 city: Freeport
-street: "Bow Street"
-housenumber: 6
+street: Bow Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.stio.com/"
+website: https://www.stio.com/

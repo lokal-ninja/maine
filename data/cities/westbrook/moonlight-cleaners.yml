@@ -1,11 +1,11 @@
 id: 698380887
-type: way
+type: node
 latitude: 43.67647
 longitude: -70.36483
 postcode: "04092"
 city: Westbrook
-street: "Main Street"
-housenumber: 823
+street: Main Street
+housenumber: "823"
 phone: ""
 opening_hours: ""
-website: "https://moonlight-cleaners-me.hub.biz/"
+website: https://moonlight-cleaners-me.hub.biz/

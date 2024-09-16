@@ -1,11 +1,11 @@
 id: 384444660
-type: way
+type: node
 latitude: 44.10839
 longitude: -69.11082
 postcode: "04841"
 city: Rockland
-street: "Main Street"
-housenumber: 574
-phone: "+1-207-594-1011"
+street: Main Street
+housenumber: "574"
+phone: +1-207-594-1011
 opening_hours: ""
-website: "https://www.autozone.com/locations/me/rockland/574-main-st.html"
+website: https://www.autozone.com/locations/me/rockland/574-main-st.html

@@ -1,11 +1,11 @@
 id: 377405306
-type: way
+type: node
 latitude: 44.83358
 longitude: -68.7383
 postcode: "04401"
 city: Bangor
-street: "Haskell Road"
-housenumber: 162
+street: Haskell Road
+housenumber: "162"
 phone: ""
 opening_hours: ""
 website: ""

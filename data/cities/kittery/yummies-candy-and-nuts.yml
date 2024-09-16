@@ -1,11 +1,11 @@
 id: 124989325
-type: way
+type: node
 latitude: 43.1177
 longitude: -70.72476
 postcode: "03904"
 city: Kittery
-street: "US Route 1"
-housenumber: 384
+street: US Route 1
+housenumber: "384"
 phone: ""
 opening_hours: ""
-website: "https://yummies.com/"
+website: https://yummies.com/

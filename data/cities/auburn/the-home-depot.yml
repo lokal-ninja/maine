@@ -1,11 +1,11 @@
 id: 695648832
-type: way
+type: node
 latitude: 44.12242
 longitude: -70.24084
 postcode: "04210"
 city: Auburn
-street: "Mount Auburn Avenue"
-housenumber: 149
-phone: "+1 207-777-0042"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/auburn-me/me/auburn/04210/2403"
+street: Mount Auburn Avenue
+housenumber: "149"
+phone: +1 207-777-0042
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/auburn-me/me/auburn/04210/2403

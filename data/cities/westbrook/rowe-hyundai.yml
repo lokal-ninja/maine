@@ -1,11 +1,11 @@
 id: 464515734
-type: way
+type: node
 latitude: 43.67941
 longitude: -70.33251
 postcode: ""
 city: Westbrook
-street: "Main Street"
-housenumber: 914
+street: Main Street
+housenumber: "914"
 phone: ""
 opening_hours: ""
 website: ""

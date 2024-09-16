@@ -1,11 +1,11 @@
 id: 608153321
-type: way
+type: node
 latitude: 44.74476
 longitude: -68.84224
 postcode: "04444"
 city: Hampden
-street: "Western Avenue"
-housenumber: 45
+street: Western Avenue
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

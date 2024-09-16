@@ -1,11 +1,11 @@
 id: 674524118
-type: way
+type: node
 latitude: 44.11532
 longitude: -70.23572
 postcode: "04210"
 city: Auburn
-street: "Turner Street"
-housenumber: 650
-phone: "+1 207-514-2300"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/me-auburn/2514"
+street: Turner Street
+housenumber: "650"
+phone: +1 207-514-2300
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/me-auburn/2514

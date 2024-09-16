@@ -1,11 +1,11 @@
 id: 431039461
-type: way
+type: node
 latitude: 45.87472
 longitude: -68.41629
 postcode: "04776"
 city: Sherman
-street: "Main Street"
-housenumber: 18
+street: Main Street
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

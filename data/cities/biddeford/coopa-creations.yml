@@ -4,8 +4,8 @@ latitude: 43.48687
 longitude: -70.46622
 postcode: "04005"
 city: Biddeford
-street: "Elm Street"
-housenumber: 321
+street: Elm Street
+housenumber: "321"
 phone: "+12072848882"
 opening_hours: ""
-website: "http://www.coopacreations.com/"
+website: http://www.coopacreations.com/

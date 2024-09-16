@@ -1,11 +1,11 @@
 id: 103753290
-type: way
+type: node
 latitude: 44.83665
 longitude: -68.74528
 postcode: "04401"
 city: Bangor
-street: "Bangor Mall Boulevard"
-housenumber: 45
-phone: "+1 207-942-3434"
+street: Bangor Mall Boulevard
+housenumber: "45"
+phone: +1 207-942-3434
 opening_hours: ""
-website: "https://stores.bestbuy.com/me/bangor/45-bangor-mall-blvd-463.html"
+website: https://stores.bestbuy.com/me/bangor/45-bangor-mall-blvd-463.html

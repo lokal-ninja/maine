@@ -1,11 +1,11 @@
 id: 735360128
-type: way
+type: node
 latitude: 43.45879
 longitude: -70.79171
 postcode: "04083"
 city: Springvale
-street: "Main Street"
-housenumber: 580
+street: Main Street
+housenumber: "580"
 phone: ""
 opening_hours: ""
-website: "https://www.blackfuneralhomes.com/black-heald/"
+website: https://www.blackfuneralhomes.com/black-heald/

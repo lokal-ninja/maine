@@ -1,11 +1,11 @@
 id: 985999157
-type: way
+type: node
 latitude: 44.32811
 longitude: -69.78143
 postcode: "04330"
 city: Augusta
-street: "Mount Vernon Avenue"
-housenumber: 132
+street: Mount Vernon Avenue
+housenumber: "132"
 phone: "+12076218220"
 opening_hours: ""
-website: "https://nouriaenergy.com/locations/augusta-me-mount-vernon-ave/"
+website: https://nouriaenergy.com/locations/augusta-me-mount-vernon-ave/

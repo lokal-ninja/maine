@@ -1,11 +1,11 @@
 id: 370354122
-type: way
+type: node
 latitude: 43.90381
 longitude: -69.91311
 postcode: "04011"
 city: Brunswick
-street: "Gurnet Road"
-housenumber: 31
-phone: "+1-207-721-9330"
+street: Gurnet Road
+housenumber: "31"
+phone: +1-207-721-9330
 opening_hours: ""
 website: ""

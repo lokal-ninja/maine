@@ -1,11 +1,11 @@
 id: 872030886
-type: way
+type: node
 latitude: 43.80533
 longitude: -70.81491
 postcode: "04020"
 city: Cornish
-street: "South Hiram Road"
-housenumber: 728
+street: South Hiram Road
+housenumber: "728"
 phone: ""
 opening_hours: ""
-website: "https://www.moultonlumber.com/"
+website: https://www.moultonlumber.com/

@@ -1,11 +1,11 @@
 id: 446367709
-type: way
+type: node
 latitude: 44.40769
 longitude: -70.26479
 postcode: "04253"
 city: Livermore
-street: "Shackley Hill Road"
-housenumber: 57
+street: Shackley Hill Road
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

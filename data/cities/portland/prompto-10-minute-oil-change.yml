@@ -1,11 +1,11 @@
 id: 390348449
-type: way
+type: node
 latitude: 43.66701
 longitude: -70.27761
 postcode: "04101"
 city: Portland
-street: "Forest Avenue"
-housenumber: 471
-phone: "+1-207-775-6280"
+street: Forest Avenue
+housenumber: "471"
+phone: +1-207-775-6280
 opening_hours: ""
 website: ""

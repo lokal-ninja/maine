@@ -4,8 +4,8 @@ latitude: 44.40394
 longitude: -68.60328
 postcode: "04614"
 city: Blue Hill
-street: "Mines Rd"
-housenumber: 75
-phone: "+1 -207-374-9290"
-opening_hours: "Monday-Saturday: 5:30AM to 8:00PM, Sunday: 6:00AM to 7:30PM"
-website: "https://mikesmarketii.com"
+street: Mines Rd
+housenumber: "75"
+phone: +1 -207-374-9290
+opening_hours: 'Monday-Saturday: 5:30AM to 8:00PM, Sunday: 6:00AM to 7:30PM'
+website: https://mikesmarketii.com

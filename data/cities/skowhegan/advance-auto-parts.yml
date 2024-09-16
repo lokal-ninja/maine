@@ -1,11 +1,11 @@
 id: 302355424
-type: way
+type: node
 latitude: 44.77905
 longitude: -69.72541
 postcode: "04976"
 city: Skowhegan
-street: "Madison Avenue"
-housenumber: 253
+street: Madison Avenue
+housenumber: "253"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/me/skowhegan/253-madison-ave"
+website: https://stores.advanceautoparts.com/me/skowhegan/253-madison-ave

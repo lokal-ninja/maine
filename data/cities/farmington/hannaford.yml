@@ -1,11 +1,11 @@
 id: 379678675
-type: way
+type: node
 latitude: 44.65043
 longitude: -70.15154
 postcode: "04938"
 city: Farmington
-street: "Hannaford Drive"
-housenumber: 131
-phone: "+1 207-778-0434"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://stores.hannaford.com/me/farmington/8291"
+street: Hannaford Drive
+housenumber: "131"
+phone: +1 207-778-0434
+opening_hours: Mo-Su 07:00-21:00
+website: https://stores.hannaford.com/me/farmington/8291

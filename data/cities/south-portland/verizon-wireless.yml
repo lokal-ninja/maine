@@ -1,11 +1,11 @@
 id: 405563096
-type: way
+type: node
 latitude: 43.63683
 longitude: -70.33109
 postcode: "04106"
 city: South Portland
-street: "Gorham Road"
-housenumber: 365
-phone: "+1-207-773-1033"
+street: Gorham Road
+housenumber: "365"
+phone: +1-207-773-1033
 opening_hours: ""
 website: ""

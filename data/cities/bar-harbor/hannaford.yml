@@ -1,11 +1,12 @@
 id: 299398557
-type: way
+type: node
 latitude: 44.38858
 longitude: -68.21035
 postcode: "04609"
 city: Bar Harbor
-street: "Cottage Street"
-housenumber: 86
-phone: "+1 207-288-5680"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-20:00; Jun 21-Sep 21 07:00-23:00; Nov Th[4] off; Dec 25 off"
-website: "https://stores.hannaford.com/me/bar-harbor/8224"
+street: Cottage Street
+housenumber: "86"
+phone: +1 207-288-5680
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-20:00; Jun 21-Sep 21 07:00-23:00; Nov Th[4]
+    off; Dec 25 off
+website: https://stores.hannaford.com/me/bar-harbor/8224

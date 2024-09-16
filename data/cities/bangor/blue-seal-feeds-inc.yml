@@ -1,11 +1,11 @@
 id: 375850719
-type: way
+type: node
 latitude: 44.83785
 longitude: -68.74731
 postcode: "04401"
 city: Bangor
-street: "Stillwater Avenue"
-housenumber: 876
+street: Stillwater Avenue
+housenumber: "876"
 phone: ""
 opening_hours: ""
 website: ""

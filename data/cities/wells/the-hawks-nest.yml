@@ -4,8 +4,9 @@ latitude: 43.33798
 longitude: -70.705
 postcode: "04090"
 city: Wells
-street: "Quarry Road"
-housenumber: 586
+street: Quarry Road
+housenumber: "586"
 phone: ""
-opening_hours: "Mo 06:00-19:00; Tu-Th 06:00-20:00; Fr 06:00-21:30; Sa 07:00-21:30; Su 08:00-18:00"
-website: "http://www.facebook.com/thehawksnestdeli"
+opening_hours: Mo 06:00-19:00; Tu-Th 06:00-20:00; Fr 06:00-21:30; Sa 07:00-21:30;
+    Su 08:00-18:00
+website: http://www.facebook.com/thehawksnestdeli

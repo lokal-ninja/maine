@@ -1,11 +1,11 @@
 id: 697017769
-type: way
+type: node
 latitude: 43.52732
 longitude: -70.42625
 postcode: "04072"
 city: Saco
-street: "Portland Road"
-housenumber: 769
+street: Portland Road
+housenumber: "769"
 phone: ""
 opening_hours: ""
 website: ""

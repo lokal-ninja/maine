@@ -1,11 +1,11 @@
 id: 546102591
-type: way
+type: node
 latitude: 44.51908
 longitude: -68.3943
 postcode: "04605"
 city: Ellsworth
-street: "Buttermilk Road"
-housenumber: 9
+street: Buttermilk Road
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 06:00-16:30, Sa 08:00-12:00"
+opening_hours: Mo-Fr 06:00-16:30, Sa 08:00-12:00
 website: ""

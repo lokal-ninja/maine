@@ -1,11 +1,11 @@
 id: 881445706
-type: way
+type: node
 latitude: 44.83984
 longitude: -69.29492
 postcode: "04965"
 city: Palmyra
-street: "Main Street"
-housenumber: 1560
-phone: "+1 207-368-2299"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Main Street
+housenumber: "1560"
+phone: +1 207-368-2299
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

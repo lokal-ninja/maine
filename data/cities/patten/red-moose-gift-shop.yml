@@ -1,11 +1,11 @@
 id: 1020911240
-type: way
+type: node
 latitude: 45.99613
 longitude: -68.44752
 postcode: "04765"
 city: Patten
-street: "Main Street"
-housenumber: 14
+street: Main Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 165416344
-type: way
+type: node
 latitude: 46.14344
 longitude: -67.84327
 postcode: "04730"
 city: Houlton
-street: "Ludlow Road"
-housenumber: 17
-phone: "+1 207-532-2181"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.walmart.com/store/1974/houlton-me/whats-new"
+street: Ludlow Road
+housenumber: "17"
+phone: +1 207-532-2181
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.walmart.com/store/1974/houlton-me/whats-new

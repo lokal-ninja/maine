@@ -1,11 +1,11 @@
 id: 1091361342
-type: way
+type: node
 latitude: 44.09576
 longitude: -69.13939
 postcode: "04861"
 city: Thomaston
-street: "Moody Drive"
-housenumber: 2
+street: Moody Drive
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.keyfordofrockland.com/"
+website: https://www.keyfordofrockland.com/

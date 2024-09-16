@@ -1,11 +1,11 @@
 id: 405206854
-type: way
+type: node
 latitude: 43.63347
 longitude: -70.32247
 postcode: "04106"
 city: South Portland
-street: "Clarks Pond Parkway"
-housenumber: 100
-phone: "+1-207-761-7059"
+street: Clarks Pond Parkway
+housenumber: "100"
+phone: +1-207-761-7059
 opening_hours: ""
 website: ""

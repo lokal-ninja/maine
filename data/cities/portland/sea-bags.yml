@@ -4,8 +4,8 @@ latitude: 43.65675
 longitude: -70.25143
 postcode: "04101"
 city: Portland
-street: "Commercial Street"
-housenumber: 123
+street: Commercial Street
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

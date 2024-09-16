@@ -1,11 +1,11 @@
 id: 369609088
-type: way
+type: node
 latitude: 43.96288
 longitude: -70.2811
 postcode: "04260"
 city: New Gloucester
-street: "Intervale Road"
-housenumber: 405
-phone: "+1-207-926-4224"
+street: Intervale Road
+housenumber: "405"
+phone: +1-207-926-4224
 opening_hours: ""
-website: "https://www.ngvillagestore.com/"
+website: https://www.ngvillagestore.com/

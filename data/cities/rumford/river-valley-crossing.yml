@@ -1,11 +1,11 @@
 id: 396108556
-type: way
+type: node
 latitude: 44.52051
 longitude: -70.55756
 postcode: "04276"
 city: Rumford
-street: "US-2"
-housenumber: 1016
+street: US-2
+housenumber: "1016"
 phone: ""
 opening_hours: ""
-website: "http://www.wrebrokers.com/Listings/Rumford%20Plaza.htm"
+website: http://www.wrebrokers.com/Listings/Rumford%20Plaza.htm

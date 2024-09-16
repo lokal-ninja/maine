@@ -4,8 +4,8 @@ latitude: 43.64007
 longitude: -70.24338
 postcode: "04106"
 city: South Portland
-street: "Broadway"
-housenumber: 323
+street: Broadway
+housenumber: "323"
 phone: ""
-opening_hours: "Mo-Su 06:00-20:00"
-website: "https://southportlandconveniencestore.com"
+opening_hours: Mo-Su 06:00-20:00
+website: https://southportlandconveniencestore.com

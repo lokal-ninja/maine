@@ -1,11 +1,11 @@
 id: 388358965
-type: way
+type: node
 latitude: 44.08834
 longitude: -69.8028
 postcode: "04357"
 city: Richmond
-street: "Main Street"
-housenumber: 69
-phone: "+1-207-737-4366"
+street: Main Street
+housenumber: "69"
+phone: +1-207-737-4366
 opening_hours: ""
-website: "http://www.piercescountrystore.com/"
+website: http://www.piercescountrystore.com/

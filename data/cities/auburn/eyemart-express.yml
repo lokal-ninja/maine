@@ -4,8 +4,8 @@ latitude: 44.11515
 longitude: -70.22417
 postcode: "04210"
 city: Auburn
-street: "Center Street"
-housenumber: 363
-phone: "+1-207-530-8008"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
+street: Center Street
+housenumber: "363"
+phone: +1-207-530-8008
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

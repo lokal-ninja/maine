@@ -1,11 +1,11 @@
 id: 681661089
-type: way
+type: node
 latitude: 44.08166
 longitude: -70.25594
 postcode: "04210"
 city: Auburn
-street: "Minot Avenue"
-housenumber: 698
+street: Minot Avenue
+housenumber: "698"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-698+minot+ave-auburn-me-04210/id=19162"
+website: https://www.walgreens.com/locator/walgreens-698+minot+ave-auburn-me-04210/id=19162

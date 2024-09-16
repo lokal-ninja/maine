@@ -1,11 +1,11 @@
 id: 983251564
-type: way
+type: node
 latitude: 43.38451
 longitude: -70.54259
 postcode: "04043"
 city: Kennebunk
-street: "Main Street"
-housenumber: 3
-phone: "+1-207-985-2471"
+street: Main Street
+housenumber: "3"
+phone: +1-207-985-2471
 opening_hours: ""
-website: "https://www.cumberlandfarms.com/stores/me/kennebunk-5559"
+website: https://www.cumberlandfarms.com/stores/me/kennebunk-5559

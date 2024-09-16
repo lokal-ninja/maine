@@ -1,11 +1,11 @@
 id: 385331598
-type: way
+type: node
 latitude: 44.54445
 longitude: -70.54603
 postcode: "04276"
 city: Rumford
-street: "Congress Street"
-housenumber: 43
+street: Congress Street
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

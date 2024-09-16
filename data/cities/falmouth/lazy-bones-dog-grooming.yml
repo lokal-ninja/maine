@@ -1,11 +1,11 @@
 id: 781070669
-type: way
+type: node
 latitude: 43.71802
 longitude: -70.23273
 postcode: "04105"
 city: Falmouth
-street: "Route 1"
-housenumber: 213
+street: Route 1
+housenumber: "213"
 phone: ""
 opening_hours: ""
 website: ""

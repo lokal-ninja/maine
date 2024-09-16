@@ -1,11 +1,11 @@
 id: 421919667
-type: way
+type: node
 latitude: 44.1039
 longitude: -69.10726
 postcode: "04841"
 city: Rockland
-street: "Park Drive"
-housenumber: 20
+street: Park Drive
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 588136330
-type: way
+type: node
 latitude: 44.66166
 longitude: -70.15533
 postcode: "04938"
 city: Farmington
-street: "Oakes Street"
-housenumber: 113
+street: Oakes Street
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

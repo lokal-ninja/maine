@@ -1,11 +1,11 @@
 id: 631652629
-type: way
+type: node
 latitude: 45.35426
 longitude: -68.53018
 postcode: "04457"
 city: Lincoln
-street: "West Broadway"
-housenumber: 302
-phone: "+1-207-794-6113"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:30-13:00"
-website: "https://swcollins.com/"
+street: West Broadway
+housenumber: "302"
+phone: +1-207-794-6113
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:30-13:00
+website: https://swcollins.com/

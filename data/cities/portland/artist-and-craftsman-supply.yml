@@ -1,11 +1,11 @@
 id: 390345102
-type: way
+type: node
 latitude: 43.6704
 longitude: -70.28517
 postcode: "04103"
 city: Portland
-street: "Deering Avenue"
-housenumber: 540
-phone: "+1-207-772-7272"
+street: Deering Avenue
+housenumber: "540"
+phone: +1-207-772-7272
 opening_hours: ""
-website: "https://www.artistcraftsman.com/"
+website: https://www.artistcraftsman.com/

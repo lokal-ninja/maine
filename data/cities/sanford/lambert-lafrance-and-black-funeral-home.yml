@@ -1,11 +1,11 @@
 id: 768678332
-type: way
+type: node
 latitude: 43.44243
 longitude: -70.77596
 postcode: "04073"
 city: Sanford
-street: "Winter Street"
-housenumber: 29
+street: Winter Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://www.blackfuneralhomes.com/lafrance-lambert/index.shtml"
+website: https://www.blackfuneralhomes.com/lafrance-lambert/index.shtml

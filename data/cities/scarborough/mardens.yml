@@ -1,11 +1,11 @@
 id: 456474296
-type: way
+type: node
 latitude: 43.62287
 longitude: -70.3482
 postcode: "04074"
 city: Scarborough
-street: "Payne Road"
-housenumber: 451
+street: Payne Road
+housenumber: "451"
 phone: ""
 opening_hours: ""
 website: ""

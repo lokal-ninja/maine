@@ -1,11 +1,11 @@
 id: 164510357
-type: way
+type: node
 latitude: 44.32144
 longitude: -68.1895
 postcode: "04609"
 city: Bar Harbor
-street: "Park Loop Road"
-housenumber: 1411
+street: Park Loop Road
+housenumber: "1411"
 phone: ""
 opening_hours: ""
 website: ""

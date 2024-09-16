@@ -1,11 +1,11 @@
 id: 293804027
-type: way
+type: node
 latitude: 44.28925
 longitude: -70.36464
 postcode: "04220"
 city: Buckfield
-street: "Turner Street"
-housenumber: 11
+street: Turner Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

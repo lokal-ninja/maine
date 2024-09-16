@@ -1,11 +1,11 @@
 id: 790360231
-type: way
+type: node
 latitude: 44.34527
 longitude: -69.7893
 postcode: "04330"
 city: Augusta
-street: "Xavier Loop"
-housenumber: 37
+street: Xavier Loop
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

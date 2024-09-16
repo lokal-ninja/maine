@@ -1,11 +1,11 @@
 id: 698380883
-type: way
+type: node
 latitude: 43.67625
 longitude: -70.3627
 postcode: "04092"
 city: Westbrook
-street: "Main Street"
-housenumber: 782
+street: Main Street
+housenumber: "782"
 phone: ""
 opening_hours: ""
 website: ""

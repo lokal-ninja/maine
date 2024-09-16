@@ -1,11 +1,11 @@
 id: 428057581
-type: way
+type: node
 latitude: 43.67542
 longitude: -70.3662
 postcode: "04092"
 city: Westbrook
-street: "Church Street"
-housenumber: 35
+street: Church Street
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

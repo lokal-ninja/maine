@@ -4,8 +4,8 @@ latitude: 45.65745
 longitude: -68.70932
 postcode: "04462"
 city: Millinocket
-street: "Penobscot Avenue"
-housenumber: 256
-phone: "+1-207-723-4414"
-opening_hours: "Mo-Sa 10:00-18:00, Su by chance"
-website: "https://www.artnorthlight.com/"
+street: Penobscot Avenue
+housenumber: "256"
+phone: +1-207-723-4414
+opening_hours: Mo-Sa 10:00-18:00, Su "by chance"
+website: https://www.artnorthlight.com/

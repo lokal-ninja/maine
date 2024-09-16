@@ -1,11 +1,11 @@
 id: 706737196
-type: way
+type: node
 latitude: 44.08002
 longitude: -70.19527
 postcode: "04240"
 city: Lewiston
-street: "Lisbon Street"
-housenumber: 1035
+street: Lisbon Street
+housenumber: "1035"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/me/lewiston/2837/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/me/lewiston/2837/

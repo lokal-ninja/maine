@@ -1,11 +1,11 @@
 id: 962038542
-type: way
+type: node
 latitude: 43.08538
 longitude: -70.69691
 postcode: "03905"
 city: Kittery Point
-street: "Pepperrell Road"
-housenumber: 150
+street: Pepperrell Road
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

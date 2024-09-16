@@ -1,11 +1,11 @@
 id: 628935410
-type: way
+type: node
 latitude: 44.09077
 longitude: -69.13811
 postcode: "04861"
 city: Thomaston
-street: "Thomaston Commons Way"
-housenumber: 55
-phone: "+1 207-596-0885"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1797/thomaston-me/whats-new"
+street: Thomaston Commons Way
+housenumber: "55"
+phone: +1 207-596-0885
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1797/thomaston-me/whats-new

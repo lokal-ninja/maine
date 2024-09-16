@@ -1,11 +1,11 @@
 id: 1280563381
-type: way
+type: node
 latitude: 44.53053
 longitude: -68.37596
 postcode: "04605"
 city: Hancock
-street: "US Highway 1"
-housenumber: 110
+street: US Highway 1
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

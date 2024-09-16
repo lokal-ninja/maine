@@ -1,11 +1,11 @@
 id: 664747324
-type: way
+type: node
 latitude: 43.62682
 longitude: -70.28222
 postcode: "04106"
 city: South Portland
-street: "Park Avenue"
-housenumber: 20
+street: Park Avenue
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

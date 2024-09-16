@@ -4,8 +4,8 @@ latitude: 44.42042
 longitude: -69.0181
 postcode: ""
 city: Belfast
-street: "Lincolnville Avenue"
-housenumber: 93
-phone: "+1 207-338-5377"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://stores.hannaford.com/me/belfast/8241"
+street: Lincolnville Avenue
+housenumber: "93"
+phone: +1 207-338-5377
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://stores.hannaford.com/me/belfast/8241

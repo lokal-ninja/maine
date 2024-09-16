@@ -1,11 +1,11 @@
 id: 403557974
-type: way
+type: node
 latitude: 44.11803
 longitude: -69.10577
 postcode: "04841"
 city: Rockland
-street: "Maverick Street"
-housenumber: 75
-phone: "+1 207-594-2173"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://stores.hannaford.com/me/rockland/8230"
+street: Maverick Street
+housenumber: "75"
+phone: +1 207-594-2173
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://stores.hannaford.com/me/rockland/8230

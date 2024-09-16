@@ -4,8 +4,8 @@ latitude: 44.42636
 longitude: -69.00633
 postcode: "04915"
 city: Belfast
-street: "Main Street"
-housenumber: 78
-phone: "+1-207-338-9984"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://allaboutgamesmaine.com/"
+street: Main Street
+housenumber: "78"
+phone: +1-207-338-9984
+opening_hours: Mo-Sa 10:00-17:00
+website: https://allaboutgamesmaine.com/

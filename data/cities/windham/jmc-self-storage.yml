@@ -1,11 +1,11 @@
 id: 974495727
-type: way
+type: node
 latitude: 43.8562
 longitude: -70.45447
 postcode: "04062"
 city: Windham
-street: "Roosevelt Trail"
-housenumber: 964
-phone: "+1 207 376 3325"
+street: Roosevelt Trail
+housenumber: "964"
+phone: +1 207 376 3325
 opening_hours: ""
-website: "http://jmcstorage.com"
+website: http://jmcstorage.com

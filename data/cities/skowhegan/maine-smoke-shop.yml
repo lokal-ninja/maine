@@ -1,11 +1,11 @@
 id: 279187711
-type: way
+type: node
 latitude: 44.76568
 longitude: -69.71811
 postcode: "04976"
 city: Skowhegan
-street: "Water Street"
-housenumber: 102
-phone: "+1-207-474-9883"
+street: Water Street
+housenumber: "102"
+phone: +1-207-474-9883
 opening_hours: ""
 website: ""

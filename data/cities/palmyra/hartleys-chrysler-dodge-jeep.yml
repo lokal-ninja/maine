@@ -1,11 +1,11 @@
 id: 495773816
-type: way
+type: node
 latitude: 44.83761
 longitude: -69.28633
 postcode: "04965"
 city: Palmyra
-street: "Main Street"
-housenumber: 30
+street: Main Street
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

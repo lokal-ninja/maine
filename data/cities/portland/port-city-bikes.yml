@@ -4,8 +4,8 @@ latitude: 43.65938
 longitude: -70.26538
 postcode: "04101"
 city: Portland
-street: "Parris Street"
-housenumber: 82
+street: Parris Street
+housenumber: "82"
 phone: ""
 opening_hours: ""
-website: "https://www.portcitybikes.com/"
+website: https://www.portcitybikes.com/

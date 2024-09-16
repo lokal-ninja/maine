@@ -1,11 +1,11 @@
 id: 170680369
-type: way
+type: node
 latitude: 44.56694
 longitude: -68.80365
 postcode: ""
 city: Prospect
-street: "Fort Knox Road"
-housenumber: 170
+street: Fort Knox Road
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

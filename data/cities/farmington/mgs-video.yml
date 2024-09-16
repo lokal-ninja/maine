@@ -1,11 +1,11 @@
 id: 819863652
-type: way
+type: node
 latitude: 44.66256
 longitude: -70.15269
 postcode: "04938"
 city: Farmington
-street: "Bridge Street"
-housenumber: 105
+street: Bridge Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

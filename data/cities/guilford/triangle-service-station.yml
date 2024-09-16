@@ -1,11 +1,11 @@
 id: 635038605
-type: way
+type: node
 latitude: 45.16721
 longitude: -69.38642
 postcode: "04443"
 city: Guilford
-street: "Elm Street"
-housenumber: 2
+street: Elm Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

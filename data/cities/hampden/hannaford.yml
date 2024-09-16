@@ -1,11 +1,11 @@
 id: 608149032
-type: way
+type: node
 latitude: 44.74403
 longitude: -68.8455
 postcode: "04444"
 city: Hampden
-street: "Western Avenue"
-housenumber: 77
-phone: "+1 207-862-5444"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://stores.hannaford.com/me/hampden/8417"
+street: Western Avenue
+housenumber: "77"
+phone: +1 207-862-5444
+opening_hours: Mo-Su 07:00-21:00
+website: https://stores.hannaford.com/me/hampden/8417

@@ -1,11 +1,11 @@
 id: 1080801669
-type: way
+type: node
 latitude: 43.09875
 longitude: -70.74521
 postcode: "03904"
 city: Kittery
-street: "State Road"
-housenumber: 151
+street: State Road
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

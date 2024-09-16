@@ -1,11 +1,11 @@
 id: 425189008
-type: way
+type: node
 latitude: 44.39481
 longitude: -68.08571
 postcode: "04693"
 city: Winterharbor
-street: "Main Street"
-housenumber: 256
+street: Main Street
+housenumber: "256"
 phone: ""
 opening_hours: ""
 website: ""

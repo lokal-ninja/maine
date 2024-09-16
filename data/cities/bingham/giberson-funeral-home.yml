@@ -1,11 +1,11 @@
 id: 405235780
-type: way
+type: node
 latitude: 45.05741
 longitude: -69.88457
 postcode: "04920"
 city: Bingham
-street: "River Street"
-housenumber: 18
-phone: "+1-207-672-5563"
+street: River Street
+housenumber: "18"
+phone: +1-207-672-5563
 opening_hours: ""
 website: ""

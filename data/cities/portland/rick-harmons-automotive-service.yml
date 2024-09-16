@@ -1,11 +1,11 @@
 id: 395442111
-type: way
+type: node
 latitude: 43.68675
 longitude: -70.29072
 postcode: "04103"
 city: Portland
-street: "Bell Street"
-housenumber: 31
-phone: "+1-207-797-8700"
+street: Bell Street
+housenumber: "31"
+phone: +1-207-797-8700
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 508709817
-type: way
+type: node
 latitude: 44.78322
 longitude: -68.75022
 postcode: "04412"
 city: Brewer
-street: "Wilson Street"
-housenumber: 435
+street: Wilson Street
+housenumber: "435"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 983427723
-type: way
+type: node
 latitude: 43.08566
 longitude: -70.74724
 postcode: "03904"
 city: Kittery
-street: "Government Street"
-housenumber: 44
+street: Government Street
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

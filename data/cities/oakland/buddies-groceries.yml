@@ -4,8 +4,8 @@ latitude: 44.54789
 longitude: -69.71723
 postcode: "04963"
 city: Oakland
-street: "Main Street"
-housenumber: 43
+street: Main Street
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00, Su 8:00-20:00"
+opening_hours: Mo-Sa 07:30-20:00, Su 8:00-20:00
 website: ""

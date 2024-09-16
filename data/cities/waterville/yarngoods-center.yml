@@ -1,11 +1,11 @@
 id: 328285896
-type: way
+type: node
 latitude: 44.55059
 longitude: -69.63167
 postcode: "04901"
 city: Waterville
-street: "Concourse West"
-housenumber: 60
+street: Concourse West
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

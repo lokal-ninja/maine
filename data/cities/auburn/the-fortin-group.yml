@@ -1,11 +1,11 @@
 id: 386870329
-type: way
+type: node
 latitude: 44.1031
 longitude: -70.22713
 postcode: "04210"
 city: Auburn
-street: "Turner Street"
-housenumber: 217
-phone: "+1-207-783-8545"
+street: Turner Street
+housenumber: "217"
+phone: +1-207-783-8545
 opening_hours: ""
-website: "https://www.dignitymemorial.com/the-fortin-group-auburn/en-us/index.page"
+website: https://www.dignitymemorial.com/the-fortin-group-auburn/en-us/index.page

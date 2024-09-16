@@ -1,11 +1,11 @@
 id: 914241917
-type: way
+type: node
 latitude: 43.97301
 longitude: -70.61406
 postcode: "04055"
 city: Naples
-street: "Roosevelt Trail"
-housenumber: 1114
-phone: "+1-207-693-3770"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://greatnortherndocks.com/"
+street: Roosevelt Trail
+housenumber: "1114"
+phone: +1-207-693-3770
+opening_hours: Mo-Fr 08:30-17:00
+website: https://greatnortherndocks.com/

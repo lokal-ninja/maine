@@ -1,11 +1,11 @@
 id: 698050901
-type: way
+type: node
 latitude: 43.67828
 longitude: -70.32756
 postcode: "04103"
 city: Portland
-street: "Riverside Street"
-housenumber: 35
-phone: "+1-207-828-4711"
+street: Riverside Street
+housenumber: "35"
+phone: +1-207-828-4711
 opening_hours: ""
-website: "https://www.vipauto.com/locations/westbrook-me/"
+website: https://www.vipauto.com/locations/westbrook-me/

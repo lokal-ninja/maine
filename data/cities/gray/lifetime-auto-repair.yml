@@ -1,11 +1,11 @@
 id: 1285723762
-type: way
+type: node
 latitude: 43.89496
 longitude: -70.32869
 postcode: "04039"
 city: Gray
-street: "Lewiston Road"
-housenumber: 35
+street: Lewiston Road
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

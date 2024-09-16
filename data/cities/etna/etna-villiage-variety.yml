@@ -1,11 +1,11 @@
 id: 588478071
-type: way
+type: node
 latitude: 44.81611
 longitude: -69.11002
 postcode: "04434"
 city: Etna
-street: "US 2/ Stage Road"
-housenumber: 238
+street: US 2/ Stage Road
+housenumber: "238"
 phone: ""
 opening_hours: ""
 website: ""

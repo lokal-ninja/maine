@@ -1,11 +1,11 @@
 id: 700392603
-type: way
+type: node
 latitude: 43.68128
 longitude: -70.3511
 postcode: "04092"
 city: Westbrook
-street: "Main Street"
-housenumber: 492
-phone: "+1-207-591-7070"
-opening_hours: "Mo-Th 14:00-20:00; Fr 14:00-22:00; Sa-Su 12:00-20:00"
-website: "https://weekendanime.com/"
+street: Main Street
+housenumber: "492"
+phone: +1-207-591-7070
+opening_hours: Mo-Th 14:00-20:00; Fr 14:00-22:00; Sa-Su 12:00-20:00
+website: https://weekendanime.com/

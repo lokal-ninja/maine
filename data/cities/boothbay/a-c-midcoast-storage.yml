@@ -1,11 +1,11 @@
 id: 1205225493
-type: way
+type: node
 latitude: 43.90011
 longitude: -69.62234
 postcode: "04537"
 city: Boothbay
-street: "Industrial Park Road"
-housenumber: 20
+street: Industrial Park Road
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

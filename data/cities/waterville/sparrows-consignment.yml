@@ -4,8 +4,8 @@ latitude: 44.5507
 longitude: -69.63012
 postcode: "04901"
 city: Waterville
-street: "Main Street"
-housenumber: 129
-phone: "+1-207-660-4212"
-opening_hours: "Tu,We,Fr,Sa 10:00-17:00; Th 10:00-18:00"
-website: "www.sparrowsconsignment.com"
+street: Main Street
+housenumber: "129"
+phone: +1-207-660-4212
+opening_hours: Tu,We,Fr,Sa 10:00-17:00; Th 10:00-18:00
+website: www.sparrowsconsignment.com

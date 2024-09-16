@@ -4,8 +4,8 @@ latitude: 44.56928
 longitude: -69.63834
 postcode: "04901"
 city: Waterville
-street: "Main Street"
-housenumber: 367
-phone: "+1-207-877-9612"
-opening_hours: "Mo-Sa 07:30-19:00; Su 08:00-16:00"
-website: "https://stores.advanceautoparts.com/me/waterville/367-main-st"
+street: Main Street
+housenumber: "367"
+phone: +1-207-877-9612
+opening_hours: Mo-Sa 07:30-19:00; Su 08:00-16:00
+website: https://stores.advanceautoparts.com/me/waterville/367-main-st

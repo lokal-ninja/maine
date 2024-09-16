@@ -1,11 +1,11 @@
 id: 886546452
-type: way
+type: node
 latitude: 44.34419
 longitude: -69.7877
 postcode: "04330"
 city: Augusta
-street: "Stephen King Drive"
-housenumber: 4
-phone: "+1-207-579-0499"
+street: Stephen King Drive
+housenumber: "4"
+phone: +1-207-579-0499
 opening_hours: ""
-website: "https://www.daysjewelers.com/"
+website: https://www.daysjewelers.com/

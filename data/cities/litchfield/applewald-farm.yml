@@ -1,11 +1,11 @@
 id: 1287524770
-type: way
+type: node
 latitude: 44.15352
 longitude: -69.974
 postcode: "04350"
 city: Litchfield
-street: "Huntington Hill Road"
-housenumber: 525
-phone: "+1-207-268-4042"
+street: Huntington Hill Road
+housenumber: "525"
+phone: +1-207-268-4042
 opening_hours: ""
 website: ""

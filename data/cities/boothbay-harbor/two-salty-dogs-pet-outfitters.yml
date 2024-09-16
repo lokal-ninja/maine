@@ -1,11 +1,11 @@
 id: 1107532035
-type: way
+type: node
 latitude: 43.85121
 longitude: -69.62877
 postcode: "04538"
 city: Boothbay Harbor
-street: "McKown Street"
-housenumber: 22
+street: McKown Street
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

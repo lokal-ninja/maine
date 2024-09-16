@@ -1,11 +1,11 @@
 id: 725071644
-type: way
+type: node
 latitude: 43.40694
 longitude: -70.71287
 postcode: "04073"
 city: Sanford
-street: "Cyro Road"
-housenumber: 60
-phone: "+1-207-324-1078"
-opening_hours: "Mo-Fr 8:00-17:00"
-website: "https://www.seacoasthardwood.com/"
+street: Cyro Road
+housenumber: "60"
+phone: +1-207-324-1078
+opening_hours: Mo-Fr 8:00-17:00
+website: https://www.seacoasthardwood.com/

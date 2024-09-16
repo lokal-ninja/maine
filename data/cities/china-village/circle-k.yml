@@ -1,11 +1,11 @@
 id: 884118891
-type: way
+type: node
 latitude: 44.47992
 longitude: -69.50964
 postcode: "04926"
 city: China Village
-street: "Lakeview Drive"
-housenumber: 1390
-phone: "(207) 968-2042"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/china/1390-lakeview-dr/M7121"
+street: Lakeview Drive
+housenumber: "1390"
+phone: (207) 968-2042
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/china/1390-lakeview-dr/M7121

@@ -1,11 +1,11 @@
 id: 990519484
-type: way
+type: node
 latitude: 43.39844
 longitude: -70.70033
 postcode: "04073"
 city: Sanford
-street: "Main Street"
-housenumber: 1923
-phone: "+1-207-324-8375"
+street: Main Street
+housenumber: "1923"
+phone: +1-207-324-8375
 opening_hours: ""
-website: "https://www.sanfordsewing.com"
+website: https://www.sanfordsewing.com

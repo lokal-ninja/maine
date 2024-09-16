@@ -1,11 +1,11 @@
 id: 306191885
-type: way
+type: node
 latitude: 46.85029
 longitude: -68.01044
 postcode: "04736"
 city: Caribou
-street: "Armco Avenue"
-housenumber: 3
+street: Armco Avenue
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/me/caribou/3-armco-ave"
+website: https://stores.advanceautoparts.com/me/caribou/3-armco-ave

@@ -1,11 +1,11 @@
 id: 388358964
-type: way
+type: node
 latitude: 44.08792
 longitude: -69.80288
 postcode: "04357"
 city: Richmond
-street: "Main Street"
-housenumber: 66
-phone: "+1-207-737-8005"
+street: Main Street
+housenumber: "66"
+phone: +1-207-737-8005
 opening_hours: ""
-website: "https://theflowerspot.net/"
+website: https://theflowerspot.net/

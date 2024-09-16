@@ -1,11 +1,11 @@
 id: 208137904
-type: way
+type: node
 latitude: 44.42653
 longitude: -69.00542
 postcode: "04915"
 city: Belfast
-street: "High Street"
-housenumber: 123
-phone: "+1-207-338-2532"
-opening_hours: "Mo-Su 07:30-20:00"
-website: "https://belfast.coop/"
+street: High Street
+housenumber: "123"
+phone: +1-207-338-2532
+opening_hours: Mo-Su 07:30-20:00
+website: https://belfast.coop/

@@ -1,11 +1,11 @@
 id: 403765969
-type: way
+type: node
 latitude: 44.77714
 longitude: -69.72573
 postcode: "04976"
 city: Skowhegan
-street: "Bungalow Street"
-housenumber: 8
-phone: "+1-207-858-0123"
+street: Bungalow Street
+housenumber: "8"
+phone: +1-207-858-0123
 opening_hours: ""
 website: ""

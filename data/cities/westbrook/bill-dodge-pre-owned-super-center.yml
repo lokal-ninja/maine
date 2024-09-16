@@ -1,11 +1,11 @@
 id: 463212818
-type: way
+type: node
 latitude: 43.67448
 longitude: -70.33844
 postcode: "04092"
 city: Westbrook
-street: "Saunders Way"
-housenumber: 5
+street: Saunders Way
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

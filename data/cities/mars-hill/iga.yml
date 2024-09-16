@@ -1,11 +1,11 @@
 id: 870746888
-type: way
+type: node
 latitude: 46.51394
 longitude: -67.86546
 postcode: "04758"
 city: Mars Hill
-street: "Market Street"
-housenumber: 7
+street: Market Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

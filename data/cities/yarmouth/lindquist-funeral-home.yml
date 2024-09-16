@@ -1,11 +1,11 @@
 id: 787151123
-type: way
+type: node
 latitude: 43.7969
 longitude: -70.18581
 postcode: "04096"
 city: Yarmouth
-street: "Mayberry Lane"
-housenumber: 1
-phone: "+1-207-846-4011"
+street: Mayberry Lane
+housenumber: "1"
+phone: +1-207-846-4011
 opening_hours: ""
-website: "https://www.dignitymemorial.com/lindquist-funeral-home/en-us/index.page"
+website: https://www.dignitymemorial.com/lindquist-funeral-home/en-us/index.page

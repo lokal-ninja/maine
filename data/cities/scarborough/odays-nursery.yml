@@ -1,11 +1,11 @@
 id: 1068941786
-type: way
+type: node
 latitude: 43.64103
 longitude: -70.40625
 postcode: "04074"
 city: Scarborough
-street: "County Road"
-housenumber: 132
+street: County Road
+housenumber: "132"
 phone: ""
 opening_hours: ""
 website: ""

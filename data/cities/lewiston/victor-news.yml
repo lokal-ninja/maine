@@ -1,11 +1,11 @@
 id: 606145643
-type: way
+type: node
 latitude: 44.0974
 longitude: -70.217
 postcode: "04240"
 city: Lewiston
-street: "Park Street"
-housenumber: 59
+street: Park Street
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

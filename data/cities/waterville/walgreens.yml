@@ -1,11 +1,11 @@
 id: 690730969
-type: way
+type: node
 latitude: 44.53804
 longitude: -69.62646
 postcode: "04901"
 city: Waterville
-street: "China Road"
-housenumber: 36
-phone: "207-872-2727"
+street: China Road
+housenumber: "36"
+phone: 207-872-2727
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-36+china+road-winslow-me-04901/id=19674"
+website: https://www.walgreens.com/locator/walgreens-36+china+road-winslow-me-04901/id=19674

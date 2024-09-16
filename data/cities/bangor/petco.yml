@@ -1,11 +1,11 @@
 id: 103610176
-type: way
+type: node
 latitude: 44.83443
 longitude: -68.74888
 postcode: "04401"
 city: Bangor
-street: "Stillwater Avenue"
-housenumber: 777
-phone: "+1 207-945-0049"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/me/bangor/pet-supplies-bangor-me-1828.html"
+street: Stillwater Avenue
+housenumber: "777"
+phone: +1 207-945-0049
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/me/bangor/pet-supplies-bangor-me-1828.html

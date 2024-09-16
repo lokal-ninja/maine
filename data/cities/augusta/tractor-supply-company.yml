@@ -1,11 +1,11 @@
 id: 412100129
-type: way
+type: node
 latitude: 44.35887
 longitude: -69.7989
 postcode: "04330"
 city: Augusta
-street: "Civic Center Drive"
-housenumber: 420
-phone: "+1 207-621-2800"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Civic Center Drive
+housenumber: "420"
+phone: +1 207-621-2800
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

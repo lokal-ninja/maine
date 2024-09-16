@@ -1,11 +1,11 @@
 id: 1076845525
-type: way
+type: node
 latitude: 43.6118
 longitude: -70.31203
 postcode: "04074"
 city: Scarborough
-street: "Pleasant Hill Road"
-housenumber: 8
+street: Pleasant Hill Road
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://primestorage.com/locations/me/scarborough/ME09/"
+website: https://primestorage.com/locations/me/scarborough/ME09/

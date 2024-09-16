@@ -1,11 +1,11 @@
 id: 1218387559
-type: way
+type: node
 latitude: 44.10724
 longitude: -69.72352
 postcode: "04342"
 city: Dresden
-street: "Gardiner Road"
-housenumber: 537
+street: Gardiner Road
+housenumber: "537"
 phone: ""
 opening_hours: ""
 website: ""

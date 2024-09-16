@@ -1,11 +1,11 @@
 id: 990871076
-type: way
+type: node
 latitude: 43.4024
 longitude: -70.71078
 postcode: "04073"
 city: Sanford
-street: "Main Street"
-housenumber: 1811
+street: Main Street
+housenumber: "1811"
 phone: ""
 opening_hours: ""
 website: ""

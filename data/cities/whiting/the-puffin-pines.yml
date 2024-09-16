@@ -1,11 +1,11 @@
 id: 716757074
-type: way
+type: node
 latitude: 44.78814
 longitude: -67.18269
 postcode: "04691"
 city: Whiting
-street: "Route 1"
-housenumber: 240
+street: Route 1
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

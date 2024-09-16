@@ -1,11 +1,11 @@
 id: 876354113
-type: way
+type: node
 latitude: 44.88224
 longitude: -68.67212
 postcode: "04473"
 city: Orono
-street: "Pine Street"
-housenumber: 9
-phone: "+1-207-866-3525"
+street: Pine Street
+housenumber: "9"
+phone: +1-207-866-3525
 opening_hours: ""
-website: "https://www.rosebike.com/"
+website: https://www.rosebike.com/

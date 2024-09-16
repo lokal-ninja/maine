@@ -1,11 +1,11 @@
 id: 547137576
-type: way
+type: node
 latitude: 44.40958
 longitude: -70.02951
 postcode: "04349"
 city: Fayette
-street: "Main Street"
-housenumber: 1916
+street: Main Street
+housenumber: "1916"
 phone: ""
 opening_hours: ""
 website: ""

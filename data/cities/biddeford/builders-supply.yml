@@ -1,11 +1,11 @@
 id: 976812670
-type: way
+type: node
 latitude: 43.46553
 longitude: -70.48789
 postcode: "04005"
 city: Biddeford
-street: "Elm Street"
-housenumber: 593
+street: Elm Street
+housenumber: "593"
 phone: ""
 opening_hours: ""
 website: ""

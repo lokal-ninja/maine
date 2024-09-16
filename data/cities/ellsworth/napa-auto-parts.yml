@@ -1,11 +1,11 @@
 id: 1007881486
-type: way
+type: node
 latitude: 44.53049
 longitude: -68.39801
 postcode: "04605"
 city: Ellsworth
-street: "Downeast Highway"
-housenumber: 92
+street: Downeast Highway
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

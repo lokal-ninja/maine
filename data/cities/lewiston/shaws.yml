@@ -1,11 +1,11 @@
 id: 613034658
-type: way
+type: node
 latitude: 44.08565
 longitude: -70.19992
 postcode: "04240"
 city: Lewiston
-street: "East Avenue"
-housenumber: 27
+street: East Avenue
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://local.shaws.com/me/lewiston/27-e-ave.html"
+website: https://local.shaws.com/me/lewiston/27-e-ave.html

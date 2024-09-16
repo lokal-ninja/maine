@@ -1,11 +1,11 @@
 id: 594378799
-type: way
+type: node
 latitude: 43.79971
 longitude: -70.25598
 postcode: "04021"
 city: Cumberland Center
-street: "Main Street"
-housenumber: 318
+street: Main Street
+housenumber: "318"
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:00, Sa-Su 07:00-21:00"
+opening_hours: Mo-Fr 06:00-21:00, Sa-Su 07:00-21:00
 website: ""

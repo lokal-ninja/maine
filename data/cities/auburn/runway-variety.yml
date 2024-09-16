@@ -1,11 +1,11 @@
 id: 698433545
-type: way
+type: node
 latitude: 44.05767
 longitude: -70.27659
 postcode: "04210"
 city: Auburn
-street: "Hotel Road"
-housenumber: 2263
-phone: "+1- 207-795-7726"
+street: Hotel Road
+housenumber: "2263"
+phone: +1- 207-795-7726
 opening_hours: ""
 website: ""

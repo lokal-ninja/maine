@@ -1,11 +1,11 @@
 id: 369088888
-type: way
+type: node
 latitude: 44.39039
 longitude: -68.20522
 postcode: "04609"
 city: Bar Harbor
-street: "Main Street"
-housenumber: 27
+street: Main Street
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

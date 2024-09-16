@@ -1,11 +1,11 @@
 id: 620168910
-type: way
+type: node
 latitude: 44.6295
 longitude: -68.8634
 postcode: "04496"
 city: Winterport
-street: "South Maine Street"
-housenumber: 560
-phone: "+1-207-223-4416"
+street: South Maine Street
+housenumber: "560"
+phone: +1-207-223-4416
 opening_hours: ""
 website: ""

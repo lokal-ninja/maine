@@ -1,11 +1,11 @@
 id: 991859414
-type: way
+type: node
 latitude: 44.50227
 longitude: -70.21525
 postcode: "04239"
 city: Jay
-street: "Riley Road"
-housenumber: 12
+street: Riley Road
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

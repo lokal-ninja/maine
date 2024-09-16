@@ -1,11 +1,11 @@
 id: 862222114
-type: way
+type: node
 latitude: 44.78306
 longitude: -69.38227
 postcode: "04967"
 city: Pittsfield
-street: "Main Street"
-housenumber: 131
+street: Main Street
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

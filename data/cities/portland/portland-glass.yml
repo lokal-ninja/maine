@@ -1,11 +1,11 @@
 id: 363662857
-type: way
+type: node
 latitude: 43.65463
 longitude: -70.27431
 postcode: "04102"
 city: Portland
-street: "Congress Street"
-housenumber: 832
-phone: "+1-207-774-9851"
+street: Congress Street
+housenumber: "832"
+phone: +1-207-774-9851
 opening_hours: ""
-website: "https://www.portlandglass.com/portland-me/"
+website: https://www.portlandglass.com/portland-me/

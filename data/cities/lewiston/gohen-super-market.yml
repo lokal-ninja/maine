@@ -1,11 +1,11 @@
 id: 611658928
-type: way
+type: node
 latitude: 44.0921
 longitude: -70.21918
 postcode: "04240"
 city: Lewiston
-street: "Lincoln Street"
-housenumber: 179
+street: Lincoln Street
+housenumber: "179"
 phone: ""
 opening_hours: ""
 website: ""

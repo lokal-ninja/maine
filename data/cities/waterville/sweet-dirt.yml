@@ -1,11 +1,11 @@
 id: 508096758
-type: way
+type: node
 latitude: 44.54585
 longitude: -69.67876
 postcode: "04901"
 city: Waterville
-street: "Kennedy Memorial Drive"
-housenumber: 475
-phone: "+1-207-387-0661"
-opening_hours: "Su-Th 09:00-20:00; Fr-Sa 09:00-21:00"
-website: "https://www.sweetdirt.com"
+street: Kennedy Memorial Drive
+housenumber: "475"
+phone: +1-207-387-0661
+opening_hours: Su-Th 09:00-20:00; Fr-Sa 09:00-21:00
+website: https://www.sweetdirt.com

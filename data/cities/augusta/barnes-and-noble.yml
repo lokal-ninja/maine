@@ -1,11 +1,11 @@
 id: 790366847
-type: way
+type: node
 latitude: 44.33999
 longitude: -69.78825
 postcode: "04330"
 city: Augusta
-street: "Marketplace Drive"
-housenumber: 9
+street: Marketplace Drive
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

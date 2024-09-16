@@ -1,11 +1,11 @@
 id: 767934771
-type: way
+type: node
 latitude: 43.98334
 longitude: -70.1327
 postcode: "04222"
 city: Durham
-street: "Royalsborough Road"
-housenumber: 697
+street: Royalsborough Road
+housenumber: "697"
 phone: ""
 opening_hours: ""
 website: ""

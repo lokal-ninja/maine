@@ -1,11 +1,11 @@
 id: 704914381
-type: way
+type: node
 latitude: 43.7013
 longitude: -70.32094
 postcode: "04103"
 city: Portland
-street: "Forest Avenue"
-housenumber: 1917
+street: Forest Avenue
+housenumber: "1917"
 phone: ""
 opening_hours: ""
 website: ""

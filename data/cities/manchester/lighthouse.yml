@@ -1,11 +1,11 @@
 id: 405439899
-type: way
+type: node
 latitude: 44.32461
 longitude: -69.86021
 postcode: "04351"
 city: Manchester
-street: "Western Avenue"
-housenumber: 918
+street: Western Avenue
+housenumber: "918"
 phone: ""
 opening_hours: ""
-website: "https://www.lighthousewineandseafood.com/"
+website: https://www.lighthousewineandseafood.com/

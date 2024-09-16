@@ -1,11 +1,11 @@
 id: 403558072
-type: way
+type: node
 latitude: 44.12617
 longitude: -69.10028
 postcode: "04841"
 city: Rockland
-street: "Camden Street"
-housenumber: 270
-phone: "+1 207-594-6401"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-19:00"
-website: "https://www.homedepot.com/l/Rockland-ME/ME/Rockland/04841/2409"
+street: Camden Street
+housenumber: "270"
+phone: +1 207-594-6401
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-19:00
+website: https://www.homedepot.com/l/Rockland-ME/ME/Rockland/04841/2409

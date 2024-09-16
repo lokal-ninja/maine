@@ -1,11 +1,11 @@
 id: 244066929
-type: way
+type: node
 latitude: 46.87302
 longitude: -68.0049
 postcode: "04736"
 city: Caribou
-street: "Skyway Drive"
-housenumber: 42
+street: Skyway Drive
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/caribou-04736-21642/"
+website: https://savealot.com/grocery-stores/caribou-04736-21642/

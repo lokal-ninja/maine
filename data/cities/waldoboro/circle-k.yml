@@ -1,11 +1,11 @@
 id: 431031384
-type: way
+type: node
 latitude: 44.1016
 longitude: -69.38095
 postcode: "04572"
 city: Waldoboro
-street: "Atlantic Highway"
-housenumber: 1555
+street: Atlantic Highway
+housenumber: "1555"
 phone: ""
 opening_hours: ""
 website: ""

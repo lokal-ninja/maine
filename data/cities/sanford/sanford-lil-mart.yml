@@ -4,8 +4,8 @@ latitude: 43.41018
 longitude: -70.74168
 postcode: "04073"
 city: Sanford
-street: "Main Street"
-housenumber: 1439
-phone: "+1-207-490-3726"
-opening_hours: "24/7"
+street: Main Street
+housenumber: "1439"
+phone: +1-207-490-3726
+opening_hours: 24/7
 website: ""

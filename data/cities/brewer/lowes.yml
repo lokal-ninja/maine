@@ -1,11 +1,11 @@
 id: 583408981
-type: way
+type: node
 latitude: 44.77527
 longitude: -68.72566
 postcode: "04412"
 city: Brewer
-street: "Arista Drive"
-housenumber: 15
-phone: "+1 207-299-9039"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/me-brewer/2291"
+street: Arista Drive
+housenumber: "15"
+phone: +1 207-299-9039
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/me-brewer/2291

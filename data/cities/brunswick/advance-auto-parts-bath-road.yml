@@ -1,11 +1,11 @@
 id: 698086339
-type: way
+type: node
 latitude: 43.9094
 longitude: -69.95173
 postcode: "04011"
 city: Brunswick
-street: "Bath Road"
-housenumber: 27
+street: Bath Road
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/me/brunswick/27-bath-rd"
+website: https://stores.advanceautoparts.com/me/brunswick/27-bath-rd

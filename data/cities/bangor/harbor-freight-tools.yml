@@ -1,11 +1,11 @@
 id: 472868068
-type: way
+type: node
 latitude: 44.83714
 longitude: -68.73996
 postcode: "04401"
 city: Bangor
-street: "Springer Drive"
-housenumber: 50
-phone: "+1 207-262-9967"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/50-springer-drive-bangor-04401?number=467"
+street: Springer Drive
+housenumber: "50"
+phone: +1 207-262-9967
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/50-springer-drive-bangor-04401?number=467

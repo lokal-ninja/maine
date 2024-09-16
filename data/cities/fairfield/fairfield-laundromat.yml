@@ -1,11 +1,11 @@
 id: 1309129577
-type: way
+type: node
 latitude: 44.58086
 longitude: -69.60529
 postcode: "04937"
 city: Fairfield
-street: "Main Street"
-housenumber: 44
+street: Main Street
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

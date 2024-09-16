@@ -1,11 +1,11 @@
 id: 322890663
-type: way
+type: node
 latitude: 44.57636
 longitude: -69.61286
 postcode: "04901"
 city: Waterville
-street: "College Avenue"
-housenumber: 232
+street: College Avenue
+housenumber: "232"
 phone: ""
 opening_hours: ""
 website: ""

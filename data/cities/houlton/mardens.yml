@@ -1,11 +1,11 @@
 id: 165416346
-type: way
+type: node
 latitude: 46.13765
 longitude: -67.84297
 postcode: "04730"
 city: Houlton
-street: "North Street"
-housenumber: 120
-phone: "+1-207-532-9125"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-17:00; Su 10:00-17:00"
+street: North Street
+housenumber: "120"
+phone: +1-207-532-9125
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-17:00; Su 10:00-17:00
 website: ""

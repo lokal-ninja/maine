@@ -4,8 +4,8 @@ latitude: 44.19383
 longitude: -70.5267
 postcode: "04270"
 city: Oxford
-street: "Main Street"
-housenumber: 1570
-phone: "+1-207-743-0800"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.labelshopper.com"
+street: Main Street
+housenumber: "1570"
+phone: +1-207-743-0800
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.labelshopper.com

@@ -1,11 +1,11 @@
 id: 1202448196
-type: way
+type: node
 latitude: 44.07817
 longitude: -70.41588
 postcode: "04256"
 city: Mechanic Falls
-street: "Pigeon Hill Road"
-housenumber: 50
-phone: "+1 207-998-2660"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://stores.hannaford.com/me/mechanic-falls/8445"
+street: Pigeon Hill Road
+housenumber: "50"
+phone: +1 207-998-2660
+opening_hours: Mo-Su 07:00-21:00
+website: https://stores.hannaford.com/me/mechanic-falls/8445

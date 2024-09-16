@@ -1,11 +1,11 @@
 id: 456474294
-type: way
+type: node
 latitude: 43.62476
 longitude: -70.33699
 postcode: "04074"
 city: Scarborough
-street: "Gallery Boulevard"
-housenumber: 1000
+street: Gallery Boulevard
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

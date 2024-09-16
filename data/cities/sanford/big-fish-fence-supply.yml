@@ -1,11 +1,11 @@
 id: 988963700
-type: way
+type: node
 latitude: 43.40036
 longitude: -70.69473
 postcode: "04073"
 city: Sanford
-street: "Clearzone Drive"
-housenumber: 16
+street: Clearzone Drive
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

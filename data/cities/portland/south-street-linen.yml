@@ -1,11 +1,11 @@
 id: 415155368
-type: way
+type: node
 latitude: 43.65448
 longitude: -70.25836
 postcode: "04101"
 city: Portland
-street: "South Street"
-housenumber: 5
-phone: "(774) 234-7678"
+street: South Street
+housenumber: "5"
+phone: (774) 234-7678
 opening_hours: ""
-website: "https://southstreetlinen.com/"
+website: https://southstreetlinen.com/

@@ -4,8 +4,8 @@ latitude: 44.0091
 longitude: -70.98759
 postcode: "04037"
 city: Fryeburg
-street: "Main Street"
-housenumber: 299
+street: Main Street
+housenumber: "299"
 phone: ""
 opening_hours: ""
-website: "http://fryeburgmotors.com/index.html"
+website: http://fryeburgmotors.com/index.html

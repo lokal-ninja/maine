@@ -1,11 +1,11 @@
 id: 271056030
-type: way
+type: node
 latitude: 45.65677
 longitude: -68.68577
 postcode: "04462"
 city: Millinocket
-street: "Balsam Drive"
-housenumber: 40
+street: Balsam Drive
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 279024722
-type: way
+type: node
 latitude: 43.90757
 longitude: -69.92584
 postcode: "04011"
 city: Brunswick
-street: "Bath Road"
-housenumber: 147
+street: Bath Road
+housenumber: "147"
 phone: ""
 opening_hours: ""
 website: ""

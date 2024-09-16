@@ -4,8 +4,8 @@ latitude: 43.67826
 longitude: -70.33116
 postcode: "04092"
 city: Westbrook
-street: "Main Street"
-housenumber: 41
-phone: "+1 207-856-1634"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/me/westbrook-703.shtml"
+street: Main Street
+housenumber: "41"
+phone: +1 207-856-1634
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/me/westbrook-703.shtml

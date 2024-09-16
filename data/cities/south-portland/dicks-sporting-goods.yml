@@ -1,11 +1,11 @@
 id: 405563094
-type: way
+type: node
 latitude: 43.6379
 longitude: -70.33212
 postcode: "04106"
 city: South Portland
-street: "Gorham Road"
-housenumber: 385
-phone: "+1 207-828-4950"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/me/south-portland/165/"
+street: Gorham Road
+housenumber: "385"
+phone: +1 207-828-4950
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/me/south-portland/165/

@@ -1,11 +1,11 @@
 id: 816288284
-type: way
+type: node
 latitude: 44.965
 longitude: -70.64175
 postcode: "04970"
 city: Rangeley
-street: "Pond Street"
-housenumber: 7
+street: Pond Street
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-17:00; Su 10:00-16:00
 website: ""

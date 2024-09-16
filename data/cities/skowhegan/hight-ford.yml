@@ -1,11 +1,11 @@
 id: 301601344
-type: way
+type: node
 latitude: 44.77817
 longitude: -69.72615
 postcode: "04976"
 city: Skowhegan
-street: "Madison Avenue"
-housenumber: 242
-phone: "+1-207-474-3334"
+street: Madison Avenue
+housenumber: "242"
+phone: +1-207-474-3334
 opening_hours: ""
-website: "https://www.hightford.com/"
+website: https://www.hightford.com/

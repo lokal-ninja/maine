@@ -1,11 +1,11 @@
 id: 415388168
-type: way
+type: node
 latitude: 43.65839
 longitude: -70.26349
 postcode: "04101"
 city: Portland
-street: "Portland Street"
-housenumber: 45
-phone: "+1-207-772-1360"
+street: Portland Street
+housenumber: "45"
+phone: +1-207-772-1360
 opening_hours: ""
 website: ""

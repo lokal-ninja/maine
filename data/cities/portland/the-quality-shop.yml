@@ -1,11 +1,11 @@
 id: 288931972
-type: way
+type: node
 latitude: 43.67475
 longitude: -70.29499
 postcode: "04103"
 city: Portland
-street: "Stevens Avenue"
-housenumber: 473
+street: Stevens Avenue
+housenumber: "473"
 phone: ""
-opening_hours: "07:00-22:00"
+opening_hours: 07:00-22:00
 website: ""

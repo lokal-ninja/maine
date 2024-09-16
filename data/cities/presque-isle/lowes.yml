@@ -1,11 +1,11 @@
 id: 963252645
-type: way
+type: node
 latitude: 46.69633
 longitude: -67.99933
 postcode: "04769"
 city: Presque Isle
-street: "Maysville Street"
-housenumber: 135
-phone: "+1 207-554-3030"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-19:00"
-website: "https://www.lowes.com/store/me-presque-isle/2209"
+street: Maysville Street
+housenumber: "135"
+phone: +1 207-554-3030
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-19:00
+website: https://www.lowes.com/store/me-presque-isle/2209

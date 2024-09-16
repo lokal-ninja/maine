@@ -1,11 +1,11 @@
 id: 863104682
-type: way
+type: node
 latitude: 45.17852
 longitude: -67.77503
 postcode: "04468"
 city: Grand Lake Stream
-street: "Water Street"
-housenumber: 7
+street: Water Street
+housenumber: "7"
 phone: "2077965027"
 opening_hours: ""
-website: "https://pinetreestore.com/"
+website: https://pinetreestore.com/

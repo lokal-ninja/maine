@@ -1,11 +1,11 @@
 id: 588128015
-type: way
+type: node
 latitude: 44.66231
 longitude: -70.15604
 postcode: "04938"
 city: Farmington
-street: "Temple Road"
-housenumber: 104
+street: Temple Road
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

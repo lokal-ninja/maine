@@ -1,11 +1,11 @@
 id: 142995152
-type: way
+type: node
 latitude: 43.85656
 longitude: -70.10383
 postcode: "04032"
 city: Freeport
-street: "Main Street"
-housenumber: 58
+street: Main Street
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

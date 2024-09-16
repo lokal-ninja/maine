@@ -1,11 +1,11 @@
 id: 767957844
-type: way
+type: node
 latitude: 44.09219
 longitude: -70.21501
 postcode: "04240"
 city: Lewiston
-street: "Lisbon Street"
-housenumber: 379
+street: Lisbon Street
+housenumber: "379"
 phone: ""
 opening_hours: ""
 website: ""

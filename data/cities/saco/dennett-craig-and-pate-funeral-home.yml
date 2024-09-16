@@ -1,11 +1,11 @@
 id: 1032715656
-type: way
+type: node
 latitude: 43.50123
 longitude: -70.44233
 postcode: "04072"
 city: Saco
-street: "Main Street"
-housenumber: 365
+street: Main Street
+housenumber: "365"
 phone: ""
 opening_hours: ""
 website: ""

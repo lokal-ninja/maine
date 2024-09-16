@@ -1,11 +1,11 @@
 id: 544568662
-type: way
+type: node
 latitude: 44.17344
 longitude: -70.51333
 postcode: "04270"
 city: Oxford
-street: "Main Street"
-housenumber: 1240
-phone: "+1 207-743-0882"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2183/oxford-me/whats-new"
+street: Main Street
+housenumber: "1240"
+phone: +1 207-743-0882
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2183/oxford-me/whats-new

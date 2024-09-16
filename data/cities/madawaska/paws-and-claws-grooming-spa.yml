@@ -1,11 +1,11 @@
 id: 1242052099
-type: way
+type: node
 latitude: 47.35589
 longitude: -68.32729
 postcode: "04756"
 city: Madawaska
-street: "Main Street"
-housenumber: 313
+street: Main Street
+housenumber: "313"
 phone: ""
 opening_hours: ""
 website: ""

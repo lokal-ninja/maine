@@ -1,11 +1,11 @@
 id: 881445707
-type: way
+type: node
 latitude: 44.83922
 longitude: -69.29393
 postcode: "04965"
 city: Palmyra
-street: "Fletcher Drive"
-housenumber: 6
+street: Fletcher Drive
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/me/palmyra/6-fletcher-dr.html"
+website: https://www.autozone.com/locations/me/palmyra/6-fletcher-dr.html

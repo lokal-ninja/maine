@@ -1,11 +1,11 @@
 id: 351708353
-type: way
+type: node
 latitude: 45.65692
 longitude: -68.70786
 postcode: "04462"
 city: Millinocket
-street: "Aroostook Avenue"
-housenumber: 255
+street: Aroostook Avenue
+housenumber: "255"
 phone: ""
 opening_hours: ""
 website: ""

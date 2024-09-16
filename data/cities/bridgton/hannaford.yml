@@ -1,11 +1,11 @@
 id: 621795461
-type: way
+type: node
 latitude: 44.04546
 longitude: -70.70259
 postcode: "04009"
 city: Bridgton
-street: "Portland Road"
-housenumber: 109
-phone: "+1 207-647-2015"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://stores.hannaford.com/me/bridgton/8167"
+street: Portland Road
+housenumber: "109"
+phone: +1 207-647-2015
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://stores.hannaford.com/me/bridgton/8167

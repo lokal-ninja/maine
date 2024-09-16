@@ -1,11 +1,11 @@
 id: 717790831
-type: way
+type: node
 latitude: 44.38811
 longitude: -68.79647
 postcode: "04421"
 city: Castine
-street: "Water Street"
-housenumber: 26
+street: Water Street
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Su 07:00-15:00"
+opening_hours: Mo-Su 07:00-15:00
 website: ""

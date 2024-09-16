@@ -1,11 +1,11 @@
 id: 360643027
-type: way
+type: node
 latitude: 43.65534
 longitude: -70.27967
 postcode: "04102"
 city: Portland
-street: "Saint John Street"
-housenumber: 333
-phone: "+1-207-772-5421"
+street: Saint John Street
+housenumber: "333"
+phone: +1-207-772-5421
 opening_hours: ""
 website: ""

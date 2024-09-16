@@ -1,11 +1,11 @@
 id: 726178029
-type: way
+type: node
 latitude: 43.91802
 longitude: -69.9614
 postcode: "04011"
 city: Brunswick
-street: "Cressey Road"
-housenumber: 1
+street: Cressey Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

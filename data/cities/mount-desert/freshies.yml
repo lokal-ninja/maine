@@ -1,11 +1,11 @@
 id: 815466411
-type: way
+type: node
 latitude: 44.37052
 longitude: -68.33018
 postcode: "04660"
 city: Mount Desert
-street: "Main Street"
-housenumber: 1052
-phone: "+1-207-244-7206"
-opening_hours: "Mo-Su 05:30-22:00"
-website: "https://freshiesdeli.com/"
+street: Main Street
+housenumber: "1052"
+phone: +1-207-244-7206
+opening_hours: Mo-Su 05:30-22:00
+website: https://freshiesdeli.com/

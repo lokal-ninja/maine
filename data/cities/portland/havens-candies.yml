@@ -4,8 +4,8 @@ latitude: 43.66586
 longitude: -70.27719
 postcode: "04101"
 city: Portland
-street: "Forest Avenue"
-housenumber: 448
-phone: "+1-207-772-0761"
+street: Forest Avenue
+housenumber: "448"
+phone: +1-207-772-0761
 opening_hours: ""
-website: "https://havenscandies.com/"
+website: https://havenscandies.com/

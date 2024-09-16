@@ -1,11 +1,11 @@
 id: 396339582
-type: way
+type: node
 latitude: 44.30957
 longitude: -69.76274
 postcode: "04330"
 city: Augusta
-street: "Eastern Avenue"
-housenumber: 77
-phone: "+1-207-626-0011"
+street: Eastern Avenue
+housenumber: "77"
+phone: +1-207-626-0011
 opening_hours: ""
 website: ""

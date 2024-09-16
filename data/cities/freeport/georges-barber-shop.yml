@@ -1,11 +1,11 @@
 id: 363626621
-type: way
+type: node
 latitude: 43.85508
 longitude: -70.10024
 postcode: "04032"
 city: Freeport
-street: "South Street"
-housenumber: 12
-phone: "+1-207-865-6407"
+street: South Street
+housenumber: "12"
+phone: +1-207-865-6407
 opening_hours: ""
 website: ""

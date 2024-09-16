@@ -1,11 +1,11 @@
 id: 423218774
-type: way
+type: node
 latitude: 43.85699
 longitude: -70.09618
 postcode: "04032"
 city: Freeport
-street: "Bow Street"
-housenumber: 79
-phone: "+1-207-865-6631"
-opening_hours: "06:30-20:00"
-website: "https://www.bowstreetmarket.com/"
+street: Bow Street
+housenumber: "79"
+phone: +1-207-865-6631
+opening_hours: 06:30-20:00
+website: https://www.bowstreetmarket.com/

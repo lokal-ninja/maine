@@ -1,11 +1,11 @@
 id: 465387253
-type: way
+type: node
 latitude: 43.68923
 longitude: -70.32011
 postcode: "04103"
 city: Portland
-street: "Warren Avenue"
-housenumber: 513
+street: Warren Avenue
+housenumber: "513"
 phone: ""
 opening_hours: ""
 website: ""

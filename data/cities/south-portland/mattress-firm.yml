@@ -1,11 +1,11 @@
 id: 399556975
-type: way
+type: node
 latitude: 43.63553
 longitude: -70.3437
 postcode: "04106"
 city: South Portland
-street: "Running Hill Road"
-housenumber: 200
-phone: "+1 207-253-1532"
+street: Running Hill Road
+housenumber: "200"
+phone: +1 207-253-1532
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/me/south-portland/085009/"
+website: https://www.mattressfirm.com/en-us/stores/me/south-portland/085009/

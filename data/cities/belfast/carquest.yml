@@ -1,11 +1,11 @@
 id: 594356803
-type: way
+type: node
 latitude: 44.42555
 longitude: -69.00492
 postcode: "04915"
 city: Belfast
-street: "High Street"
-housenumber: 105
-phone: "+1-207-338-1880"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00"
-website: "https://www.carquest.com/stores/me/belfast/6771"
+street: High Street
+housenumber: "105"
+phone: +1-207-338-1880
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:00
+website: https://www.carquest.com/stores/me/belfast/6771

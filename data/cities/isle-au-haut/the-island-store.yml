@@ -1,11 +1,11 @@
 id: 530734590
-type: way
+type: node
 latitude: 44.07445
 longitude: -68.6363
 postcode: "04645"
 city: Isle Au Haut
-street: "Main Road"
-housenumber: 364
+street: Main Road
+housenumber: "364"
 phone: ""
 opening_hours: ""
 website: ""

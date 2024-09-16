@@ -1,11 +1,11 @@
 id: 557765127
-type: way
+type: node
 latitude: 44.80736
 longitude: -70.22089
 postcode: "04983"
 city: Strong
-street: "South Main Street"
-housenumber: 3
+street: South Main Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

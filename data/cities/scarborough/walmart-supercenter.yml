@@ -1,11 +1,11 @@
 id: 377200290
-type: way
+type: node
 latitude: 43.6227
 longitude: -70.34404
 postcode: "04074"
 city: Scarborough
-street: "Gallery Boulevard"
-housenumber: 500
-phone: "+1 207-885-5567"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1788/scarborough-me/whats-new"
+street: Gallery Boulevard
+housenumber: "500"
+phone: +1 207-885-5567
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1788/scarborough-me/whats-new

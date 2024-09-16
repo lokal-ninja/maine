@@ -1,11 +1,11 @@
 id: 725071746
-type: way
+type: node
 latitude: 43.46402
 longitude: -70.79695
 postcode: "04083"
 city: Springvale
-street: "Main Street"
-housenumber: 489
-phone: "+1 207-324-2474"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 08:30-14:00"
-website: "https://www.truevalue.com/springvalehardware"
+street: Main Street
+housenumber: "489"
+phone: +1 207-324-2474
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 08:30-14:00
+website: https://www.truevalue.com/springvalehardware

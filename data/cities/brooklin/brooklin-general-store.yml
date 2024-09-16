@@ -1,11 +1,11 @@
 id: 891350449
-type: way
+type: node
 latitude: 44.26593
 longitude: -68.56923
 postcode: "04616"
 city: Brooklin
-street: "Reach Road"
-housenumber: 4
+street: Reach Road
+housenumber: "4"
 phone: "2073598359"
 opening_hours: ""
-website: "http://brooklingeneralstore.com/"
+website: http://brooklingeneralstore.com/

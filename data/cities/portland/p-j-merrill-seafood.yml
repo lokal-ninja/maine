@@ -1,11 +1,11 @@
 id: 402515591
-type: way
+type: node
 latitude: 43.67139
 longitude: -70.28419
 postcode: "04103"
 city: Portland
-street: "Forest Avenue"
-housenumber: 681
-phone: "+1-207-773-1321"
+street: Forest Avenue
+housenumber: "681"
+phone: +1-207-773-1321
 opening_hours: ""
-website: "https://www.pjmerrillseafood.com/"
+website: https://www.pjmerrillseafood.com/

@@ -1,11 +1,11 @@
 id: 1222499946
-type: way
+type: node
 latitude: 43.91777
 longitude: -69.96518
 postcode: "04011"
 city: Brunswick
-street: "Mason Street"
-housenumber: 10
+street: Mason Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

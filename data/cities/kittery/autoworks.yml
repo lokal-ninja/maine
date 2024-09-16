@@ -1,11 +1,11 @@
 id: 1030718480
-type: way
+type: node
 latitude: 43.08746
 longitude: -70.75213
 postcode: "03904"
 city: Kittery
-street: "Government Street"
-housenumber: 107
-phone: "207-606-3107"
+street: Government Street
+housenumber: "107"
+phone: 207-606-3107
 opening_hours: ""
-website: "https://auto-works.com/"
+website: https://auto-works.com/

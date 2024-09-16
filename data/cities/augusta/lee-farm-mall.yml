@@ -1,11 +1,11 @@
 id: 374556772
-type: way
+type: node
 latitude: 44.32093
 longitude: -69.82315
 postcode: "04330"
 city: Augusta
-street: "Shuman Avenue"
-housenumber: 12
+street: Shuman Avenue
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

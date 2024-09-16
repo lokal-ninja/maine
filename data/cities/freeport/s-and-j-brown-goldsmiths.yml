@@ -1,11 +1,11 @@
 id: 142995153
-type: way
+type: node
 latitude: 43.85775
 longitude: -70.10149
 postcode: "04032"
 city: Freeport
-street: "Mechanic Street"
-housenumber: 11
-phone: "+1-207-865-4126"
+street: Mechanic Street
+housenumber: "11"
+phone: +1-207-865-4126
 opening_hours: ""
-website: "https://browngoldsmiths.com/"
+website: https://browngoldsmiths.com/

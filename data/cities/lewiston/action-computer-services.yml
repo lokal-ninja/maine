@@ -1,11 +1,11 @@
 id: 918802756
-type: way
+type: node
 latitude: 44.08464
 longitude: -70.20519
 postcode: "04240"
 city: Lewiston
-street: "Essex Street"
-housenumber: 87
-phone: "+1-207-786-8740"
-opening_hours: "Mo-Fr 09:00-16:30"
-website: "https://acs4u.com/"
+street: Essex Street
+housenumber: "87"
+phone: +1-207-786-8740
+opening_hours: Mo-Fr 09:00-16:30
+website: https://acs4u.com/

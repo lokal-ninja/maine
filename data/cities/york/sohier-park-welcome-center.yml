@@ -1,11 +1,11 @@
 id: 753058503
-type: way
+type: node
 latitude: 43.16547
 longitude: -70.59405
 postcode: "03909"
 city: York
-street: "Sohier Park Road"
-housenumber: 11
+street: Sohier Park Road
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

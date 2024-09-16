@@ -1,11 +1,11 @@
 id: 817647726
-type: way
+type: node
 latitude: 44.12115
 longitude: -70.23282
 postcode: "04210"
 city: Auburn
-street: "Turner Street"
-housenumber: 755
+street: Turner Street
+housenumber: "755"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 307234480
-type: way
+type: node
 latitude: 43.09082
 longitude: -70.73737
 postcode: "03904"
 city: Kittery
-street: "Shapleigh Road"
-housenumber: 15
+street: Shapleigh Road
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-15+shapleigh+rd-kittery-me-03904/id=19330"
+website: https://www.walgreens.com/locator/walgreens-15+shapleigh+rd-kittery-me-03904/id=19330

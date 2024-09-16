@@ -1,11 +1,11 @@
 id: 368064938
-type: way
+type: node
 latitude: 44.31077
 longitude: -69.7813
 postcode: "04330"
 city: Augusta
-street: "Western Avenue"
-housenumber: 16
-phone: "+1-207-620-8293"
+street: Western Avenue
+housenumber: "16"
+phone: +1-207-620-8293
 opening_hours: ""
-website: "https://www.northernmattressandfurniture.com/"
+website: https://www.northernmattressandfurniture.com/

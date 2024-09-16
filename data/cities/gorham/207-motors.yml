@@ -1,11 +1,11 @@
 id: 1072069237
-type: way
+type: node
 latitude: 43.71461
 longitude: -70.51859
 postcode: "04038"
 city: Gorham
-street: "Ossipee Trail"
-housenumber: 397
-phone: "(207) 400-4473"
+street: Ossipee Trail
+housenumber: "397"
+phone: (207) 400-4473
 opening_hours: ""
-website: "https://www.207motors.com/"
+website: https://www.207motors.com/

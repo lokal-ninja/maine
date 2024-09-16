@@ -4,8 +4,8 @@ latitude: 43.85471
 longitude: -70.10736
 postcode: "04032"
 city: Freeport
-street: "Main Street"
-housenumber: 15
-phone: "+1-207-869-4004"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-16:30; Su off"
-website: "https://www.acapellosalons.com/"
+street: Main Street
+housenumber: "15"
+phone: +1-207-869-4004
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-16:30; Su off
+website: https://www.acapellosalons.com/

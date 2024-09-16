@@ -1,11 +1,11 @@
 id: 1153903379
-type: way
+type: node
 latitude: 44.00243
 longitude: -69.66485
 postcode: "04578"
 city: Wiscasset
-street: "Main Street"
-housenumber: 72
+street: Main Street
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.66775
 longitude: -70.25632
 postcode: "04101"
 city: Portland
-street: "Cove Street"
-housenumber: 50
+street: Cove Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://portfiber.com/"
+website: https://portfiber.com/

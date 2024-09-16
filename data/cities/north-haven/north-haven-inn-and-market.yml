@@ -1,11 +1,11 @@
 id: 780003795
-type: way
+type: node
 latitude: 44.15135
 longitude: -68.87858
 postcode: "04853"
 city: North Haven
-street: "Pulpit Harbor Road"
-housenumber: 124
+street: Pulpit Harbor Road
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

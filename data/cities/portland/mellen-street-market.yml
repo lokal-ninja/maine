@@ -1,11 +1,11 @@
 id: 369774291
-type: way
+type: node
 latitude: 43.65594
 longitude: -70.27028
 postcode: "04101"
 city: Portland
-street: "Mellen Street"
-housenumber: 79
-phone: "+1-207-772-2206"
+street: Mellen Street
+housenumber: "79"
+phone: +1-207-772-2206
 opening_hours: ""
-website: "https://mellenstreetmarket.yolasite.com/"
+website: https://mellenstreetmarket.yolasite.com/

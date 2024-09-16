@@ -1,11 +1,11 @@
 id: 867487078
-type: way
+type: node
 latitude: 43.5841
 longitude: -70.3596
 postcode: "04074"
 city: Scarborough
-street: "Route 1"
-housenumber: 398
+street: Route 1
+housenumber: "398"
 phone: ""
-opening_hours: "Mo-Su 06:00-17:00"
-website: "https://www.theholydonut.com/"
+opening_hours: Mo-Su 06:00-17:00
+website: https://www.theholydonut.com/

@@ -1,11 +1,11 @@
 id: 356499576
-type: way
+type: node
 latitude: 44.15539
 longitude: -68.66621
 postcode: "04681"
 city: Stonington
-street: "West Main Street"
-housenumber: 8
+street: West Main Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

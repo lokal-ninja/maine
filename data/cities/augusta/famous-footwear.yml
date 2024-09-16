@@ -1,11 +1,11 @@
 id: 886546449
-type: way
+type: node
 latitude: 44.34459
 longitude: -69.78751
 postcode: "04330"
 city: Augusta
-street: "Stephen King Drive"
-housenumber: 6
+street: Stephen King Drive
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

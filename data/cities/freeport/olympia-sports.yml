@@ -4,8 +4,8 @@ latitude: 43.85927
 longitude: -70.10151
 postcode: "04032"
 city: Freeport
-street: "Main Street"
-housenumber: 140
-phone: "+1-207-865-5368"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.olympiasports.net/"
+street: Main Street
+housenumber: "140"
+phone: +1-207-865-5368
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.olympiasports.net/

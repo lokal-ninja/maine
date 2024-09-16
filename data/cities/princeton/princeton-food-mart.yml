@@ -1,11 +1,11 @@
 id: 1241498551
-type: way
+type: node
 latitude: 45.22143
 longitude: -67.56582
 postcode: "04668"
 city: Princeton
-street: "Main Street"
-housenumber: 123
+street: Main Street
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

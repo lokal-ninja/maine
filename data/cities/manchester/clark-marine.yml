@@ -1,11 +1,11 @@
 id: 389555144
-type: way
+type: node
 latitude: 44.32868
 longitude: -69.85752
 postcode: "04351"
 city: Manchester
-street: "Puddledock Road"
-housenumber: 57
+street: Puddledock Road
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

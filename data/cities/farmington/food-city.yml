@@ -1,11 +1,11 @@
 id: 587957294
-type: way
+type: node
 latitude: 44.6704
 longitude: -70.15093
 postcode: "04938"
 city: Farmington
-street: "Main Street"
-housenumber: 180
-phone: "+1-207-778-2202"
+street: Main Street
+housenumber: "180"
+phone: +1-207-778-2202
 opening_hours: ""
-website: "https://www.foodcitymkt.com/"
+website: https://www.foodcitymkt.com/

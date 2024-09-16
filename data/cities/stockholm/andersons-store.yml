@@ -1,11 +1,11 @@
 id: 406279056
-type: way
+type: node
 latitude: 47.0423
 longitude: -68.13886
 postcode: "04783"
 city: Stockholm
-street: "N Main St"
-housenumber: 327
-phone: "+1-207-896-5858"
+street: N Main St
+housenumber: "327"
+phone: +1-207-896-5858
 opening_hours: ""
 website: ""

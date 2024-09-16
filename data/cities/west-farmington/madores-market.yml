@@ -1,11 +1,11 @@
 id: 819848721
-type: way
+type: node
 latitude: 44.66261
 longitude: -70.15663
 postcode: "04992"
 city: West Farmington
-street: "Temple Road"
-housenumber: 103
+street: Temple Road
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

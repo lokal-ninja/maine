@@ -1,11 +1,11 @@
 id: 328287639
-type: way
+type: node
 latitude: 44.56821
 longitude: -69.63821
 postcode: "04901"
 city: Waterville
-street: "Main Street"
-housenumber: 347
+street: Main Street
+housenumber: "347"
 phone: ""
 opening_hours: ""
 website: ""

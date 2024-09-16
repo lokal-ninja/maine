@@ -1,11 +1,11 @@
 id: 981892115
-type: way
+type: node
 latitude: 43.09105
 longitude: -70.73665
 postcode: "03904"
 city: Kittery
-street: "Shapleigh Road"
-housenumber: 16
+street: Shapleigh Road
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

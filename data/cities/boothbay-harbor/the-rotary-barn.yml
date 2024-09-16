@@ -1,11 +1,11 @@
 id: 1191317884
-type: way
+type: node
 latitude: 43.86334
 longitude: -69.62493
 postcode: "04538"
 city: Boothbay Harbor
-street: "Montgomery Road"
-housenumber: 66
+street: Montgomery Road
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

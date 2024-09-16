@@ -1,11 +1,11 @@
 id: 355137400
-type: way
+type: node
 latitude: 45.63248
 longitude: -68.57603
 postcode: "04430"
 city: East Millinocket
-street: "Western Avenue"
-housenumber: 47
+street: Western Avenue
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

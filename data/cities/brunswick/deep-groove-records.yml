@@ -1,11 +1,11 @@
 id: 1243520111
-type: way
+type: node
 latitude: 43.91256
 longitude: -69.9668
 postcode: "04011"
 city: Brunswick
-street: "Elm Street"
-housenumber: 32
+street: Elm Street
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

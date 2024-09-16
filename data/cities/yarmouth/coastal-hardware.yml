@@ -1,11 +1,11 @@
 id: 377561549
-type: way
+type: node
 latitude: 43.80634
 longitude: -70.17316
 postcode: "04096"
 city: Yarmouth
-street: "Route 1"
-housenumber: 914
-phone: "+1 207-846-3861"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 09:00-17:00"
+street: Route 1
+housenumber: "914"
+phone: +1 207-846-3861
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 09:00-17:00
 website: ""

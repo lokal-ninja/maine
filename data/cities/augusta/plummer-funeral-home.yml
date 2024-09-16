@@ -1,11 +1,11 @@
 id: 710354726
-type: way
+type: node
 latitude: 44.31656
 longitude: -69.77791
 postcode: "04330"
 city: Augusta
-street: "Pleasant Street"
-housenumber: 16
+street: Pleasant Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

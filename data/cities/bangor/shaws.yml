@@ -1,11 +1,11 @@
 id: 222035402
-type: way
+type: node
 latitude: 44.79442
 longitude: -68.77559
 postcode: "04401"
 city: Bangor
-street: "Main Street"
-housenumber: 353
+street: Main Street
+housenumber: "353"
 phone: ""
 opening_hours: ""
-website: "https://local.shaws.com/me/bangor/353-main-st.html"
+website: https://local.shaws.com/me/bangor/353-main-st.html

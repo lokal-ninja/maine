@@ -1,11 +1,11 @@
 id: 632999502
-type: way
+type: node
 latitude: 44.53782
 longitude: -70.51683
 postcode: "04257"
 city: Mexico
-street: "River Road"
-housenumber: 258
-phone: "+1 207-364-2557"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.walmart.com/store/3269/mexico-me/whats-new"
+street: River Road
+housenumber: "258"
+phone: +1 207-364-2557
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.walmart.com/store/3269/mexico-me/whats-new

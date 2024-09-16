@@ -1,11 +1,11 @@
 id: 850565192
-type: way
+type: node
 latitude: 44.54203
 longitude: -69.6749
 postcode: "04901"
 city: Waterville
-street: "Airport Road"
-housenumber: 15
+street: Airport Road
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.41999
 longitude: -70.75611
 postcode: "04073"
 city: Sanford
-street: "Main Street"
-housenumber: 1238
-phone: "+1-207-324-1230"
-opening_hours: "Mo-Sa 07:30-20:00; Su 08:30-18:00"
-website: "https://locations.oreillyauto.com/me/sanford/autoparts-4512.html"
+street: Main Street
+housenumber: "1238"
+phone: +1-207-324-1230
+opening_hours: Mo-Sa 07:30-20:00; Su 08:30-18:00
+website: https://locations.oreillyauto.com/me/sanford/autoparts-4512.html

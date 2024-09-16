@@ -1,11 +1,11 @@
 id: 726775837
-type: way
+type: node
 latitude: 43.42617
 longitude: -70.76612
 postcode: "04073"
 city: Sanford
-street: "Main Street"
-housenumber: 1105
-phone: "+1-207-324-0584"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-17:00"
-website: "https://stores.advanceautoparts.com/me/sanford/1105-main-street"
+street: Main Street
+housenumber: "1105"
+phone: +1-207-324-0584
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-17:00
+website: https://stores.advanceautoparts.com/me/sanford/1105-main-street

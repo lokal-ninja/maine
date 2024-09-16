@@ -1,11 +1,11 @@
 id: 1107843274
-type: way
+type: node
 latitude: 43.86034
 longitude: -69.62543
 postcode: "04538"
 city: Boothbay Harbor
-street: "Townsend Avenue"
-housenumber: 185
+street: Townsend Avenue
+housenumber: "185"
 phone: ""
 opening_hours: ""
 website: ""

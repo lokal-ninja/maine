@@ -1,11 +1,11 @@
 id: 628936240
-type: way
+type: node
 latitude: 44.09278
 longitude: -69.13626
 postcode: "04861"
 city: Thomaston
-street: "Thomaston Commons Way"
-housenumber: 38
-phone: "+1 207-594-7200"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Thomaston Commons Way
+housenumber: "38"
+phone: +1 207-594-7200
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 834815213
-type: way
+type: node
 latitude: 44.08549
 longitude: -70.21694
 postcode: "04210"
 city: Auburn
-street: "Riverside Drive"
-housenumber: 140
+street: Riverside Drive
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

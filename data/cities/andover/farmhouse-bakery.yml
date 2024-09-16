@@ -1,11 +1,11 @@
 id: 1112638585
-type: way
+type: node
 latitude: 44.63815
 longitude: -70.75245
 postcode: "04216"
 city: Andover
-street: "North Main Street"
-housenumber: 79
+street: North Main Street
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

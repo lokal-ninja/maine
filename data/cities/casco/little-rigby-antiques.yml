@@ -1,11 +1,11 @@
 id: 427283865
-type: way
+type: node
 latitude: 43.98275
 longitude: -70.51764
 postcode: "04015"
 city: Casco
-street: "Meadow Road"
-housenumber: 604
+street: Meadow Road
+housenumber: "604"
 phone: ""
 opening_hours: ""
 website: ""

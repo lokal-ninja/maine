@@ -1,11 +1,11 @@
 id: 363389151
-type: way
+type: node
 latitude: 44.32417
 longitude: -69.77622
 postcode: "04330"
 city: Augusta
-street: "Mount Vernon Avenue"
-housenumber: 66
-phone: "+1-207-512-8800"
+street: Mount Vernon Avenue
+housenumber: "66"
+phone: +1-207-512-8800
 opening_hours: ""
 website: ""

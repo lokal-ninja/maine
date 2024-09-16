@@ -1,11 +1,11 @@
 id: 306160105
-type: way
+type: node
 latitude: 46.86029
 longitude: -68.00971
 postcode: "04736"
 city: Caribou
-street: "High Street"
-housenumber: 89
+street: High Street
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

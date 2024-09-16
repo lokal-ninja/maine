@@ -1,11 +1,11 @@
 id: 360944820
-type: way
+type: node
 latitude: 43.65377
 longitude: -70.27887
 postcode: "04102"
 city: Portland
-street: "Congress Street"
-housenumber: 935
-phone: "+1-207-773-8549"
+street: Congress Street
+housenumber: "935"
+phone: +1-207-773-8549
 opening_hours: ""
 website: ""

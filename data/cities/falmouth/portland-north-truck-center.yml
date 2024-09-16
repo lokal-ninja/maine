@@ -1,11 +1,11 @@
 id: 976924460
-type: way
+type: node
 latitude: 43.74066
 longitude: -70.29821
 postcode: "04105"
 city: Falmouth
-street: "Gray Road"
-housenumber: 110
+street: Gray Road
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

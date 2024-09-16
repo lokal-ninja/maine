@@ -1,11 +1,11 @@
 id: 730243311
-type: way
+type: node
 latitude: 43.47567
 longitude: -70.81176
 postcode: "04083"
 city: Springvale
-street: "Main Street"
-housenumber: 251
-phone: "+1-207-324-4538"
-opening_hours: "Mo-Fr 07:00-17:30"
+street: Main Street
+housenumber: "251"
+phone: +1-207-324-4538
+opening_hours: Mo-Fr 07:00-17:30
 website: ""

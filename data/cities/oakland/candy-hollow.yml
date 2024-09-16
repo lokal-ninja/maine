@@ -4,8 +4,8 @@ latitude: 44.54744
 longitude: -69.71814
 postcode: "04963"
 city: Oakland
-street: "Main Street"
-housenumber: 54
+street: Main Street
+housenumber: "54"
 phone: "+12077161561"
-opening_hours: "We-Fr 10:00-17:00, Sa 10:00-16:00"
-website: "https://www.facebook.com/candyhollowshoppe/"
+opening_hours: We-Fr 10:00-17:00, Sa 10:00-16:00
+website: https://www.facebook.com/candyhollowshoppe/

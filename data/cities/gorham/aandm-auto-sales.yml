@@ -1,11 +1,11 @@
 id: 1087120332
-type: way
+type: node
 latitude: 43.68548
 longitude: -70.38609
 postcode: "04038"
 city: Gorham
-street: "Main Street"
-housenumber: 669
+street: Main Street
+housenumber: "669"
 phone: ""
 opening_hours: ""
 website: ""

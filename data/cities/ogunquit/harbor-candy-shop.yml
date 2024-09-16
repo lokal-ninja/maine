@@ -4,8 +4,8 @@ latitude: 43.24988
 longitude: -70.5997
 postcode: "03907"
 city: Ogunquit
-street: "Main Street"
-housenumber: 248
-phone: "+1-800-331-5856"
-opening_hours: "Su-Sa 09:00-22:00"
+street: Main Street
+housenumber: "248"
+phone: +1-800-331-5856
+opening_hours: Su-Sa 09:00-22:00
 website: ""

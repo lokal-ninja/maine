@@ -1,11 +1,11 @@
 id: 395478645
-type: way
+type: node
 latitude: 44.04789
 longitude: -68.83362
 postcode: "04863"
 city: Vinalhaven
-street: "Main Street"
-housenumber: 36
+street: Main Street
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

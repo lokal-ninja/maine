@@ -1,11 +1,11 @@
 id: 587937981
-type: way
+type: node
 latitude: 44.67105
 longitude: -70.15122
 postcode: "04938"
 city: Farmington
-street: "Main Street"
-housenumber: 156
+street: Main Street
+housenumber: "156"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 495774779
-type: way
+type: node
 latitude: 44.8366
 longitude: -69.28442
 postcode: "04953"
 city: Newport
-street: "Main Street"
-housenumber: 53
+street: Main Street
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

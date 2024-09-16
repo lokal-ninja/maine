@@ -4,8 +4,8 @@ latitude: 43.91167
 longitude: -69.81665
 postcode: "04530"
 city: Bath
-street: "School Street"
-housenumber: 12
-phone: "+1-800-341-0282"
+street: School Street
+housenumber: "12"
+phone: +1-800-341-0282
 opening_hours: ""
-website: "https://halcyonyarn.com/"
+website: https://halcyonyarn.com/

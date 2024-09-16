@@ -1,11 +1,11 @@
 id: 687641998
-type: way
+type: node
 latitude: 44.09247
 longitude: -70.23041
 postcode: "04210"
 city: Auburn
-street: "Minot Avenue"
-housenumber: 158
+street: Minot Avenue
+housenumber: "158"
 phone: ""
 opening_hours: ""
 website: ""

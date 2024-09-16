@@ -1,11 +1,11 @@
 id: 881437538
-type: way
+type: node
 latitude: 44.78497
 longitude: -69.397
 postcode: "04967"
 city: Pittsfield
-street: "Somerset Avenue"
-housenumber: 420
+street: Somerset Avenue
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

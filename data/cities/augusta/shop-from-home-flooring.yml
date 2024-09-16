@@ -1,11 +1,11 @@
 id: 363836130
-type: way
+type: node
 latitude: 44.32839
 longitude: -69.78099
 postcode: "04330"
 city: Augusta
-street: "Mount Vernon Avenue"
-housenumber: 133
-phone: "+1-207-626-3100"
+street: Mount Vernon Avenue
+housenumber: "133"
+phone: +1-207-626-3100
 opening_hours: ""
-website: "http://www.shopfromhomeflooring.com/"
+website: http://www.shopfromhomeflooring.com/

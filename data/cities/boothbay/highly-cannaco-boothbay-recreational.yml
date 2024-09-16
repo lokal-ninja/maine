@@ -1,11 +1,11 @@
 id: 1204960058
-type: way
+type: node
 latitude: 43.90073
 longitude: -69.62559
 postcode: "04537"
 city: Boothbay
-street: "Wiscasset Road"
-housenumber: 638
+street: Wiscasset Road
+housenumber: "638"
 phone: ""
 opening_hours: ""
 website: ""

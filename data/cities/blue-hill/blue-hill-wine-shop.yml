@@ -1,11 +1,11 @@
 id: 891293570
-type: way
+type: node
 latitude: 44.41474
 longitude: -68.5848
 postcode: "04614"
 city: Blue Hill
-street: "Main Street"
-housenumber: 138
+street: Main Street
+housenumber: "138"
 phone: "2073742161"
 opening_hours: ""
-website: "https://www.bluehillwineshop.com/"
+website: https://www.bluehillwineshop.com/

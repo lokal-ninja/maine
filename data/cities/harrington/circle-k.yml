@@ -1,11 +1,11 @@
 id: 863287320
-type: way
+type: node
 latitude: 44.62037
 longitude: -67.79888
 postcode: "04643"
 city: Harrington
-street: "Main Street"
-housenumber: 1141
+street: Main Street
+housenumber: "1141"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 731804852
-type: way
+type: node
 latitude: 44.40362
 longitude: -70.70732
 postcode: "04255"
 city: Greenwood
-street: "North Main Street"
-housenumber: 303
-phone: "207-357-1979"
+street: North Main Street
+housenumber: "303"
+phone: 207-357-1979
 opening_hours: ""
-website: "https://www.paasoracing.com/"
+website: https://www.paasoracing.com/

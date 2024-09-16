@@ -1,11 +1,11 @@
 id: 547250960
-type: way
+type: node
 latitude: 43.82659
 longitude: -70.24618
 postcode: "04097"
 city: North Yarmouth
-street: "The Lane"
-housenumber: 14
+street: The Lane
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

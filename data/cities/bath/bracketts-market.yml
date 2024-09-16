@@ -1,11 +1,11 @@
 id: 413431921
-type: way
+type: node
 latitude: 43.91504
 longitude: -69.81419
 postcode: "04530"
 city: Bath
-street: "Front Street"
-housenumber: 185
+street: Front Street
+housenumber: "185"
 phone: ""
 opening_hours: ""
 website: ""

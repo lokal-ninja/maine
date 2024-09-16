@@ -1,11 +1,11 @@
 id: 1004732101
-type: way
+type: node
 latitude: 43.45939
 longitude: -70.39313
 postcode: "04005"
 city: Biddeford
-street: "Pool Street"
-housenumber: 584
-phone: "+1 (207) 286-3022"
-opening_hours: "Mo-Su 06:00-20:00"
+street: Pool Street
+housenumber: "584"
+phone: +1 (207) 286-3022
+opening_hours: Mo-Su 06:00-20:00
 website: ""

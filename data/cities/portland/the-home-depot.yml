@@ -1,11 +1,11 @@
 id: 360625643
-type: way
+type: node
 latitude: 43.68625
 longitude: -70.32511
 postcode: "04103"
 city: Portland
-street: "Riverside Street"
-housenumber: 245
-phone: "+1 207-761-0600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/portland/me/portland/04103/2401"
+street: Riverside Street
+housenumber: "245"
+phone: +1 207-761-0600
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/portland/me/portland/04103/2401

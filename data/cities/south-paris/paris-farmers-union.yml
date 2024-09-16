@@ -1,11 +1,11 @@
 id: 479416995
-type: way
+type: node
 latitude: 44.21431
 longitude: -70.52553
 postcode: "04281"
 city: South Paris
-street: "Main Street"
-housenumber: 227
-phone: "+1-207-743-8960"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-16:00; Su 08:30-15:00"
+street: Main Street
+housenumber: "227"
+phone: +1-207-743-8960
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-16:00; Su 08:30-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 479416978
-type: way
+type: node
 latitude: 44.21496
 longitude: -70.52623
 postcode: "04281"
 city: South Paris
-street: "Charles Street"
-housenumber: 16
-phone: "+1-207-743-8991"
+street: Charles Street
+housenumber: "16"
+phone: +1-207-743-8991
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 370357209
-type: way
+type: node
 latitude: 43.79865
 longitude: -70.18259
 postcode: "04096"
 city: Yarmouth
-street: "Main Street"
-housenumber: 96
-phone: "+1-207-846-1234"
+street: Main Street
+housenumber: "96"
+phone: +1-207-846-1234
 opening_hours: ""
-website: "https://rosemontmarket.com/"
+website: https://rosemontmarket.com/

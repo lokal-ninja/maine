@@ -1,11 +1,11 @@
 id: 656578483
-type: way
+type: node
 latitude: 44.63483
 longitude: -70.75036
 postcode: "04216"
 city: Andover
-street: "South Main Street"
-housenumber: 25
+street: South Main Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

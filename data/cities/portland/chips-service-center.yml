@@ -1,11 +1,11 @@
 id: 377061959
-type: way
+type: node
 latitude: 43.68005
 longitude: -70.2583
 postcode: "04103"
 city: Portland
-street: "Washington Avenue"
-housenumber: 518
-phone: "+1-207-775-2020"
+street: Washington Avenue
+housenumber: "518"
+phone: +1-207-775-2020
 opening_hours: ""
-website: "https://www.chipsservicecenter.com/"
+website: https://www.chipsservicecenter.com/

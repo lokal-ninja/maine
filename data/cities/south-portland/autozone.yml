@@ -1,11 +1,11 @@
 id: 908244201
-type: way
+type: node
 latitude: 43.62839
 longitude: -70.28099
 postcode: "04106"
 city: South Portland
-street: "Lincoln Street"
-housenumber: 436
-phone: "(207)-767-4714"
+street: Lincoln Street
+housenumber: "436"
+phone: (207)-767-4714
 opening_hours: ""
-website: "https://www.autozone.com/locations/me/south-portland/436-lincoln-street-ext.html"
+website: https://www.autozone.com/locations/me/south-portland/436-lincoln-street-ext.html

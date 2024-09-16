@@ -1,11 +1,11 @@
 id: 402503318
-type: way
+type: node
 latitude: 43.66857
 longitude: -70.27992
 postcode: "04101"
 city: Portland
-street: "Forest Avenue"
-housenumber: 543
-phone: "+1-207-773-0338"
+street: Forest Avenue
+housenumber: "543"
+phone: +1-207-773-0338
 opening_hours: ""
-website: "http://www.coastaltradingandpawn.com/"
+website: http://www.coastaltradingandpawn.com/

@@ -1,11 +1,11 @@
 id: 736361516
-type: way
+type: node
 latitude: 43.45452
 longitude: -70.7902
 postcode: "04083"
 city: Springvale
-street: "Main Street"
-housenumber: 639
-phone: "+1-207-324-2500"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.moodyscollision.com/locations/sanford"
+street: Main Street
+housenumber: "639"
+phone: +1-207-324-2500
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.moodyscollision.com/locations/sanford

@@ -1,11 +1,11 @@
 id: 431014231
-type: way
+type: node
 latitude: 43.91196
 longitude: -69.99013
 postcode: "04011"
 city: Brunswick
-street: "Pleasant Street"
-housenumber: 175
+street: Pleasant Street
+housenumber: "175"
 phone: ""
 opening_hours: ""
 website: ""

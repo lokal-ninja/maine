@@ -1,11 +1,11 @@
 id: 302511941
-type: way
+type: node
 latitude: 44.76217
 longitude: -69.71569
 postcode: "04976"
 city: Skowhegan
-street: "Waterville Road"
-housenumber: 15
+street: Waterville Road
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

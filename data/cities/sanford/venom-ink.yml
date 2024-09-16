@@ -4,8 +4,8 @@ latitude: 43.44662
 longitude: -70.78651
 postcode: "04073"
 city: Sanford
-street: "Main Street"
-housenumber: 751
-phone: "+1-207-206-1828"
-opening_hours: "Mo-Sa 11:00-18:15"
-website: "https://venomink.com/"
+street: Main Street
+housenumber: "751"
+phone: +1-207-206-1828
+opening_hours: Mo-Sa 11:00-18:15
+website: https://venomink.com/

@@ -1,11 +1,11 @@
 id: 301630688
-type: way
+type: node
 latitude: 45.18532
 longitude: -69.23181
 postcode: "04426"
 city: Dover-Foxcroft
-street: "North Street"
-housenumber: 22
+street: North Street
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "willsshopnsave.com"
+website: willsshopnsave.com

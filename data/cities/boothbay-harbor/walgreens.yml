@@ -1,11 +1,11 @@
 id: 616549866
-type: way
+type: node
 latitude: 43.8638
 longitude: -69.62767
 postcode: "04538"
 city: Boothbay Harbor
-street: "Townsend Avenue"
-housenumber: 223
+street: Townsend Avenue
+housenumber: "223"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-223+townsend+ave-boothbay+harbor-me-04538/id=19886"
+website: https://www.walgreens.com/locator/walgreens-223+townsend+ave-boothbay+harbor-me-04538/id=19886

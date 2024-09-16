@@ -1,11 +1,11 @@
 id: 878617335
-type: way
+type: node
 latitude: 45.01478
 longitude: -69.28987
 postcode: "04930"
 city: Dexter
-street: "Spring Street"
-housenumber: 171
+street: Spring Street
+housenumber: "171"
 phone: ""
-opening_hours: "Mo-Su 05:00-22:00"
+opening_hours: Mo-Su 05:00-22:00
 website: ""

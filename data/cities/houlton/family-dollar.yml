@@ -1,11 +1,11 @@
 id: 432505462
-type: way
+type: node
 latitude: 46.14681
 longitude: -67.84172
 postcode: "04730"
 city: Houlton
-street: "North Street"
-housenumber: 310
+street: North Street
+housenumber: "310"
 phone: ""
 opening_hours: ""
 website: ""

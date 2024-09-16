@@ -1,11 +1,11 @@
 id: 1166003343
-type: way
+type: node
 latitude: 43.85173
 longitude: -69.63043
 postcode: "04538"
 city: Boothbay Harbor
-street: "Todd Avenue"
-housenumber: 32
+street: Todd Avenue
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

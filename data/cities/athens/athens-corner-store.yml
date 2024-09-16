@@ -1,11 +1,11 @@
 id: 700775051
-type: way
+type: node
 latitude: 44.92411
 longitude: -69.67366
 postcode: "04912"
 city: Athens
-street: "Main Street"
-housenumber: 8
+street: Main Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

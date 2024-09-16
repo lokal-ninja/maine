@@ -1,11 +1,11 @@
 id: 1058145676
-type: way
+type: node
 latitude: 43.09257
 longitude: -70.75303
 postcode: "03904"
 city: Kittery
-street: "Old Post Road"
-housenumber: 33
+street: Old Post Road
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

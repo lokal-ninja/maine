@@ -1,11 +1,11 @@
 id: 137918277
-type: way
+type: node
 latitude: 44.83256
 longitude: -68.75514
 postcode: "04401"
 city: Bangor
-street: "Stillwater Avenue"
-housenumber: 650
-phone: "+1 207-990-3133"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/bangor/me/bangor/04401/2414"
+street: Stillwater Avenue
+housenumber: "650"
+phone: +1 207-990-3133
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/bangor/me/bangor/04401/2414

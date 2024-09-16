@@ -1,11 +1,11 @@
 id: 609770417
-type: way
+type: node
 latitude: 43.59892
 longitude: -70.32339
 postcode: "04074"
 city: Scarborough
-street: "Route 1"
-housenumber: 137
+street: Route 1
+housenumber: "137"
 phone: "+12075102260"
 opening_hours: ""
-website: "https://www.mbofscarborough.com/"
+website: https://www.mbofscarborough.com/

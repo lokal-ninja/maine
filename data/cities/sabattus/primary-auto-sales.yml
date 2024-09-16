@@ -1,11 +1,11 @@
 id: 688241521
-type: way
+type: node
 latitude: 44.11157
 longitude: -70.11259
 postcode: "04280"
 city: Sabattus
-street: "Sabattus Road"
-housenumber: 96
+street: Sabattus Road
+housenumber: "96"
 phone: ""
 opening_hours: ""
 website: ""

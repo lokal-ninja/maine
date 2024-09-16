@@ -1,11 +1,11 @@
 id: 368064936
-type: way
+type: node
 latitude: 44.31066
 longitude: -69.7806
 postcode: "04330"
 city: Augusta
-street: "Western Avenue"
-housenumber: 10
-phone: "+1-207-621-2200"
+street: Western Avenue
+housenumber: "10"
+phone: +1-207-621-2200
 opening_hours: ""
-website: "http://kennebecchocolates.com/Scripts/default.asp"
+website: http://kennebecchocolates.com/Scripts/default.asp

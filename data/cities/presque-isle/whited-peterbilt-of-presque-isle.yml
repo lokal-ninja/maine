@@ -1,11 +1,11 @@
 id: 498881512
-type: way
+type: node
 latitude: 46.66174
 longitude: -68.01092
 postcode: "04769"
 city: Presque Isle
-street: "Houlton Road"
-housenumber: 17
+street: Houlton Road
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 402503317
-type: way
+type: node
 latitude: 43.66858
 longitude: -70.28165
 postcode: "04101"
 city: Portland
-street: "Forest Avenue"
-housenumber: 570
-phone: "+1-207-221-8999"
+street: Forest Avenue
+housenumber: "570"
+phone: +1-207-221-8999
 opening_hours: ""
-website: "https://maineautoservice.com/"
+website: https://maineautoservice.com/

@@ -1,11 +1,11 @@
 id: 1311754724
-type: way
+type: node
 latitude: 44.83695
 longitude: -67.02319
 postcode: "04652"
 city: Lubec
-street: "County Road"
-housenumber: 371
+street: County Road
+housenumber: "371"
 phone: ""
 opening_hours: ""
 website: ""

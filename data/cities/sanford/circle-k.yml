@@ -1,11 +1,11 @@
 id: 724629348
-type: way
+type: node
 latitude: 43.42026
 longitude: -70.75783
 postcode: "04073"
 city: Sanford
-street: "Main Street"
-housenumber: 1227
-phone: "+1 207 324 47475"
-opening_hours: "24/7"
-website: "http://myirving.com/LocationHome/70462"
+street: Main Street
+housenumber: "1227"
+phone: +1 207 324 47475
+opening_hours: 24/7
+website: http://myirving.com/LocationHome/70462

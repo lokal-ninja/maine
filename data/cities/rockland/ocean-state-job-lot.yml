@@ -1,11 +1,11 @@
 id: 1313884001
-type: way
+type: node
 latitude: 44.12488
 longitude: -69.09615
 postcode: "04841"
 city: Rockland
-street: "Camden Street"
-housenumber: 265
-phone: "+1 207-594-9861"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-20:00"
-website: "https://www.oceanstatejoblot.com/store-locator/maine/rockland/475/?utm_source=google&utm_medium=gmb-listing&utm_campaign=gmb-listing=&utm_content=475"
+street: Camden Street
+housenumber: "265"
+phone: +1 207-594-9861
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-20:00
+website: https://www.oceanstatejoblot.com/store-locator/maine/rockland/475/?utm_source=google&utm_medium=gmb-listing&utm_campaign=gmb-listing=&utm_content=475

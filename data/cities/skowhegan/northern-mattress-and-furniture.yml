@@ -1,11 +1,11 @@
 id: 301601356
-type: way
+type: node
 latitude: 44.76509
 longitude: -69.71904
 postcode: "04976"
 city: Skowhegan
-street: "Water Street"
-housenumber: 49
-phone: "+1-207-858-4258"
+street: Water Street
+housenumber: "49"
+phone: +1-207-858-4258
 opening_hours: ""
-website: "https://www.northernmattressandfurniture.com/"
+website: https://www.northernmattressandfurniture.com/

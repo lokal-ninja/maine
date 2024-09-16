@@ -1,11 +1,11 @@
 id: 479416990
-type: way
+type: node
 latitude: 44.21348
 longitude: -70.52782
 postcode: "04281"
 city: South Paris
-street: "Main Street"
-housenumber: 259
+street: Main Street
+housenumber: "259"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/me/south-paris/22813"
+website: https://www.dollargeneral.com/store-directory/me/south-paris/22813

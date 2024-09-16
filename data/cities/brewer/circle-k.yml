@@ -1,11 +1,11 @@
 id: 1174312844
-type: way
+type: node
 latitude: 44.79776
 longitude: -68.76061
 postcode: "04412"
 city: Brewer
-street: "North Main Street"
-housenumber: 304
+street: North Main Street
+housenumber: "304"
 phone: ""
 opening_hours: ""
 website: ""

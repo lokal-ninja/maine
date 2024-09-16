@@ -1,11 +1,11 @@
 id: 1118445957
-type: way
+type: node
 latitude: 43.63639
 longitude: -70.32036
 postcode: "04106"
 city: South Portland
-street: "Western Avenue"
-housenumber: 161
-phone: "+1 207-253-0364"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/161-western-avenue-south-portland-04106?number=478"
+street: Western Avenue
+housenumber: "161"
+phone: +1 207-253-0364
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/161-western-avenue-south-portland-04106?number=478

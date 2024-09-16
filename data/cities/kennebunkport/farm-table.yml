@@ -1,11 +1,11 @@
 id: 501060623
-type: way
+type: node
 latitude: 43.37144
 longitude: -70.43764
 postcode: "04046"
 city: Kennebunkport
-street: "Langsford Road"
-housenumber: 8
+street: Langsford Road
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 628936377
-type: way
+type: node
 latitude: 44.0941
 longitude: -69.14332
 postcode: "04841"
 city: Rockland
-street: "New County Road"
-housenumber: 164
-phone: "+1 207-226-4036"
-opening_hours: "Mo-Fr 06:00-21:00; Sa 06:00-22:00; Su 08:00-19:00"
-website: "https://www.lowes.com/store/me-thomaston/2496"
+street: New County Road
+housenumber: "164"
+phone: +1 207-226-4036
+opening_hours: Mo-Fr 06:00-21:00; Sa 06:00-22:00; Su 08:00-19:00
+website: https://www.lowes.com/store/me-thomaston/2496

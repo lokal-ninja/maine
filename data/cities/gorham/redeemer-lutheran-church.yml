@@ -1,11 +1,11 @@
 id: 1309032414
-type: way
+type: node
 latitude: 43.68776
 longitude: -70.41692
 postcode: "04038"
 city: Gorham
-street: "Main Street"
-housenumber: 410
+street: Main Street
+housenumber: "410"
 phone: "2078397100"
 opening_hours: ""
-website: "https://www.redeemermaine.org/home"
+website: https://www.redeemermaine.org/home

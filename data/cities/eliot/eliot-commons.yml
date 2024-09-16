@@ -1,11 +1,11 @@
 id: 182881685
-type: way
+type: node
 latitude: 43.13
 longitude: -70.77359
 postcode: "03903"
 city: Eliot
-street: "Levesque Drive"
-housenumber: 28
+street: Levesque Drive
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

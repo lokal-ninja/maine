@@ -4,8 +4,8 @@ latitude: 44.12572
 longitude: -70.2276
 postcode: "04210"
 city: Auburn
-street: "Center Street"
-housenumber: 730
-phone: "+1 207-786-7819"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/me/auburn/730-center-st"
+street: Center Street
+housenumber: "730"
+phone: +1 207-786-7819
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/me/auburn/730-center-st

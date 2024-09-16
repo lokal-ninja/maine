@@ -1,11 +1,11 @@
 id: 914726063
-type: way
+type: node
 latitude: 43.65151
 longitude: -70.26867
 postcode: "04102"
 city: Portland
-street: "Pine Street"
-housenumber: 49
+street: Pine Street
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 220355220
-type: way
+type: node
 latitude: 43.40268
 longitude: -70.70292
 postcode: "04073"
 city: Sanford
-street: "Main Street"
-housenumber: 1900
-phone: "+1 207-459-3166"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/me-sanford/2388"
+street: Main Street
+housenumber: "1900"
+phone: +1 207-459-3166
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/me-sanford/2388

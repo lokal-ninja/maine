@@ -1,11 +1,11 @@
 id: 1201714584
-type: way
+type: node
 latitude: 44.20743
 longitude: -69.06753
 postcode: "04843"
 city: Camden
-street: "Elm Street"
-housenumber: 60
+street: Elm Street
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

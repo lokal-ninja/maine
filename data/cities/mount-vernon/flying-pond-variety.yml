@@ -1,11 +1,11 @@
 id: 547847317
-type: way
+type: node
 latitude: 44.51372
 longitude: -69.98963
 postcode: "04352"
 city: Mount Vernon
-street: "Pond Road"
-housenumber: 165
+street: Pond Road
+housenumber: "165"
 phone: ""
 opening_hours: ""
 website: ""

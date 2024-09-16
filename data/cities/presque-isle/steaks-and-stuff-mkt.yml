@@ -1,11 +1,11 @@
 id: 421493200
-type: way
+type: node
 latitude: 46.68291
 longitude: -68.02054
 postcode: "04769"
 city: Presque Isle
-street: "State Street"
-housenumber: 60
+street: State Street
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

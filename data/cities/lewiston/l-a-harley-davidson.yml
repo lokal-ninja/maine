@@ -1,11 +1,11 @@
 id: 1218677624
-type: way
+type: node
 latitude: 44.13061
 longitude: -70.19612
 postcode: "04210"
 city: Lewiston
-street: "Main Street"
-housenumber: 839
+street: Main Street
+housenumber: "839"
 phone: ""
 opening_hours: ""
 website: ""

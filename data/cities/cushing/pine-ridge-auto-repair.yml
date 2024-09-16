@@ -1,11 +1,11 @@
 id: 678979827
-type: way
+type: node
 latitude: 43.99676
 longitude: -69.26245
 postcode: "04563"
 city: Cushing
-street: "Pine Ridge Road"
-housenumber: 76
+street: Pine Ridge Road
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

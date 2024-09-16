@@ -1,11 +1,11 @@
 id: 725071711
-type: way
+type: node
 latitude: 43.46306
 longitude: -70.78346
 postcode: "04083"
 city: Springvale
-street: "Coleco Lane"
-housenumber: 20
-phone: "+1-207-324-3360"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-12:00"
-website: "https://deeringlumber.com/"
+street: Coleco Lane
+housenumber: "20"
+phone: +1-207-324-3360
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-12:00
+website: https://deeringlumber.com/

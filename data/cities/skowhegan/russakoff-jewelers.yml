@@ -1,11 +1,11 @@
 id: 279187716
-type: way
+type: node
 latitude: 44.76564
 longitude: -69.71821
 postcode: "04976"
 city: Skowhegan
-street: "Water Street"
-housenumber: 100
-phone: "+1-207-474-9010"
+street: Water Street
+housenumber: "100"
+phone: +1-207-474-9010
 opening_hours: ""
-website: "https://russgems.com/"
+website: https://russgems.com/

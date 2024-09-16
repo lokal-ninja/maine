@@ -1,11 +1,11 @@
 id: 1135782894
-type: way
+type: node
 latitude: 43.99834
 longitude: -70.05985
 postcode: "04252"
 city: Lisbon Falls
-street: "Main Street"
-housenumber: 40
+street: Main Street
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

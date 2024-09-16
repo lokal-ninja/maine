@@ -1,11 +1,11 @@
 id: 1025848412
-type: way
+type: node
 latitude: 43.48649
 longitude: -70.46522
 postcode: "04005"
 city: Biddeford
-street: "Elm Street"
-housenumber: 313
-phone: "+1 207-284-8677"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://stores.hannaford.com/me/biddeford/8225"
+street: Elm Street
+housenumber: "313"
+phone: +1 207-284-8677
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://stores.hannaford.com/me/biddeford/8225

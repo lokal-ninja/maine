@@ -1,11 +1,11 @@
 id: 979454941
-type: way
+type: node
 latitude: 44.31106
 longitude: -69.79418
 postcode: "04330"
 city: Augusta
-street: "Shaw's Plaza"
-housenumber: 152
-phone: "+1 207-622-6950"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/me/augusta/4525"
+street: Shaw's Plaza
+housenumber: "152"
+phone: +1 207-622-6950
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/me/augusta/4525

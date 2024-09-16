@@ -1,11 +1,11 @@
 id: 992497316
-type: way
+type: node
 latitude: 43.3956
 longitude: -70.73804
 postcode: "04073"
 city: Sanford
-street: "Country Club Road"
-housenumber: 238
-phone: "+1-207-324-7474"
+street: Country Club Road
+housenumber: "238"
+phone: +1-207-324-7474
 opening_hours: ""
-website: "https://www.genestprecast.com/"
+website: https://www.genestprecast.com/

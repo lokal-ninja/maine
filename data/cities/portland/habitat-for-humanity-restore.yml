@@ -1,11 +1,11 @@
 id: 821258867
-type: way
+type: node
 latitude: 43.68709
 longitude: -70.32836
 postcode: "04103"
 city: Portland
-street: "Warren Avenue"
-housenumber: 659
-phone: "+1-207-221-0047"
-opening_hours: "Tu-Sa 09:00-17:00"
-website: "https://habitatportlandme.org/restore/"
+street: Warren Avenue
+housenumber: "659"
+phone: +1-207-221-0047
+opening_hours: Tu-Sa 09:00-17:00
+website: https://habitatportlandme.org/restore/

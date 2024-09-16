@@ -1,11 +1,11 @@
 id: 1157409559
-type: way
+type: node
 latitude: 43.4939
 longitude: -70.45833
 postcode: "04005"
 city: Biddeford
-street: "Main Street"
-housenumber: 265
+street: Main Street
+housenumber: "265"
 phone: ""
 opening_hours: ""
 website: ""

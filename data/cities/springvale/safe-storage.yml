@@ -1,11 +1,11 @@
 id: 733995181
-type: way
+type: node
 latitude: 43.45933
 longitude: -70.78175
 postcode: "04083"
 city: Springvale
-street: "River Street"
-housenumber: 254
-phone: "+1-844-882-4188"
-opening_hours: "Mo,Th 09:00-17:00; Fr 08:30-12:00"
-website: "https://www.maine-storage.com/self-storage/me/springvale/river-st/"
+street: River Street
+housenumber: "254"
+phone: +1-844-882-4188
+opening_hours: Mo,Th 09:00-17:00; Fr 08:30-12:00
+website: https://www.maine-storage.com/self-storage/me/springvale/river-st/

@@ -1,11 +1,11 @@
 id: 548442648
-type: way
+type: node
 latitude: 44.28538
 longitude: -69.05746
 postcode: "04849"
 city: Lincolnville
-street: "Beach Road"
-housenumber: 611
+street: Beach Road
+housenumber: "611"
 phone: ""
 opening_hours: ""
 website: ""

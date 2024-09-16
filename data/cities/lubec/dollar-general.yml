@@ -1,11 +1,11 @@
 id: 1080599165
-type: way
+type: node
 latitude: 44.85586
 longitude: -66.99165
 postcode: "04652"
 city: Lubec
-street: "Main Street"
-housenumber: 122
+street: Main Street
+housenumber: "122"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/me/lubec/22132"
+website: https://www.dollargeneral.com/store-directory/me/lubec/22132

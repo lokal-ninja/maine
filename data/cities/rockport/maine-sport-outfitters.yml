@@ -1,11 +1,11 @@
 id: 407890852
-type: way
+type: node
 latitude: 44.19235
 longitude: -69.08005
 postcode: "04856"
 city: Rockport
-street: "Commercial Street"
-housenumber: 115
+street: Commercial Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

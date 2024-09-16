@@ -1,11 +1,11 @@
 id: 707126894
-type: way
+type: node
 latitude: 43.73119
 longitude: -70.54174
 postcode: "04084"
 city: Standish
-street: "Ossipee Trail East"
-housenumber: 124
+street: Ossipee Trail East
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

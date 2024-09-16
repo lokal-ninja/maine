@@ -1,11 +1,11 @@
 id: 983427700
-type: way
+type: node
 latitude: 43.08554
 longitude: -70.74428
 postcode: "03904"
 city: Kittery
-street: "Government Street"
-housenumber: 9
+street: Government Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

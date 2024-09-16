@@ -1,11 +1,11 @@
 id: 361095207
-type: way
+type: node
 latitude: 46.77223
 longitude: -67.83432
 postcode: "04742"
 city: Fort Fairfield
-street: "Main Street"
-housenumber: 355
-phone: "+1-207-472-1191"
+street: Main Street
+housenumber: "355"
+phone: +1-207-472-1191
 opening_hours: ""
 website: ""

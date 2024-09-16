@@ -1,11 +1,11 @@
 id: 415366187
-type: way
+type: node
 latitude: 44.29581
 longitude: -68.32747
 postcode: "04679"
 city: Southwest Harbor
-street: "Main Street"
-housenumber: 101
-phone: "+1 843-567-3565"
+street: Main Street
+housenumber: "101"
+phone: +1 843-567-3565
 opening_hours: ""
 website: ""

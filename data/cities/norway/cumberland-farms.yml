@@ -1,11 +1,11 @@
 id: 1203007524
-type: way
+type: node
 latitude: 44.21279
 longitude: -70.53829
 postcode: "04268"
 city: Norway
-street: "Main Street"
-housenumber: 251
+street: Main Street
+housenumber: "251"
 phone: ""
 opening_hours: ""
 website: ""

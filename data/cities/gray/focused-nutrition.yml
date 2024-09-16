@@ -4,8 +4,8 @@ latitude: 43.88699
 longitude: -70.3299
 postcode: "04039"
 city: Gray
-street: "Main Street"
-housenumber: 15
-phone: "+1-207-657-8513"
-opening_hours: "Mo-Fr 06:30-14:00; Sa 08:00-14:00"
+street: Main Street
+housenumber: "15"
+phone: +1-207-657-8513
+opening_hours: Mo-Fr 06:30-14:00; Sa 08:00-14:00
 website: ""

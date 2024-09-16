@@ -4,8 +4,8 @@ latitude: 43.65673
 longitude: -70.25978
 postcode: "04101"
 city: Portland
-street: "Congress Street"
-housenumber: 490
-phone: "+1-207-536-0163"
+street: Congress Street
+housenumber: "490"
+phone: +1-207-536-0163
 opening_hours: ""
-website: "https://theravensalon.com/"
+website: https://theravensalon.com/

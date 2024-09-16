@@ -1,11 +1,11 @@
 id: 314154989
-type: way
+type: node
 latitude: 43.90655
 longitude: -69.90876
 postcode: "04011"
 city: Brunswick
-street: "Tibbetts Drive"
-housenumber: 15
-phone: "+1 207-725-0773"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/1939-brunswick-me"
+street: Tibbetts Drive
+housenumber: "15"
+phone: +1 207-725-0773
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/1939-brunswick-me

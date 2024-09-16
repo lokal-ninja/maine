@@ -1,11 +1,11 @@
 id: 1073445437
-type: way
+type: node
 latitude: 43.8247
 longitude: -69.70934
 postcode: "04548"
 city: Georgetown
-street: "Saddler's Cove Lane"
-housenumber: 13
+street: Saddler's Cove Lane
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

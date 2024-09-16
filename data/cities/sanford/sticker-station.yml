@@ -1,11 +1,11 @@
 id: 740402590
-type: way
+type: node
 latitude: 43.4422
 longitude: -70.77931
 postcode: "04073"
 city: Sanford
-street: "Main Street"
-housenumber: 850
-phone: "+1-207-324-2611"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://www.mainestickerstation.com/index.html"
+street: Main Street
+housenumber: "850"
+phone: +1-207-324-2611
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://www.mainestickerstation.com/index.html

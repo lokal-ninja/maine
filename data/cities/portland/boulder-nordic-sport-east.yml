@@ -1,11 +1,11 @@
 id: 891704583
-type: way
+type: node
 latitude: 43.68727
 longitude: -70.25203
 postcode: "04103"
 city: Portland
-street: "Olympia Street"
-housenumber: 30
+street: Olympia Street
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

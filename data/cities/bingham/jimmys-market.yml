@@ -1,11 +1,11 @@
 id: 392705624
-type: way
+type: node
 latitude: 45.05483
 longitude: -69.88338
 postcode: "04920"
 city: Bingham
-street: "Main Street"
-housenumber: 65
-phone: "+1-207-672-5528"
+street: Main Street
+housenumber: "65"
+phone: +1-207-672-5528
 opening_hours: ""
-website: "http://www.jimmysshopnsave.com/"
+website: http://www.jimmysshopnsave.com/

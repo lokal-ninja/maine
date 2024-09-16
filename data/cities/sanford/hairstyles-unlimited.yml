@@ -1,11 +1,11 @@
 id: 768965356
-type: way
+type: node
 latitude: 43.44331
 longitude: -70.7744
 postcode: "04073"
 city: Sanford
-street: "River Street"
-housenumber: 30
-phone: "+1-207-324-8866"
+street: River Street
+housenumber: "30"
+phone: +1-207-324-8866
 opening_hours: ""
 website: ""

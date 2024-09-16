@@ -1,11 +1,11 @@
 id: 384444659
-type: way
+type: node
 latitude: 44.10846
 longitude: -69.11143
 postcode: "04841"
 city: Rockland
-street: "Granite Street"
-housenumber: 15
-phone: "+1-207-593-0445"
+street: Granite Street
+housenumber: "15"
+phone: +1-207-593-0445
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 403558015
-type: way
+type: node
 latitude: 44.11944
 longitude: -69.10163
 postcode: ""
 city: Rockland
-street: "Camden Street"
-housenumber: 137
+street: Camden Street
+housenumber: "137"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/me/rockland/autoparts-4523.html"
+website: https://locations.oreillyauto.com/me/rockland/autoparts-4523.html

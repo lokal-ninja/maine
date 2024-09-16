@@ -1,11 +1,11 @@
 id: 207945904
-type: way
+type: node
 latitude: 44.40701
 longitude: -70.79012
 postcode: "04217"
 city: Bethel
-street: "Main Street"
-housenumber: 72
+street: Main Street
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

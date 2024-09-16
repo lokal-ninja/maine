@@ -1,11 +1,11 @@
 id: 270508597
-type: way
+type: node
 latitude: 43.8471
 longitude: -70.11435
 postcode: "04032"
 city: Freeport
-street: "Lower Main Street"
-housenumber: 184
+street: Lower Main Street
+housenumber: "184"
 phone: ""
 opening_hours: ""
-website: "https://www.chiltons.com/"
+website: https://www.chiltons.com/

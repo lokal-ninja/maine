@@ -1,11 +1,11 @@
 id: 578994953
-type: way
+type: node
 latitude: 43.87959
 longitude: -70.46522
 postcode: "04071"
 city: Raymond
-street: "Roosevelt Trail"
-housenumber: 1225
+street: Roosevelt Trail
+housenumber: "1225"
 phone: ""
 opening_hours: ""
 website: ""

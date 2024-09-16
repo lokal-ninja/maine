@@ -1,11 +1,11 @@
 id: 351709869
-type: way
+type: node
 latitude: 45.65627
 longitude: -68.68498
 postcode: "04462"
 city: Millinocket
-street: "Tamarack Street"
-housenumber: 11
+street: Tamarack Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

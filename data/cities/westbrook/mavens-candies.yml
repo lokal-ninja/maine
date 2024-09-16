@@ -1,11 +1,11 @@
 id: 854217680
-type: way
+type: node
 latitude: 43.65111
 longitude: -70.34702
 postcode: "04092"
 city: Westbrook
-street: "County Road"
-housenumber: 87
+street: County Road
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

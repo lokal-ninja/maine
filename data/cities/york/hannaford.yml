@@ -1,11 +1,11 @@
 id: 413929517
-type: way
+type: node
 latitude: 43.15261
 longitude: -70.6694
 postcode: "03909"
 city: York
-street: "Hannaford Drive"
-housenumber: 5
-phone: "+1 207-363-5357"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://stores.hannaford.com/me/york/8384"
+street: Hannaford Drive
+housenumber: "5"
+phone: +1 207-363-5357
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://stores.hannaford.com/me/york/8384

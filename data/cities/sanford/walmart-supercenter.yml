@@ -1,11 +1,11 @@
 id: 220355219
-type: way
+type: node
 latitude: 43.40185
 longitude: -70.70017
 postcode: "04073"
 city: Sanford
-street: "Main Street"
-housenumber: 1930
-phone: "+1 207-490-1988"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1954/sanford-me/whats-new"
+street: Main Street
+housenumber: "1930"
+phone: +1 207-490-1988
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1954/sanford-me/whats-new

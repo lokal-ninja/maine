@@ -1,11 +1,11 @@
 id: 1283756336
-type: way
+type: node
 latitude: 44.54369
 longitude: -69.6928
 postcode: "04963"
 city: Oakland
-street: "Kennedy Memorial Drive"
-housenumber: 886
+street: Kennedy Memorial Drive
+housenumber: "886"
 phone: ""
 opening_hours: ""
 website: ""

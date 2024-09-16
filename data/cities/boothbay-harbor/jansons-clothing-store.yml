@@ -1,11 +1,11 @@
 id: 1105337846
-type: way
+type: node
 latitude: 43.8513
 longitude: -69.62775
 postcode: "04538"
 city: Boothbay Harbor
-street: "Commercial Street"
-housenumber: 4
+street: Commercial Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

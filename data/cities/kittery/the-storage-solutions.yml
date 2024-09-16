@@ -1,11 +1,11 @@
 id: 1265882526
-type: way
+type: node
 latitude: 43.11941
 longitude: -70.75887
 postcode: "03904"
 city: Kittery
-street: "Route 236"
-housenumber: 91
+street: Route 236
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

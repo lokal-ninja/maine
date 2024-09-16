@@ -1,11 +1,11 @@
 id: 306561310
-type: way
+type: node
 latitude: 46.87024
 longitude: -68.00474
 postcode: "04736"
 city: Caribou
-street: "Bennett Drive"
-housenumber: 124
+street: Bennett Drive
+housenumber: "124"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/me/caribou/5058/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/me/caribou/5058/

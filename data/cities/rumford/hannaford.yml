@@ -1,11 +1,11 @@
 id: 388942236
-type: way
+type: node
 latitude: 44.55531
 longitude: -70.5507
 postcode: "04276"
 city: Rumford
-street: "Waldo Street"
-housenumber: 520
-phone: "+1 207-364-3771"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://stores.hannaford.com/me/rumford/8358"
+street: Waldo Street
+housenumber: "520"
+phone: +1 207-364-3771
+opening_hours: Mo-Su 07:00-21:00
+website: https://stores.hannaford.com/me/rumford/8358

@@ -1,11 +1,11 @@
 id: 949876709
-type: way
+type: node
 latitude: 44.10308
 longitude: -69.1092
 postcode: "04841"
 city: Rockland
-street: "Main Street"
-housenumber: 344
-phone: "+1 207 542 6608"
+street: Main Street
+housenumber: "344"
+phone: +1 207 542 6608
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 777810110
-type: way
+type: node
 latitude: 43.65191
 longitude: -70.34092
 postcode: "04102"
 city: Portland
-street: "Congress Street"
-housenumber: 2445
-phone: "+1-207-775-6128"
+street: Congress Street
+housenumber: "2445"
+phone: +1-207-775-6128
 opening_hours: ""
-website: "https://apexracketandfitness.com/"
+website: https://apexracketandfitness.com/

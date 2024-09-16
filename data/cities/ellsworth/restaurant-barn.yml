@@ -1,11 +1,11 @@
 id: 549616964
-type: way
+type: node
 latitude: 44.52058
 longitude: -68.39667
 postcode: "04605"
 city: Ellsworth
-street: "High Street"
-housenumber: 397
-phone: "+1-207-610-1701"
+street: High Street
+housenumber: "397"
+phone: +1-207-610-1701
 opening_hours: ""
-website: "https://www.restaurantbarn.com/"
+website: https://www.restaurantbarn.com/

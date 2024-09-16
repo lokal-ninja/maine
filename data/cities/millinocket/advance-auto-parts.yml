@@ -1,11 +1,11 @@
 id: 351708691
-type: way
+type: node
 latitude: 45.65647
 longitude: -68.68854
 postcode: "04462"
 city: Millinocket
-street: "Sycamore Street"
-housenumber: 21
+street: Sycamore Street
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

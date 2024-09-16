@@ -4,8 +4,8 @@ latitude: 44.42558
 longitude: -69.00798
 postcode: "04915"
 city: Belfast
-street: "Main Street"
-housenumber: 125
-phone: "+1-207-505-0116"
-opening_hours: "We-Sa 11:00-17:30; Su 11:00-16:00"
+street: Main Street
+housenumber: "125"
+phone: +1-207-505-0116
+opening_hours: We-Sa 11:00-17:30; Su 11:00-16:00
 website: ""

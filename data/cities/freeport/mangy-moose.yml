@@ -4,8 +4,8 @@ latitude: 43.85787
 longitude: -70.10229
 postcode: "04032"
 city: Freeport
-street: "Main Street"
-housenumber: 112
-phone: "+1-207-865-6414"
+street: Main Street
+housenumber: "112"
+phone: +1-207-865-6414
 opening_hours: ""
-website: "https://themangymoose.com/"
+website: https://themangymoose.com/

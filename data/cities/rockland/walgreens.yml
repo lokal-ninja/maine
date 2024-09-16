@@ -1,11 +1,11 @@
 id: 403548384
-type: way
+type: node
 latitude: 44.10179
 longitude: -69.11023
 postcode: "04841"
 city: Rockland
-street: "Park Street"
-housenumber: 28
+street: Park Street
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-28+park+st-rockland-me-04841/id=17473"
+website: https://www.walgreens.com/locator/walgreens-28+park+st-rockland-me-04841/id=17473

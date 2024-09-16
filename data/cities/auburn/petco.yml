@@ -1,11 +1,11 @@
 id: 695648834
-type: way
+type: node
 latitude: 44.12287
 longitude: -70.23568
-postcode: "04210-8521"
+postcode: 04210-8521
 city: Auburn
-street: "Mount Auburn Avenue"
-housenumber: 105
-phone: "+1 207-786-9280"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/me/auburn/pet-supplies-auburn-me-2786.html"
+street: Mount Auburn Avenue
+housenumber: "105"
+phone: +1 207-786-9280
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/me/auburn/pet-supplies-auburn-me-2786.html

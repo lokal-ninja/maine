@@ -1,11 +1,11 @@
 id: 377684329
-type: way
+type: node
 latitude: 45.62594
 longitude: -70.25711
 postcode: "04945"
 city: Jackman
-street: "Main Street"
-housenumber: 464
+street: Main Street
+housenumber: "464"
 phone: ""
 opening_hours: ""
 website: ""

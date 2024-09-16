@@ -1,11 +1,11 @@
 id: 878413972
-type: way
+type: node
 latitude: 45.06905
 longitude: -69.23843
 postcode: "04930"
 city: Dexter
-street: "Dover Road"
-housenumber: 809
+street: Dover Road
+housenumber: "809"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 733626098
-type: way
+type: node
 latitude: 44.10365
 longitude: -70.17943
 postcode: "04240"
 city: Lewiston
-street: "Sabattus Street"
-housenumber: 692
-phone: "+1 207-784-0721"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://stores.hannaford.com/me/lewiston/8265"
+street: Sabattus Street
+housenumber: "692"
+phone: +1 207-784-0721
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://stores.hannaford.com/me/lewiston/8265

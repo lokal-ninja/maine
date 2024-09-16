@@ -1,11 +1,11 @@
 id: 1060190367
-type: way
+type: node
 latitude: 44.8382
 longitude: -68.74784
 postcode: "04401"
 city: Bangor
-street: "Stillwater Avenue"
-housenumber: 880
-phone: "+1 207-941-9351"
+street: Stillwater Avenue
+housenumber: "880"
+phone: +1 207-941-9351
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/me/bangor/085004/"
+website: https://www.mattressfirm.com/en-us/stores/me/bangor/085004/

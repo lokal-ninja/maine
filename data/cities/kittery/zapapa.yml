@@ -1,11 +1,11 @@
 id: 983427689
-type: way
+type: node
 latitude: 43.08571
 longitude: -70.74336
 postcode: "03904"
 city: Kittery
-street: "Wallingford Square"
-housenumber: 66
+street: Wallingford Square
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

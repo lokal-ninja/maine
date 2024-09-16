@@ -1,11 +1,11 @@
 id: 724301767
-type: way
+type: node
 latitude: 43.40874
 longitude: -70.74195
 postcode: "04073"
 city: Sanford
-street: "Country Club #1 Road"
-housenumber: 21
-phone: "+1-207-490-0572"
+street: 'Country Club #1 Road'
+housenumber: "21"
+phone: +1-207-490-0572
 opening_hours: ""
 website: ""

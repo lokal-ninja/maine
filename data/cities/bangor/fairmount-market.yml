@@ -1,11 +1,11 @@
 id: 1165009093
-type: way
+type: node
 latitude: 44.79913
 longitude: -68.79563
 postcode: "04401"
 city: Bangor
-street: "Hammond Street"
-housenumber: 662
-phone: "+1-207-947-7338"
-opening_hours: "Mo-Su 07:00-22:00"
+street: Hammond Street
+housenumber: "662"
+phone: +1-207-947-7338
+opening_hours: Mo-Su 07:00-22:00
 website: ""

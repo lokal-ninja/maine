@@ -1,11 +1,11 @@
 id: 1061575363
-type: way
+type: node
 latitude: 43.92632
 longitude: -69.25937
 postcode: "04860"
 city: Saint George
-street: "Cold Storage Road"
-housenumber: 6
+street: Cold Storage Road
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

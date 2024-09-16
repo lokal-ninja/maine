@@ -1,11 +1,11 @@
 id: 39885538
-type: way
+type: node
 latitude: 44.54411
 longitude: -69.67503
 postcode: "04901"
 city: Waterville
-street: "Kennedy Memorial Drive"
-housenumber: 420
+street: Kennedy Memorial Drive
+housenumber: "420"
 phone: ""
 opening_hours: ""
-website: "https://www.centralmainechryslerdodgejeep.com/"
+website: https://www.centralmainechryslerdodgejeep.com/

@@ -1,11 +1,11 @@
 id: 987015908
-type: way
+type: node
 latitude: 43.93394
 longitude: -69.98647
 postcode: "04086"
 city: Topsham
-street: "Topsham Fair Mall Road"
-housenumber: 125
+street: Topsham Fair Mall Road
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

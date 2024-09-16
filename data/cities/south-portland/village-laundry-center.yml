@@ -1,11 +1,11 @@
 id: 405213108
-type: way
+type: node
 latitude: 43.63683
 longitude: -70.31324
 postcode: "04106"
 city: South Portland
-street: "Westbrook Street"
-housenumber: 583
+street: Westbrook Street
+housenumber: "583"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 408620459
-type: way
+type: node
 latitude: 44.39523
 longitude: -69.56795
 postcode: "04358"
 city: China
-street: "Hannaford Drive"
-housenumber: 33
-phone: "+1 207-445-3385"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://stores.hannaford.com/me/china/8287"
+street: Hannaford Drive
+housenumber: "33"
+phone: +1 207-445-3385
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://stores.hannaford.com/me/china/8287

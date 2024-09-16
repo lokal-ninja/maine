@@ -1,11 +1,11 @@
 id: 1069643101
-type: way
+type: node
 latitude: 43.56846
 longitude: -70.3896
-postcode: "04074-9700"
+postcode: 04074-9700
 city: Scarborough
-street: "Route 1"
-housenumber: 636
-phone: "+1 207-883-0101"
-opening_hours: "Mo-Fr 07:00-18:00; Sa-Su 08:00-17:00"
+street: Route 1
+housenumber: "636"
+phone: +1 207-883-0101
+opening_hours: Mo-Fr 07:00-18:00; Sa-Su 08:00-17:00
 website: ""

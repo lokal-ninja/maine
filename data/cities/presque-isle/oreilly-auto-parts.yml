@@ -1,11 +1,11 @@
 id: 186842045
-type: way
+type: node
 latitude: 46.69563
 longitude: -68.01245
 postcode: "04769"
 city: Presque Isle
-street: "Main Street"
-housenumber: 755
+street: Main Street
+housenumber: "755"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/me/presqueisle/autoparts-4515.html"
+website: https://locations.oreillyauto.com/me/presqueisle/autoparts-4515.html

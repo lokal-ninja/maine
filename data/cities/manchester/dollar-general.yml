@@ -1,11 +1,11 @@
 id: 850110104
-type: way
+type: node
 latitude: 44.32308
 longitude: -69.87068
 postcode: "04351"
 city: Manchester
-street: "Western Avenue"
-housenumber: 1022
-phone: "+1 207 466 1537"
+street: Western Avenue
+housenumber: "1022"
+phone: +1 207 466 1537
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/me/manchester/17317"
+website: https://www.dollargeneral.com/store-directory/me/manchester/17317

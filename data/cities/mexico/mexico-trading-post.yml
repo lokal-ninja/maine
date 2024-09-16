@@ -1,11 +1,11 @@
 id: 733701285
-type: way
+type: node
 latitude: 44.55348
 longitude: -70.53739
 postcode: "04257"
 city: Mexico
-street: "Main Street"
-housenumber: 240
+street: Main Street
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

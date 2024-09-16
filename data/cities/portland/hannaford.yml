@@ -1,11 +1,11 @@
 id: 650795012
-type: way
+type: node
 latitude: 43.70201
 longitude: -70.31914
 postcode: "04103"
 city: Portland
-street: "Riverside Street"
-housenumber: 787
-phone: "+1 207-878-0191"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://stores.hannaford.com/me/portland/8354"
+street: Riverside Street
+housenumber: "787"
+phone: +1 207-878-0191
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://stores.hannaford.com/me/portland/8354

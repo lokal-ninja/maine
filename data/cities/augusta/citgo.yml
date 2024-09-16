@@ -1,11 +1,11 @@
 id: 966271586
-type: way
+type: node
 latitude: 44.34006
 longitude: -69.75707
 postcode: "04330"
 city: Augusta
-street: "Riverside Drive"
-housenumber: 362
+street: Riverside Drive
+housenumber: "362"
 phone: ""
 opening_hours: ""
 website: ""

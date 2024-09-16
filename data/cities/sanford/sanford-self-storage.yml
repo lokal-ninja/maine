@@ -1,11 +1,11 @@
 id: 741176300
-type: way
+type: node
 latitude: 43.44771
 longitude: -70.77305
 postcode: "04073"
 city: Sanford
-street: "Bennett Street"
-housenumber: 17
-phone: "+1-207-324-3278"
+street: Bennett Street
+housenumber: "17"
+phone: +1-207-324-3278
 opening_hours: ""
 website: ""

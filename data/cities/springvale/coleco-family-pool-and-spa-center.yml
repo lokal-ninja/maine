@@ -1,11 +1,11 @@
 id: 732782325
-type: way
+type: node
 latitude: 43.46247
 longitude: -70.78404
 postcode: "04083"
 city: Springvale
-street: "Coleco Lane"
-housenumber: 3
-phone: "+1-207-324-6085"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-14:00"
-website: "https://colecopools.com/"
+street: Coleco Lane
+housenumber: "3"
+phone: +1-207-324-6085
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-14:00
+website: https://colecopools.com/

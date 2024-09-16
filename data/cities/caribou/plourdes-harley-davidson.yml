@@ -1,11 +1,11 @@
 id: 910630092
-type: way
+type: node
 latitude: 46.86756
 longitude: -68.00388
 postcode: "04736"
 city: Caribou
-street: "Laurette Street"
-housenumber: 11
+street: Laurette Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

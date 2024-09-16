@@ -1,11 +1,11 @@
 id: 238405069
-type: way
+type: node
 latitude: 44.54143
 longitude: -68.42394
 postcode: "04605"
 city: Ellsworth
-street: "Main Street"
-housenumber: 97
-phone: "+1-207-667-2161"
-opening_hours: "Mo-Fr 9:00-17:00, Sa 9:00-16:00"
-website: "https://bealsjewelry.com/"
+street: Main Street
+housenumber: "97"
+phone: +1-207-667-2161
+opening_hours: Mo-Fr 9:00-17:00, Sa 9:00-16:00
+website: https://bealsjewelry.com/

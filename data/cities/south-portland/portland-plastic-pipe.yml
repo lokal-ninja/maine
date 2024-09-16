@@ -1,11 +1,11 @@
 id: 908244207
-type: way
+type: node
 latitude: 43.62789
 longitude: -70.28135
 postcode: "04106"
 city: South Portland
-street: "Lincoln Street"
-housenumber: 444
+street: Lincoln Street
+housenumber: "444"
 phone: ""
 opening_hours: ""
-website: "https://www.portlandplasticpipe.com/"
+website: https://www.portlandplasticpipe.com/

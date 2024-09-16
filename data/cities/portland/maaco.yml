@@ -1,11 +1,11 @@
 id: 395442109
-type: way
+type: node
 latitude: 43.68725
 longitude: -70.29111
 postcode: "04103"
 city: Portland
-street: "Morrill Street"
-housenumber: 24
-phone: "+1-207-808-1110"
+street: Morrill Street
+housenumber: "24"
+phone: +1-207-808-1110
 opening_hours: ""
-website: "http://www.maaco-portland-morrill.com/"
+website: http://www.maaco-portland-morrill.com/

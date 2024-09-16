@@ -1,11 +1,11 @@
 id: 881446192
-type: way
+type: node
 latitude: 44.83874
 longitude: -69.29077
 postcode: ""
 city: Palmyra
-street: "Main Street"
-housenumber: 1604
+street: Main Street
+housenumber: "1604"
 phone: ""
 opening_hours: ""
 website: ""

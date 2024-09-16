@@ -1,11 +1,11 @@
 id: 779854797
-type: way
+type: node
 latitude: 44.12749
 longitude: -68.87282
 postcode: "04853"
 city: North Haven
-street: "Main Street"
-housenumber: 18
+street: Main Street
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

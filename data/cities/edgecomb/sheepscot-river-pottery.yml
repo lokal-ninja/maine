@@ -1,11 +1,11 @@
 id: 1188332316
-type: way
+type: node
 latitude: 44.00005
 longitude: -69.64914
 postcode: "04556"
 city: Edgecomb
-street: "Route 1"
-housenumber: 34
+street: Route 1
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

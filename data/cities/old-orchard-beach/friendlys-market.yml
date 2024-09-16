@@ -1,11 +1,11 @@
 id: 545126017
-type: way
+type: node
 latitude: 43.51297
 longitude: -70.38373
 postcode: "04064"
 city: Old Orchard Beach
-street: "Washington Avenue"
-housenumber: 31
+street: Washington Avenue
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

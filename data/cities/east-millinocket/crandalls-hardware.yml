@@ -1,11 +1,11 @@
 id: 518586595
-type: way
+type: node
 latitude: 45.62287
 longitude: -68.56759
 postcode: "04430"
 city: East Millinocket
-street: "Main Street"
-housenumber: 8
+street: Main Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

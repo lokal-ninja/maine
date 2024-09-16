@@ -1,11 +1,11 @@
 id: 314279083
-type: way
+type: node
 latitude: 43.90931
 longitude: -69.8299
 postcode: "04530"
 city: Bath
-street: "Chandler Drive"
-housenumber: 1
+street: Chandler Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://local.shaws.com/me/bath/1-chandler-dr.html"
+website: https://local.shaws.com/me/bath/1-chandler-dr.html

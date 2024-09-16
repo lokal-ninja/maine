@@ -1,11 +1,11 @@
 id: 974494892
-type: way
+type: node
 latitude: 43.88631
 longitude: -70.46575
 postcode: "04071"
 city: Raymond
-street: "County Road"
-housenumber: 2
+street: County Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

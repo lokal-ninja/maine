@@ -1,11 +1,11 @@
 id: 813629533
-type: way
+type: node
 latitude: 44.3886
 longitude: -68.21214
 postcode: "04609"
 city: Bar Harbor
-street: "Cottage Street"
-housenumber: 106
-phone: "+1-207-288-8118"
-opening_hours: "Jun Mo-Su 08:00-17:00; Sep-Oct Mo-Su 08:00-17:00; Jul-Aug Mo-Su 08:00-18:00"
-website: "https://www.acadiaoutfitters.com/"
+street: Cottage Street
+housenumber: "106"
+phone: +1-207-288-8118
+opening_hours: Jun Mo-Su 08:00-17:00; Sep-Oct Mo-Su 08:00-17:00; Jul-Aug Mo-Su 08:00-18:00
+website: https://www.acadiaoutfitters.com/

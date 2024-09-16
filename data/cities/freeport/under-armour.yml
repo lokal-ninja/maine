@@ -1,11 +1,11 @@
 id: 142995146
-type: way
+type: node
 latitude: 43.85664
 longitude: -70.10369
 postcode: "04032"
 city: Freeport
-street: "Main Street"
-housenumber: 66
+street: Main Street
+housenumber: "66"
 phone: ""
 opening_hours: ""
-website: "https://store-locations.underarmour.com/me/freeport/UAFH-66MSFM"
+website: https://store-locations.underarmour.com/me/freeport/UAFH-66MSFM

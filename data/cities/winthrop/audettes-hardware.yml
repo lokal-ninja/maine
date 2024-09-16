@@ -1,11 +1,11 @@
 id: 839861831
-type: way
+type: node
 latitude: 44.30835
 longitude: -69.95908
 postcode: "04364"
 city: Winthrop
-street: "Peck Farm Road"
-housenumber: 22
-phone: "+1 207-377-2711"
-opening_hours: "Mo-Sa 08:00-17:30; Su 09:00-14:00"
+street: Peck Farm Road
+housenumber: "22"
+phone: +1 207-377-2711
+opening_hours: Mo-Sa 08:00-17:30; Su 09:00-14:00
 website: ""

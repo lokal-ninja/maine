@@ -1,11 +1,11 @@
 id: 963252650
-type: way
+type: node
 latitude: 46.69983
 longitude: -68.00655
 postcode: "04769"
 city: Presque Isle
-street: "Main Street"
-housenumber: 830
+street: Main Street
+housenumber: "830"
 phone: ""
 opening_hours: ""
 website: ""

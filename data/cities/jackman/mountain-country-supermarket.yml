@@ -1,11 +1,11 @@
 id: 377236765
-type: way
+type: node
 latitude: 45.63212
 longitude: -70.26268
 postcode: "04945"
 city: Jackman
-street: "US 201"
-housenumber: 544
+street: US 201
+housenumber: "544"
 phone: ""
 opening_hours: ""
 website: ""

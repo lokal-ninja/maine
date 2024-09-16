@@ -1,11 +1,11 @@
 id: 1020935733
-type: way
+type: node
 latitude: 45.96731
 longitude: -68.52498
 postcode: "04765"
 city: Patten
-street: "Happy Corner Road"
-housenumber: 748
+street: Happy Corner Road
+housenumber: "748"
 phone: ""
 opening_hours: ""
 website: ""

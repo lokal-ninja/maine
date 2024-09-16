@@ -1,11 +1,11 @@
 id: 823896837
-type: way
+type: node
 latitude: 43.79726
 longitude: -70.30698
 postcode: "04021"
 city: Cumberland Center
-street: "Gray Road"
-housenumber: 44
+street: Gray Road
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

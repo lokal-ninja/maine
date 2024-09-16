@@ -1,11 +1,11 @@
 id: 369595517
-type: way
+type: node
 latitude: 43.6613
 longitude: -70.2524
 postcode: "04101"
 city: Portland
-street: "Congress Street"
-housenumber: 290
+street: Congress Street
+housenumber: "290"
 phone: ""
 opening_hours: ""
 website: ""

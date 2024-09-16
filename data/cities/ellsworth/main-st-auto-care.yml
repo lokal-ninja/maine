@@ -1,11 +1,11 @@
 id: 238411798
-type: way
+type: node
 latitude: 44.54157
 longitude: -68.42315
 postcode: "04605"
 city: Ellsworth
-street: "Main Street"
-housenumber: 147
-phone: "+1-207-667-6068"
+street: Main Street
+housenumber: "147"
+phone: +1-207-667-6068
 opening_hours: ""
-website: "https://www.mainstautocare.com/"
+website: https://www.mainstautocare.com/

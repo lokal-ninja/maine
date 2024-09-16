@@ -1,11 +1,11 @@
 id: 361821765
-type: way
+type: node
 latitude: 46.76831
 longitude: -67.8431
 postcode: "04742"
 city: Fort Fairfield
-street: "Presque Isle Street"
-housenumber: 95
-phone: "+1-207-476-5063"
+street: Presque Isle Street
+housenumber: "95"
+phone: +1-207-476-5063
 opening_hours: ""
-website: "https://murchcom.com/"
+website: https://murchcom.com/

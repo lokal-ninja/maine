@@ -1,11 +1,11 @@
 id: 465374097
-type: way
+type: node
 latitude: 43.68141
 longitude: -70.33358
 postcode: "04092"
 city: Westbrook
-street: "Larrabee Road"
-housenumber: 200
-phone: "+1-207-887-8330"
+street: Larrabee Road
+housenumber: "200"
+phone: +1-207-887-8330
 opening_hours: ""
-website: "https://goodwillnne.org/locations/goodwill-store-westbrook-me/"
+website: https://goodwillnne.org/locations/goodwill-store-westbrook-me/

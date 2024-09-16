@@ -1,11 +1,11 @@
 id: 100101252
-type: way
+type: node
 latitude: 44.90565
 longitude: -68.69081
 postcode: "04473"
 city: Orono
-street: "Stillwater Avenue"
-housenumber: 6
+street: Stillwater Avenue
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

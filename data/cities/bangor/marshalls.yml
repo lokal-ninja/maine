@@ -1,11 +1,11 @@
 id: 965706764
-type: way
+type: node
 latitude: 44.81932
 longitude: -68.81024
 postcode: "04401"
 city: Bangor
-street: "Union Street"
-housenumber: 1111
+street: Union Street
+housenumber: "1111"
 phone: ""
 opening_hours: ""
 website: ""

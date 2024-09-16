@@ -1,11 +1,11 @@
 id: 768965352
-type: way
+type: node
 latitude: 43.4429
 longitude: -70.77472
 postcode: "04073"
 city: Sanford
-street: "River Street"
-housenumber: 26
-phone: "+1-207-464-5474"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://www.shopatcentral.com/"
+street: River Street
+housenumber: "26"
+phone: +1-207-464-5474
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://www.shopatcentral.com/

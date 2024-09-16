@@ -1,11 +1,11 @@
 id: 379996407
-type: way
+type: node
 latitude: 44.80762
 longitude: -69.79815
 postcode: "04950"
 city: Madison
-street: "White School House Road"
-housenumber: 351
-phone: "+1-207-696-5418"
+street: White School House Road
+housenumber: "351"
+phone: +1-207-696-5418
 opening_hours: ""
-website: "https://www.countryknittingofmaine.com/"
+website: https://www.countryknittingofmaine.com/

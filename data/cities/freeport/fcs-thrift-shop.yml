@@ -4,8 +4,8 @@ latitude: 43.85432
 longitude: -70.10442
 postcode: "04032"
 city: Freeport
-street: "Depot Street"
-housenumber: 53
-phone: "+1-207-837-5178"
-opening_hours: "Mo 11:00-15:00; Tu-Fr 12:00-17:00; Sa 10:00-15:00"
-website: "https://fcsmaine.org/thrift-shop/"
+street: Depot Street
+housenumber: "53"
+phone: +1-207-837-5178
+opening_hours: Mo 11:00-15:00; Tu-Fr 12:00-17:00; Sa 10:00-15:00
+website: https://fcsmaine.org/thrift-shop/

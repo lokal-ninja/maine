@@ -1,11 +1,11 @@
 id: 546171874
-type: way
+type: node
 latitude: 45.14019
 longitude: -70.43865
 postcode: "04982"
 city: Stratton
-street: "Main Street"
-housenumber: 104
+street: Main Street
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

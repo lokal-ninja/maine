@@ -1,11 +1,11 @@
 id: 514624745
-type: way
+type: node
 latitude: 44.10401
 longitude: -70.19412
 postcode: "04240"
 city: Lewiston
-street: "Russell Street"
-housenumber: 181
+street: Russell Street
+housenumber: "181"
 phone: ""
 opening_hours: ""
 website: ""

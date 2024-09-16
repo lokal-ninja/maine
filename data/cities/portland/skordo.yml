@@ -4,8 +4,8 @@ latitude: 43.65652
 longitude: -70.25285
 postcode: "04101"
 city: Portland
-street: "Fore Street"
-housenumber: 372
+street: Fore Street
+housenumber: "372"
 phone: ""
 opening_hours: ""
-website: "https://skordo.com/"
+website: https://skordo.com/

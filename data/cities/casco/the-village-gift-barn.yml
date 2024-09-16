@@ -1,11 +1,11 @@
 id: 231616653
-type: way
+type: node
 latitude: 44.00544
 longitude: -70.52235
 postcode: "04015"
 city: Casco
-street: "Meadow Road"
-housenumber: 955
+street: Meadow Road
+housenumber: "955"
 phone: ""
 opening_hours: ""
 website: ""

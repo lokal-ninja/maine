@@ -1,11 +1,11 @@
 id: 1054412773
-type: way
+type: node
 latitude: 43.12614
 longitude: -70.76577
 postcode: "03903"
 city: Eliot
-street: "Harold L Dow Highway"
-housenumber: 100
+street: Harold L Dow Highway
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

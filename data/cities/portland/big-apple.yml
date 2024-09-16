@@ -1,11 +1,11 @@
 id: 378773955
-type: way
+type: node
 latitude: 43.65743
 longitude: -70.26634
 postcode: "04101"
 city: Portland
-street: "Park Avenue"
-housenumber: 2
-phone: "+1-207-773-7909"
+street: Park Avenue
+housenumber: "2"
+phone: +1-207-773-7909
 opening_hours: ""
 website: ""

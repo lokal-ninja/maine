@@ -1,11 +1,11 @@
 id: 1011076369
-type: way
+type: node
 latitude: 43.68878
 longitude: -70.79575
 postcode: "04048"
 city: Limerick
-street: "Main Street"
-housenumber: 5
+street: Main Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

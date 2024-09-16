@@ -4,8 +4,8 @@ latitude: 44.56926
 longitude: -69.64151
 postcode: "04901"
 city: Waterville
-street: "Elm Plaza"
-housenumber: 180
-phone: "+1-207-861-5941"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-17:00"
-website: "https://www.rentacenter.com/"
+street: Elm Plaza
+housenumber: "180"
+phone: +1-207-861-5941
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-17:00
+website: https://www.rentacenter.com/

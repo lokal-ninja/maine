@@ -1,11 +1,11 @@
 id: 412430358
-type: way
+type: node
 latitude: 44.31461
 longitude: -69.80567
 postcode: "04330"
 city: Augusta
-street: "Senator way"
-housenumber: 5
-phone: "+1-207-623-1774"
+street: Senator way
+housenumber: "5"
+phone: +1-207-623-1774
 opening_hours: ""
-website: "https://goodwillnne.org/"
+website: https://goodwillnne.org/

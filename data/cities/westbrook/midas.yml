@@ -1,11 +1,11 @@
 id: 650241171
-type: way
+type: node
 latitude: 43.67754
 longitude: -70.33376
 postcode: "04092"
 city: Westbrook
-street: "Larrabee Road"
-housenumber: 95
+street: Larrabee Road
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

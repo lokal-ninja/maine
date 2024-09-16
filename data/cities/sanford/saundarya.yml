@@ -4,8 +4,8 @@ latitude: 43.44085
 longitude: -70.77357
 postcode: "04073"
 city: Sanford
-street: "Washington Street"
-housenumber: 61
-phone: "+1-207-324-4200"
+street: Washington Street
+housenumber: "61"
+phone: +1-207-324-4200
 opening_hours: ""
-website: "https://www.saundaryasalon.com/"
+website: https://www.saundaryasalon.com/

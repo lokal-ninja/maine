@@ -1,11 +1,11 @@
 id: 405563092
-type: way
+type: node
 latitude: 43.64362
 longitude: -70.32807
 postcode: "04106"
 city: South Portland
-street: "Western Avenue"
-housenumber: 425
+street: Western Avenue
+housenumber: "425"
 phone: ""
 opening_hours: ""
 website: ""

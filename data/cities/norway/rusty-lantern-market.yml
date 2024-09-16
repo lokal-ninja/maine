@@ -1,11 +1,11 @@
 id: 479416964
-type: way
+type: node
 latitude: 44.21239
 longitude: -70.52928
 postcode: "04268"
 city: Norway
-street: "Paris Street"
-housenumber: 59
+street: Paris Street
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Su 05:00-22:00"
+opening_hours: Mo-Su 05:00-22:00
 website: ""

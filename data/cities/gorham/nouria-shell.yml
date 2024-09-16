@@ -1,11 +1,11 @@
 id: 1115509548
-type: way
+type: node
 latitude: 43.72829
 longitude: -70.42557
 postcode: "04038"
 city: Gorham
-street: "Gray Road"
-housenumber: 688
+street: Gray Road
+housenumber: "688"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1001061283
-type: way
+type: node
 latitude: 43.61566
 longitude: -70.52406
 postcode: "04093"
 city: Buxton
-street: "Hannaford Drive"
-housenumber: 21
-phone: "+1 207-929-3100"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://stores.hannaford.com/me/buxton/8226"
+street: Hannaford Drive
+housenumber: "21"
+phone: +1 207-929-3100
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://stores.hannaford.com/me/buxton/8226

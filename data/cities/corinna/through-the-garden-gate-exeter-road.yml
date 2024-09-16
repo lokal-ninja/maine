@@ -1,11 +1,11 @@
 id: 881429969
-type: way
+type: node
 latitude: 44.94033
 longitude: -69.22627
 postcode: "04928"
 city: Corinna
-street: "Exeter Road"
-housenumber: 437
-phone: "+1-207-341-0191"
+street: Exeter Road
+housenumber: "437"
+phone: +1-207-341-0191
 opening_hours: ""
-website: "https://www.throughthegardengates.com/"
+website: https://www.throughthegardengates.com/

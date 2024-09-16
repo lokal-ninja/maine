@@ -1,11 +1,11 @@
 id: 544821537
-type: way
+type: node
 latitude: 44.51917
 longitude: -68.39653
 postcode: "04605"
 city: Ellsworth
-street: "High Street"
-housenumber: 425
-phone: "+1-207-412-0363"
+street: High Street
+housenumber: "425"
+phone: +1-207-412-0363
 opening_hours: ""
 website: ""

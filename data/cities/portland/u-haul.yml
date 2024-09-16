@@ -1,11 +1,11 @@
 id: 221648877
-type: way
+type: node
 latitude: 43.67152
 longitude: -70.25747
 postcode: "04101"
 city: Portland
-street: "Marginal Way"
-housenumber: 425
+street: Marginal Way
+housenumber: "425"
 phone: ""
 opening_hours: ""
 website: ""

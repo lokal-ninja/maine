@@ -1,11 +1,11 @@
 id: 1306367074
-type: way
+type: node
 latitude: 44.64391
 longitude: -68.83938
 postcode: "04496"
 city: Winterport
-street: "North Main Street"
-housenumber: 779
+street: North Main Street
+housenumber: "779"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/me/winterport/17826"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/me/winterport/17826

@@ -1,11 +1,11 @@
 id: 758787712
-type: way
+type: node
 latitude: 43.67535
 longitude: -70.33688
 postcode: "04092"
 city: Westbrook
-street: "Terminal Street"
-housenumber: 10
+street: Terminal Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

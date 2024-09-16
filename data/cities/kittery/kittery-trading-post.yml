@@ -1,11 +1,11 @@
 id: 92932097
-type: way
+type: node
 latitude: 43.11171
 longitude: -70.73528
 postcode: "03904"
 city: Kittery
-street: "Route 1"
-housenumber: 301
+street: Route 1
+housenumber: "301"
 phone: ""
 opening_hours: ""
-website: "https://www.kitterytradingpost.com/"
+website: https://www.kitterytradingpost.com/

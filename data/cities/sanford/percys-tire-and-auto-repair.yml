@@ -1,11 +1,11 @@
 id: 768661480
-type: way
+type: node
 latitude: 43.44672
 longitude: -70.77181
 postcode: "04073"
 city: Sanford
-street: "Cottage Street"
-housenumber: 102
-phone: "+1-207-490-6700"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-14:00"
-website: "https://percystireandautorepair.com/"
+street: Cottage Street
+housenumber: "102"
+phone: +1-207-490-6700
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-14:00
+website: https://percystireandautorepair.com/

@@ -4,8 +4,8 @@ latitude: 45.45781
 longitude: -68.42316
 postcode: "04457"
 city: Chester
-street: "North Chester Road"
-housenumber: 460
-phone: "+1-207-794-3547"
+street: North Chester Road
+housenumber: "460"
+phone: +1-207-794-3547
 opening_hours: ""
-website: "https://www.northchesterorchard.com/"
+website: https://www.northchesterorchard.com/

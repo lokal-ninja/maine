@@ -4,8 +4,8 @@ latitude: 44.42644
 longitude: -69.00674
 postcode: "04915"
 city: Belfast
-street: "Main Street"
-housenumber: 79
-phone: "+1-207-338-1934"
-opening_hours: "Mo-Sa 09:00-17:00; Su 10:00-15:00"
-website: "https://colburnshoe.com/"
+street: Main Street
+housenumber: "79"
+phone: +1-207-338-1934
+opening_hours: Mo-Sa 09:00-17:00; Su 10:00-15:00
+website: https://colburnshoe.com/

@@ -4,8 +4,8 @@ latitude: 44.37158
 longitude: -68.33135
 postcode: "04660"
 city: Mount Desert
-street: "Main Street"
-housenumber: 1043
-phone: "+1-207-460-9162"
-opening_hours: "Mo-Fr 10:00-16:00; Tu off; Sa 10:00-12:00"
-website: "https://www.floretmaine.com/"
+street: Main Street
+housenumber: "1043"
+phone: +1-207-460-9162
+opening_hours: Mo-Fr 10:00-16:00; Tu off; Sa 10:00-12:00
+website: https://www.floretmaine.com/

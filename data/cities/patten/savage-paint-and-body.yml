@@ -1,11 +1,11 @@
 id: 875730395
-type: way
+type: node
 latitude: 45.97208
 longitude: -68.45039
 postcode: "04765"
 city: Patten
-street: "South Patten Road"
-housenumber: 338
+street: South Patten Road
+housenumber: "338"
 phone: ""
 opening_hours: ""
 website: ""

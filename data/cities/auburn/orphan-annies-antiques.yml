@@ -1,11 +1,11 @@
 id: 652512061
-type: way
+type: node
 latitude: 44.09745
 longitude: -70.22673
 postcode: "04210"
 city: Auburn
-street: "Court Street"
-housenumber: 96
+street: Court Street
+housenumber: "96"
 phone: ""
 opening_hours: ""
 website: ""

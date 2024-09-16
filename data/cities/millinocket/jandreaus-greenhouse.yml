@@ -1,11 +1,11 @@
 id: 498659671
-type: way
+type: node
 latitude: 45.67405
 longitude: -68.70419
 postcode: "04462"
 city: Millinocket
-street: "Iron Bridge Road"
-housenumber: 200
+street: Iron Bridge Road
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

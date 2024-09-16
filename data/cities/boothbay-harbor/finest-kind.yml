@@ -1,11 +1,11 @@
 id: 1105337848
-type: way
+type: node
 latitude: 43.85126
 longitude: -69.62764
 postcode: "04538"
 city: Boothbay Harbor
-street: "Wharf Street"
-housenumber: 12
+street: Wharf Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

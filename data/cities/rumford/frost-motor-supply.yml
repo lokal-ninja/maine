@@ -1,11 +1,11 @@
 id: 385504468
-type: way
+type: node
 latitude: 44.54191
 longitude: -70.54921
 postcode: "04276"
 city: Rumford
-street: "Prospect Avenue"
-housenumber: 202
-phone: "+1-207-364-4563"
+street: Prospect Avenue
+housenumber: "202"
+phone: +1-207-364-4563
 opening_hours: ""
 website: ""

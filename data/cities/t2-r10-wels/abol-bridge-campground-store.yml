@@ -1,11 +1,11 @@
 id: 912410720
-type: way
+type: node
 latitude: 45.83546
 longitude: -68.96541
 postcode: ""
 city: T2 R10 Wels
-street: "Golden Road"
-housenumber: 3969
+street: Golden Road
+housenumber: "3969"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1152550505
-type: way
+type: node
 latitude: 43.82302
 longitude: -69.67586
 postcode: "04576"
 city: Southport
-street: "Hendricks Hill Road"
-housenumber: 434
+street: Hendricks Hill Road
+housenumber: "434"
 phone: ""
 opening_hours: ""
 website: ""

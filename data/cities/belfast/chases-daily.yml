@@ -4,8 +4,8 @@ latitude: 44.42583
 longitude: -69.00683
 postcode: "04915"
 city: Belfast
-street: "Main Street"
-housenumber: 96
-phone: "+1-207-338-0555"
-opening_hours: "Mo 09:00-17:00; Tu-Sa 07:00-17:00; Su 08:00-14:00"
-website: "https://chasesdaily.me/"
+street: Main Street
+housenumber: "96"
+phone: +1-207-338-0555
+opening_hours: Mo 09:00-17:00; Tu-Sa 07:00-17:00; Su 08:00-14:00
+website: https://chasesdaily.me/

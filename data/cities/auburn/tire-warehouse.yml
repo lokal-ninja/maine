@@ -1,11 +1,11 @@
 id: 681661110
-type: way
+type: node
 latitude: 44.08286
 longitude: -70.25468
 postcode: "04210"
 city: Auburn
-street: "Stevens Mill Road"
-housenumber: 19
+street: Stevens Mill Road
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

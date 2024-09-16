@@ -1,11 +1,11 @@
 id: 375853077
-type: way
+type: node
 latitude: 44.84041
 longitude: -68.74404
 postcode: "04401"
 city: Bangor
-street: "Hogan Road"
-housenumber: 765
+street: Hogan Road
+housenumber: "765"
 phone: ""
 opening_hours: ""
 website: ""

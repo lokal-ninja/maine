@@ -1,11 +1,11 @@
 id: 1311068380
-type: way
+type: node
 latitude: 43.63259
 longitude: -70.26226
 postcode: "04106"
 city: South Portland
-street: "Broadway"
-housenumber: 766
+street: Broadway
+housenumber: "766"
 phone: "+12078381177"
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

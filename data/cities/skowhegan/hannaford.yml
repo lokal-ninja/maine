@@ -1,11 +1,11 @@
 id: 242753066
-type: way
+type: node
 latitude: 44.78099
 longitude: -69.72852
 postcode: "04976"
 city: Skowhegan
-street: "Madison Avenue"
-housenumber: 496
-phone: "+1 207-858-4800"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://stores.hannaford.com/me/skowhegan/8330"
+street: Madison Avenue
+housenumber: "496"
+phone: +1 207-858-4800
+opening_hours: Mo-Su 07:00-21:00
+website: https://stores.hannaford.com/me/skowhegan/8330

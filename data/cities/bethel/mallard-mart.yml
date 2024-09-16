@@ -1,11 +1,11 @@
 id: 209683640
-type: way
+type: node
 latitude: 44.4129
 longitude: -70.79511
 postcode: "04217"
 city: Bethel
-street: "Mayville Road"
-housenumber: 33
+street: Mayville Road
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

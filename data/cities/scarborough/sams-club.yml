@@ -1,11 +1,11 @@
 id: 156569898
-type: way
+type: node
 latitude: 43.62243
 longitude: -70.35287
 postcode: "04074"
 city: Scarborough
-street: "Payne Road"
-housenumber: 440
-phone: "+1 207-883-5553"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/scarborough-me-sams-club/8186"
+street: Payne Road
+housenumber: "440"
+phone: +1 207-883-5553
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/scarborough-me-sams-club/8186

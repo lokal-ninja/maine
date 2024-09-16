@@ -1,11 +1,11 @@
 id: 403741066
-type: way
+type: node
 latitude: 44.55091
 longitude: -70.54826
 postcode: "04276"
 city: Rumford
-street: "Waldo Street"
-housenumber: 232
-phone: "+1-207-369-5500"
+street: Waldo Street
+housenumber: "232"
+phone: +1-207-369-5500
 opening_hours: ""
 website: ""

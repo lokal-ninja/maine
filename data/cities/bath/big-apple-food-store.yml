@@ -1,11 +1,11 @@
 id: 439575845
-type: way
+type: node
 latitude: 43.90813
 longitude: -69.82585
 postcode: "04530"
 city: Bath
-street: "Leeman Highway"
-housenumber: 150
+street: Leeman Highway
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

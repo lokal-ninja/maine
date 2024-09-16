@@ -1,11 +1,11 @@
 id: 638418513
-type: way
+type: node
 latitude: 44.09426
 longitude: -69.11045
 postcode: "04841"
 city: Rockland
-street: "Main Street"
-housenumber: 67
+street: Main Street
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

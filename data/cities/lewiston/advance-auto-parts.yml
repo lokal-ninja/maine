@@ -1,11 +1,11 @@
 id: 706737189
-type: way
+type: node
 latitude: 44.0842
 longitude: -70.20528
 postcode: "04240"
 city: Lewiston
-street: "Lisbon Street"
-housenumber: 855
+street: Lisbon Street
+housenumber: "855"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/me/lewiston/855-lisbon-st"
+website: https://stores.advanceautoparts.com/me/lewiston/855-lisbon-st

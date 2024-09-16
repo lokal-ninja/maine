@@ -1,11 +1,11 @@
 id: 702542568
-type: way
+type: node
 latitude: 43.84249
 longitude: -70.11955
 postcode: "04032"
 city: Freeport
-street: "Us Route One"
-housenumber: 574
+street: Us Route One
+housenumber: "574"
 phone: ""
 opening_hours: ""
 website: ""

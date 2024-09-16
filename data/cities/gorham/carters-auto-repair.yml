@@ -1,11 +1,11 @@
 id: 394959237
-type: way
+type: node
 latitude: 43.67927
 longitude: -70.43944
 postcode: "04038"
 city: Gorham
-street: "Railroad Avenue"
-housenumber: 2
+street: Railroad Avenue
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

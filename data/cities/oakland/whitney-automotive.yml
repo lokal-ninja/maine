@@ -4,8 +4,8 @@ latitude: 44.55147
 longitude: -69.72499
 postcode: "04963"
 city: Oakland
-street: "High Street"
-housenumber: 59
+street: High Street
+housenumber: "59"
 phone: "+12077161240"
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

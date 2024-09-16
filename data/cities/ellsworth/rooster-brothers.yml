@@ -1,11 +1,11 @@
 id: 215685033
-type: way
+type: node
 latitude: 44.54057
 longitude: -68.42651
 postcode: "04605"
 city: Ellsworth
-street: "Main Street"
-housenumber: 29
+street: Main Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

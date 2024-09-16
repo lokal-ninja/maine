@@ -1,11 +1,11 @@
 id: 1221397251
-type: way
+type: node
 latitude: 43.91599
 longitude: -69.96512
 postcode: "04011"
 city: Brunswick
-street: "Maine Street"
-housenumber: 105
+street: Maine Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

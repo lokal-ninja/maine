@@ -1,11 +1,11 @@
 id: 450070036
-type: way
+type: node
 latitude: 45.28676
 longitude: -69.5012
 postcode: "04464"
 city: Monson
-street: "Greenville Road"
-housenumber: 12
+street: Greenville Road
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

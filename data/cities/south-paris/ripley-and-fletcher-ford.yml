@@ -1,11 +1,11 @@
 id: 1203184913
-type: way
+type: node
 latitude: 44.21989
 longitude: -70.51619
 postcode: "04281"
 city: South Paris
-street: "Main Street"
-housenumber: 80
-phone: "+1-207-743-8938"
+street: Main Street
+housenumber: "80"
+phone: +1-207-743-8938
 opening_hours: ""
-website: "https://www.ripleyandfletcherford.com"
+website: https://www.ripleyandfletcherford.com

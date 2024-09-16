@@ -1,11 +1,11 @@
 id: 370501615
-type: way
+type: node
 latitude: 43.85755
 longitude: -70.2172
 postcode: "04097"
 city: North Yarmouth
-street: "North Road"
-housenumber: 1280
-phone: "+1-207-829-6342"
+street: North Road
+housenumber: "1280"
+phone: +1-207-829-6342
 opening_hours: ""
 website: ""

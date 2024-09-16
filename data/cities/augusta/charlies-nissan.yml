@@ -1,11 +1,11 @@
 id: 411697779
-type: way
+type: node
 latitude: 44.32139
 longitude: -69.82209
 postcode: "04330"
 city: Augusta
-street: "Western Avenue"
-housenumber: 465
+street: Western Avenue
+housenumber: "465"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 30141146
-type: way
+type: node
 latitude: 43.67451
 longitude: -70.295
 postcode: "04103"
 city: Portland
-street: "Stevens Avenue"
-housenumber: 469
+street: Stevens Avenue
+housenumber: "469"
 phone: ""
 opening_hours: ""
-website: "https://norimoto-bakery.square.site/"
+website: https://norimoto-bakery.square.site/

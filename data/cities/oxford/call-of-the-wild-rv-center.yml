@@ -1,11 +1,11 @@
 id: 1227428377
-type: way
+type: node
 latitude: 44.15265
 longitude: -70.48735
 postcode: "04270"
 city: Oxford
-street: "Main Street"
-housenumber: 848
-phone: "+1-207-539-4410"
+street: Main Street
+housenumber: "848"
+phone: +1-207-539-4410
 opening_hours: ""
 website: ""

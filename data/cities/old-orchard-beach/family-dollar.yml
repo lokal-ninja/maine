@@ -1,11 +1,11 @@
 id: 545126022
-type: way
+type: node
 latitude: 43.51477
 longitude: -70.37895
 postcode: "04064"
 city: Old Orchard Beach
-street: "Heath Street"
-housenumber: 8
+street: Heath Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

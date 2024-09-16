@@ -1,11 +1,11 @@
 id: 399556974
-type: way
+type: node
 latitude: 43.63505
 longitude: -70.34514
 postcode: "04106"
 city: South Portland
-street: "Running Hill Road"
-housenumber: 200
+street: Running Hill Road
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

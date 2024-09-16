@@ -1,11 +1,11 @@
 id: 399556308
-type: way
+type: node
 latitude: 43.63263
 longitude: -70.31241
 postcode: "04106"
 city: South Portland
-street: "Westbrook Street"
-housenumber: 425
-phone: "+1-207-775-6111"
+street: Westbrook Street
+housenumber: "425"
+phone: +1-207-775-6111
 opening_hours: ""
-website: "https://www.papechevrolet.com/"
+website: https://www.papechevrolet.com/

@@ -1,11 +1,11 @@
 id: 266469964
-type: way
+type: node
 latitude: 43.8567
 longitude: -70.10115
 postcode: "04032"
 city: Freeport
-street: "Bow Street"
-housenumber: 27
-phone: "+1-207-865-7078"
-opening_hours: "Tu-Sa 11:00-17:00"
+street: Bow Street
+housenumber: "27"
+phone: +1-207-865-7078
+opening_hours: Tu-Sa 11:00-17:00
 website: ""

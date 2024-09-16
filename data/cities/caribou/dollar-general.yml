@@ -1,11 +1,11 @@
 id: 306160147
-type: way
+type: node
 latitude: 46.85984
 longitude: -68.01621
 postcode: "04736"
 city: Caribou
-street: "Sweden Street"
-housenumber: 88
+street: Sweden Street
+housenumber: "88"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/me/caribou/19140"
+website: https://www.dollargeneral.com/store-directory/me/caribou/19140

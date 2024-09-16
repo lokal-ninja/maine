@@ -1,11 +1,11 @@
 id: 314272493
-type: way
+type: node
 latitude: 44.83587
 longitude: -68.79079
 postcode: "04401"
 city: Bangor
-street: "Broadway"
-housenumber: 1109
+street: Broadway
+housenumber: "1109"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 425878743
-type: way
+type: node
 latitude: 44.00698
 longitude: -70.52289
 postcode: "04015"
 city: Casco
-street: "Meadow Road"
-housenumber: 978
-phone: "+1-207-627-4336"
+street: Meadow Road
+housenumber: "978"
+phone: +1-207-627-4336
 opening_hours: ""
 website: ""

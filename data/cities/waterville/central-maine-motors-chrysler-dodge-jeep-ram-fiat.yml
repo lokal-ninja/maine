@@ -1,11 +1,11 @@
 id: 39762916
-type: way
+type: node
 latitude: 44.54377
 longitude: -69.66967
 postcode: "04901"
 city: Waterville
-street: "Kennedy Memorial Drive"
-housenumber: 300
+street: Kennedy Memorial Drive
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

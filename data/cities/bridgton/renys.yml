@@ -1,11 +1,11 @@
 id: 621795462
-type: way
+type: node
 latitude: 44.0541
 longitude: -70.70692
 postcode: "04009"
 city: Bridgton
-street: "Main Street"
-housenumber: 151
+street: Main Street
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 373980903
-type: way
+type: node
 latitude: 44.32181
 longitude: -69.84535
 postcode: "04351"
 city: Manchester
-street: "Western Avenue"
-housenumber: 746
-phone: "+1-207-622-0672"
+street: Western Avenue
+housenumber: "746"
+phone: +1-207-622-0672
 opening_hours: ""
 website: ""

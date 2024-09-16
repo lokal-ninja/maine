@@ -1,11 +1,11 @@
 id: 369948336
-type: way
+type: node
 latitude: 43.58346
 longitude: -70.36391
 postcode: "04074"
 city: Scarborough
-street: "Route 1"
-housenumber: 419
-phone: "+1-207-883-4897"
+street: Route 1
+housenumber: "419"
+phone: +1-207-883-4897
 opening_hours: ""
-website: "https://www.lenlibby.com/"
+website: https://www.lenlibby.com/

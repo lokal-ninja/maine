@@ -1,11 +1,11 @@
 id: 1203761186
-type: way
+type: node
 latitude: 43.95803
 longitude: -69.63214
 postcode: "04556"
 city: Edgecomb
-street: "Mill Road"
-housenumber: 17
+street: Mill Road
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

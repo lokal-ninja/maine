@@ -4,8 +4,8 @@ latitude: 43.65802
 longitude: -70.29709
 postcode: "04102"
 city: Portland
-street: "Congress Street"
-housenumber: 1364
-phone: "+1-207-774-6611"
+street: Congress Street
+housenumber: "1364"
+phone: +1-207-774-6611
 opening_hours: ""
-website: "https://prattabbott.com/locations/"
+website: https://prattabbott.com/locations/

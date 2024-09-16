@@ -1,11 +1,11 @@
 id: 783488856
-type: way
+type: node
 latitude: 43.30228
 longitude: -70.58323
 postcode: "04090"
 city: Wells
-street: "Wells Plaza"
-housenumber: 107
-phone: "+1 207-646-4111"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://stores.hannaford.com/me/wells/8389"
+street: Wells Plaza
+housenumber: "107"
+phone: +1 207-646-4111
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://stores.hannaford.com/me/wells/8389

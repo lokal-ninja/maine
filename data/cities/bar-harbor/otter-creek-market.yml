@@ -1,11 +1,11 @@
 id: 424759956
-type: way
+type: node
 latitude: 44.31772
 longitude: -68.20803
 postcode: "04609"
 city: Bar Harbor
-street: "Otter Creek Drive"
-housenumber: 47
+street: Otter Creek Drive
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

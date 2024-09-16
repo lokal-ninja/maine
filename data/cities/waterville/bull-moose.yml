@@ -4,8 +4,8 @@ latitude: 44.56764
 longitude: -69.64039
 postcode: "04901"
 city: Waterville
-street: "Elm Plaza"
-housenumber: 80
-phone: "+1-207-861-5884"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "http://bullmoose.com/"
+street: Elm Plaza
+housenumber: "80"
+phone: +1-207-861-5884
+opening_hours: Mo-Su 10:00-21:00
+website: http://bullmoose.com/

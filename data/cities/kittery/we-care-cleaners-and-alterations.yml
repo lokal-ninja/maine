@@ -1,11 +1,11 @@
 id: 983427731
-type: way
+type: node
 latitude: 43.08699
 longitude: -70.74336
 postcode: "03904"
 city: Kittery
-street: "Dame Street"
-housenumber: 17
+street: Dame Street
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

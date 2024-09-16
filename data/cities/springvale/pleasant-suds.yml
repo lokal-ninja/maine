@@ -1,11 +1,11 @@
 id: 725279440
-type: way
+type: node
 latitude: 43.46463
 longitude: -70.79045
 postcode: "04083"
 city: Springvale
-street: "Pleasant Street"
-housenumber: 53
+street: Pleasant Street
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

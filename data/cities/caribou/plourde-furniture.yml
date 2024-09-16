@@ -1,11 +1,11 @@
 id: 306561305
-type: way
+type: node
 latitude: 46.87119
 longitude: -68.00201
 postcode: "04736"
 city: Caribou
-street: "Bennett Drive"
-housenumber: 150
+street: Bennett Drive
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

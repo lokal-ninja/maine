@@ -1,11 +1,11 @@
 id: 403558047
-type: way
+type: node
 latitude: 44.1245
 longitude: -69.09754
 postcode: "04841"
 city: Rockland
-street: "Camden Street"
-housenumber: 235
+street: Camden Street
+housenumber: "235"
 phone: ""
 opening_hours: ""
-website: "https://local.shaws.com/me/rockland/235-camden-st.html"
+website: https://local.shaws.com/me/rockland/235-camden-st.html

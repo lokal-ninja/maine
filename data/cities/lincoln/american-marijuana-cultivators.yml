@@ -1,11 +1,11 @@
 id: 873291595
-type: way
+type: node
 latitude: 45.35637
 longitude: -68.54009
 postcode: "04457"
 city: Lincoln
-street: "River Road"
-housenumber: 90
+street: River Road
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

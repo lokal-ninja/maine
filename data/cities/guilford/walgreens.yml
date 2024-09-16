@@ -1,11 +1,11 @@
 id: 650204775
-type: way
+type: node
 latitude: 45.16683
 longitude: -69.38567
 postcode: "04443"
 city: Guilford
-street: "Hudson Avenue"
-housenumber: 3
+street: Hudson Avenue
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

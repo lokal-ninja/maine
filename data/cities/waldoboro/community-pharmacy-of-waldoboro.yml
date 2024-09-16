@@ -1,11 +1,11 @@
 id: 1285442320
-type: way
+type: node
 latitude: 44.09523
 longitude: -69.37558
 postcode: "04572"
 city: Waldoboro
-street: "Friendship Road"
-housenumber: 5
+street: Friendship Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

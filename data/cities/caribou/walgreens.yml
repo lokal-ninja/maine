@@ -1,11 +1,11 @@
 id: 306561296
-type: way
+type: node
 latitude: 46.86872
 longitude: -68.00551
 postcode: "04736"
 city: Caribou
-street: "Bennett Drive"
-housenumber: 112
+street: Bennett Drive
+housenumber: "112"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-112+bennett+dr-caribou-me-04736/id=18248"
+website: https://www.walgreens.com/locator/walgreens-112+bennett+dr-caribou-me-04736/id=18248

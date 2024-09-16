@@ -1,11 +1,11 @@
 id: 959558079
-type: way
+type: node
 latitude: 43.12043
 longitude: -70.72087
 postcode: "03904"
 city: Kittery
-street: "US Route 1"
-housenumber: 428
-phone: "+1 207 451 0844"
+street: US Route 1
+housenumber: "428"
+phone: +1 207 451 0844
 opening_hours: ""
 website: ""

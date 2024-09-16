@@ -4,8 +4,8 @@ latitude: 44.57066
 longitude: -69.64247
 postcode: "04901"
 city: Waterville
-street: "Waterville Commons Drive"
-housenumber: 6
-phone: "+1-207-873-5908"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:30-18:00; Su 09:00-17:00"
-website: "https://www.supercuts.com/locations/me/waterville/the-shops-at-waterville-haircuts-80586.html"
+street: Waterville Commons Drive
+housenumber: "6"
+phone: +1-207-873-5908
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:30-18:00; Su 09:00-17:00
+website: https://www.supercuts.com/locations/me/waterville/the-shops-at-waterville-haircuts-80586.html

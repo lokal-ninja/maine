@@ -1,11 +1,11 @@
 id: 351708689
-type: way
+type: node
 latitude: 45.65777
 longitude: -68.69175
 postcode: "04462"
 city: Millinocket
-street: "Central Street"
-housenumber: 719
+street: Central Street
+housenumber: "719"
 phone: ""
 opening_hours: ""
 website: ""

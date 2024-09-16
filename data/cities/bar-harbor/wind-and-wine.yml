@@ -1,11 +1,11 @@
 id: 814279287
-type: way
+type: node
 latitude: 44.41258
 longitude: -68.25095
 postcode: "04609"
 city: Bar Harbor
-street: "Breakneck Road"
-housenumber: 4
+street: Breakneck Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

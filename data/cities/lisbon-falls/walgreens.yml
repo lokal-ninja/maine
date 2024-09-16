@@ -1,11 +1,11 @@
 id: 270313971
-type: way
+type: node
 latitude: 44.00462
 longitude: -70.07541
 postcode: "04252"
 city: Lisbon Falls
-street: "Lisbon Street"
-housenumber: 575
-phone: "207-353-4843"
+street: Lisbon Street
+housenumber: "575"
+phone: 207-353-4843
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-575+lisbon+st-lisbon+falls-me-04252/id=19908"
+website: https://www.walgreens.com/locator/walgreens-575+lisbon+st-lisbon+falls-me-04252/id=19908

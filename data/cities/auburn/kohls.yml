@@ -1,11 +1,11 @@
 id: 695648833
-type: way
+type: node
 latitude: 44.12289
 longitude: -70.237
 postcode: "04210"
 city: Auburn
-street: "Mount Auburn Avenue"
-housenumber: 105
-phone: "+1 207-777-1434"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/me/auburn-1021.shtml"
+street: Mount Auburn Avenue
+housenumber: "105"
+phone: +1 207-777-1434
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/me/auburn-1021.shtml

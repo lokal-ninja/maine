@@ -4,8 +4,8 @@ latitude: 44.15472
 longitude: -69.28944
 postcode: "04864"
 city: Warren
-street: "Western Road"
-housenumber: 1986
-phone: "+1-207-273-3695"
-opening_hours: "seasonal"
-website: "https://www.bethsfarmmarket.com/"
+street: Western Road
+housenumber: "1986"
+phone: +1-207-273-3695
+opening_hours: '"seasonal"'
+website: https://www.bethsfarmmarket.com/

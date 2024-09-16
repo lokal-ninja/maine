@@ -1,11 +1,11 @@
 id: 397003466
-type: way
+type: node
 latitude: 44.33256
 longitude: -69.76204
 postcode: "04330"
 city: Augusta
-street: "Riverside Drive"
-housenumber: 240
-phone: "+1-207-622-3793"
+street: Riverside Drive
+housenumber: "240"
+phone: +1-207-622-3793
 opening_hours: ""
-website: "https://www.capitolcitytire.net/"
+website: https://www.capitolcitytire.net/

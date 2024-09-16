@@ -1,11 +1,11 @@
 id: 878601831
-type: way
+type: node
 latitude: 44.96757
 longitude: -69.16187
 postcode: "04435"
 city: Exeter
-street: "Exeter Road"
-housenumber: 1326
+street: Exeter Road
+housenumber: "1326"
 phone: ""
 opening_hours: ""
 website: ""

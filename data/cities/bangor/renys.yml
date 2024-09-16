@@ -1,11 +1,11 @@
 id: 1060190399
-type: way
+type: node
 latitude: 44.83773
 longitude: -68.74005
 postcode: "04401"
 city: Bangor
-street: "Springer Drive"
-housenumber: 36
+street: Springer Drive
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

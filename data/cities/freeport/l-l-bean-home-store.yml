@@ -1,11 +1,11 @@
 id: 142994610
-type: way
+type: node
 latitude: 43.85726
 longitude: -70.10439
 postcode: "04032"
 city: Freeport
-street: "Nathan Nye Street"
-housenumber: 12
+street: Nathan Nye Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

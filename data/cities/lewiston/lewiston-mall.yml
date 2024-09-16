@@ -1,11 +1,11 @@
 id: 161730235
-type: way
+type: node
 latitude: 44.08666
 longitude: -70.20507
 postcode: "04240"
 city: Lewiston
-street: "East Avenue"
-housenumber: 40
+street: East Avenue
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

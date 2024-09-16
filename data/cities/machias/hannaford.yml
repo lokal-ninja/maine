@@ -1,11 +1,11 @@
 id: 800160380
-type: way
+type: node
 latitude: 44.706
 longitude: -67.4658
 postcode: "04654"
 city: Machias
-street: "Dublin Street"
-housenumber: 149
-phone: "+1 207-255-3201"
-opening_hours: "Mo-Sa 07:00-21:00; Su 07:00-20:00"
-website: "https://stores.hannaford.com/me/machias/8128"
+street: Dublin Street
+housenumber: "149"
+phone: +1 207-255-3201
+opening_hours: Mo-Sa 07:00-21:00; Su 07:00-20:00
+website: https://stores.hannaford.com/me/machias/8128

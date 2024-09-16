@@ -1,11 +1,11 @@
 id: 1228476126
-type: way
+type: node
 latitude: 44.22275
 longitude: -70.08892
 postcode: "04263"
 city: Leeds
-street: "US 202"
-housenumber: 118
+street: US 202
+housenumber: "118"
 phone: ""
 opening_hours: ""
-website: "https://nouriaenergy.com/locations/leeds-me-us-rt-202/"
+website: https://nouriaenergy.com/locations/leeds-me-us-rt-202/

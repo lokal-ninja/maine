@@ -1,11 +1,11 @@
 id: 373594998
-type: way
+type: node
 latitude: 44.32491
 longitude: -69.86357
 postcode: "04351"
 city: Manchester
-street: "Western Avenue"
-housenumber: 943
-phone: "+1-207-622-6598"
+street: Western Avenue
+housenumber: "943"
+phone: +1-207-622-6598
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-943+western+ave-manchester-me-04351/id=17990"
+website: https://www.walgreens.com/locator/walgreens-943+western+ave-manchester-me-04351/id=17990

@@ -1,11 +1,11 @@
 id: 398077569
-type: way
+type: node
 latitude: 43.6525
 longitude: -70.26633
 postcode: "04101"
 city: Portland
-street: "State Street"
-housenumber: 172
-phone: "+1-207-773-6511"
+street: State Street
+housenumber: "172"
+phone: +1-207-773-6511
 opening_hours: ""
-website: "https://www.ctcrawford.com/"
+website: https://www.ctcrawford.com/

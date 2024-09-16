@@ -4,8 +4,8 @@ latitude: 44.56789
 longitude: -69.64058
 postcode: "04901"
 city: Waterville
-street: "Elm Plaza"
-housenumber: 11
-phone: "+1-207-877-0520"
-opening_hours: "Mo-Sa 09:00-21:00; Su 11:00-17:00"
-website: "http://sleepersofmaine.net/"
+street: Elm Plaza
+housenumber: "11"
+phone: +1-207-877-0520
+opening_hours: Mo-Sa 09:00-21:00; Su 11:00-17:00
+website: http://sleepersofmaine.net/

@@ -1,11 +1,11 @@
 id: 397003467
-type: way
+type: node
 latitude: 44.32927
 longitude: -69.76376
 postcode: "04330"
 city: Augusta
-street: "Riverside Drive"
-housenumber: 188
-phone: "+1-866-576-3042"
+street: Riverside Drive
+housenumber: "188"
+phone: +1-866-576-3042
 opening_hours: ""
-website: "https://www.oconnorvw.com/"
+website: https://www.oconnorvw.com/

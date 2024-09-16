@@ -1,11 +1,11 @@
 id: 295043901
-type: way
+type: node
 latitude: 45.87321
 longitude: -69.6272
 postcode: "04478"
 city: Rockwood
-street: "Northeast Carry Road"
-housenumber: 642
-phone: "+1-207-557-5348"
+street: Northeast Carry Road
+housenumber: "642"
+phone: +1-207-557-5348
 opening_hours: ""
 website: ""

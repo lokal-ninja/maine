@@ -1,11 +1,11 @@
 id: 710677777
-type: way
+type: node
 latitude: 43.83437
 longitude: -70.43899
 postcode: "04062"
 city: Windham
-street: "Roosevelt Trail"
-housenumber: 746
+street: Roosevelt Trail
+housenumber: "746"
 phone: ""
 opening_hours: ""
 website: ""

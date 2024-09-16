@@ -1,11 +1,11 @@
 id: 821259052
-type: way
+type: node
 latitude: 43.68651
 longitude: -70.32941
 postcode: "04103"
 city: Portland
-street: "Riverside Street"
-housenumber: 300
+street: Riverside Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

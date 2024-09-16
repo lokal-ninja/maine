@@ -1,11 +1,11 @@
 id: 730809085
-type: way
+type: node
 latitude: 44.45321
 longitude: -70.81231
 postcode: "04217"
 city: Bethel
-street: "Sunday River Road"
-housenumber: 101
-phone: "207-824-3092"
+street: Sunday River Road
+housenumber: "101"
+phone: 207-824-3092
 opening_hours: ""
-website: "https://www.skidemo.com"
+website: https://www.skidemo.com

@@ -1,11 +1,11 @@
 id: 1299512119
-type: way
+type: node
 latitude: 44.55201
 longitude: -68.43018
 postcode: "04605"
 city: Ellsworth
-street: "State Street"
-housenumber: 248
+street: State Street
+housenumber: "248"
 phone: ""
 opening_hours: ""
 website: ""

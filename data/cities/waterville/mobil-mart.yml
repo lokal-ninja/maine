@@ -1,11 +1,11 @@
 id: 349941761
-type: way
+type: node
 latitude: 44.55552
 longitude: -69.63342
 postcode: "04901"
 city: Waterville
-street: "Pleasant Street"
-housenumber: 94
+street: Pleasant Street
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

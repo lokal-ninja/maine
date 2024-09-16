@@ -1,11 +1,11 @@
 id: 394959238
-type: way
+type: node
 latitude: 43.67967
 longitude: -70.43889
 postcode: "04038"
 city: Gorham
-street: "Main Street"
-housenumber: 99
-phone: "+1 207-839-6553"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://stores.hannaford.com/me/gorham/8350"
+street: Main Street
+housenumber: "99"
+phone: +1 207-839-6553
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://stores.hannaford.com/me/gorham/8350
