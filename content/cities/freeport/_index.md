@@ -1,6 +1,6 @@
 ---
 title: Freeport
 url: /freeport/
-latitude: 43.858
-longitude: -70.103
+latitude: 43.859
+longitude: -70.102
 ---
