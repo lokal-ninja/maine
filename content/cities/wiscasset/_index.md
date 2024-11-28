@@ -1,6 +1,6 @@
 ---
 title: Wiscasset
 url: /wiscasset/
-latitude: 44.002
-longitude: -69.664
+latitude: 43.986
+longitude: -69.697
 ---
