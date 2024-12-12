@@ -1,6 +1,6 @@
 ---
 title: Dover-Foxcroft
 url: /dover-foxcroft/
-latitude: 45.189
-longitude: -69.227
+latitude: 45.185
+longitude: -69.231
 ---
