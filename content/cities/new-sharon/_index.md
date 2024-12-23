@@ -1,6 +1,6 @@
 ---
 title: New Sharon
 url: /new-sharon/
-latitude: 44.639
-longitude: -70.016
+latitude: 44.644
+longitude: -70.022
 ---
