@@ -1,6 +1,6 @@
 ---
 title: Gardiner
 url: /gardiner/
-latitude: 44.233
-longitude: -69.773
+latitude: 44.232
+longitude: -69.774
 ---
