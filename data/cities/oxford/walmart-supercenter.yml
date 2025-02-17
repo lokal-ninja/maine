@@ -6,6 +6,7 @@ postcode: "04270"
 city: Oxford
 street: Main Street
 housenumber: "1240"
-phone: +1 207-743-0882
-opening_hours: Mo-Su 06:00-24:00
+phone: +1 207-743-0882; +1-207-743-5627 "autocenter"; +1-207-743-5466 "pharmacy";+1-207-743-8083
+    "photo"; +1-207-743-6679 "visioncenter"
+opening_hours: Mo-Su 06:00-23:00; Thanksgiving off; dec 25 off; dec 24 06:00-18:00
 website: https://www.walmart.com/store/2183-oxford-me
