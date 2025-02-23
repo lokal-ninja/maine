@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
-url: /scarborough/hannaford-payne-road/
+url: /augusta/hannaford-cony-street/
 shop: supermarket
 ---
