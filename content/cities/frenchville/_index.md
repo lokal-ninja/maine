@@ -1,6 +1,6 @@
 ---
 title: Frenchville
 url: /frenchville/
-latitude: 47.288
-longitude: -68.372
+latitude: 47.281
+longitude: -68.42
 ---
