@@ -1,5 +1,5 @@
 ---
 title: "Otter Creek Market"
-url: /bar-harbor/otter-creek-market/
+url: /mount-desert/otter-creek-market/
 shop: convenience
 ---
