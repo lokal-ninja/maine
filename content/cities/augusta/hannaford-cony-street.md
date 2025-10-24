@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
-url: /augusta/hannaford-whitten-road/
+url: /augusta/hannaford-cony-street/
 shop: supermarket
 ---
