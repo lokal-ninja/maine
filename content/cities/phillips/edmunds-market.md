@@ -1,5 +1,5 @@
 ---
-title: "Edmund's Market"
+title: "Edmunds' Market"
 url: /phillips/edmunds-market/
 shop: supermarket
 ---
