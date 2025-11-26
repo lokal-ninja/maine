@@ -7,6 +7,5 @@ city: Skowhegan
 street: Water Street
 housenumber: "87"
 phone: +1 207-474-2253
-opening_hours: Sunday, Closed, Monday, Closed, Tuesday, 7:30 AM–6 PM, Wednesday, 7:30
-    AM–6 PM, Thursday, 7:30 AM–6 PM, Friday, 7:30 AM–6 PM, Saturday, 7:30 AM–12 PM
+opening_hours: Tu-Fr 07:30-18:00, Sa 07:30-12:00; Su-Mo off
 website: https://thebankery.com
