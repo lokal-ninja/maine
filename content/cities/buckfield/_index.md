@@ -1,6 +1,6 @@
 ---
 title: Buckfield
 url: /buckfield/
-latitude: 44.286
-longitude: -70.351
+latitude: 44.278
+longitude: -70.357
 ---
