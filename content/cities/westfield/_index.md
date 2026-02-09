@@ -1,6 +1,6 @@
 ---
 title: Westfield
 url: /westfield/
-latitude: 46.57
-longitude: -67.95
+latitude: 46.583
+longitude: -67.958
 ---

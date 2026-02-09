@@ -1,6 +1,6 @@
 ---
 title: Mars Hill
 url: /mars-hill/
-latitude: 46.514
-longitude: -67.865
+latitude: 46.523
+longitude: -67.877
 ---
