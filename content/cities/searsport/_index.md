@@ -1,6 +1,6 @@
 ---
 title: Searsport
 url: /searsport/
-latitude: 44.463
-longitude: -68.908
+latitude: 44.458
+longitude: -68.926
 ---
