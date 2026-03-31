@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /orono/circle-k-main-street/
+url: /orono/circle-k-stillwater-avenue/
 shop: convenience
 ---
