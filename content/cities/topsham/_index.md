@@ -1,6 +1,6 @@
 ---
 title: Topsham
 url: /topsham/
-latitude: 43.952
-longitude: -69.972
+latitude: 43.931
+longitude: -69.978
 ---

@@ -1,6 +1,6 @@
 ---
 title: Auburn
 url: /auburn/
-latitude: 44.087
-longitude: -70.223
+latitude: 44.113
+longitude: -70.224
 ---
