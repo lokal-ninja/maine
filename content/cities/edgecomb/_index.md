@@ -1,6 +1,6 @@
 ---
 title: Edgecomb
 url: /edgecomb/
-latitude: 44
-longitude: -69.649
+latitude: 43.957
+longitude: -69.631
 ---
