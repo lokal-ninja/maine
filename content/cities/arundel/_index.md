@@ -1,6 +1,6 @@
 ---
 title: Arundel
 url: /arundel/
-latitude: 43.449
-longitude: -70.499
+latitude: 43.417
+longitude: -70.519
 ---
