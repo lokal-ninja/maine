@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /augusta/supercuts-senator-way/
+url: /augusta/supercuts-stephen-king-drive/
 shop: hairdresser
 ---
