@@ -1,6 +1,6 @@
 ---
 title: Springvale
 url: /springvale/
-latitude: 43.447
-longitude: -70.799
+latitude: 43.467
+longitude: -70.797
 ---
