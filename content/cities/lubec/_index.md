@@ -1,6 +1,6 @@
 ---
 title: Lubec
 url: /lubec/
-latitude: 44.814
-longitude: -67.071
+latitude: 44.857
+longitude: -66.99
 ---
