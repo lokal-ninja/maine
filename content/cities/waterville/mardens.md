@@ -1,5 +1,5 @@
 ---
-title: "Mardens"
+title: "Marden's"
 url: /waterville/mardens/
-shop: doityourself
+shop: department store
 ---
