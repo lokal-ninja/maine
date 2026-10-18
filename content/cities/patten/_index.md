@@ -1,6 +1,6 @@
 ---
 title: Patten
 url: /patten/
-latitude: 45.996
-longitude: -68.448
+latitude: 45.982
+longitude: -68.451
 ---
