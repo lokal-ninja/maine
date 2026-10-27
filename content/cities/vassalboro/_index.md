@@ -1,6 +1,6 @@
 ---
 title: Vassalboro
 url: /vassalboro/
-latitude: 44.485
-longitude: -69.622
+latitude: 44.365
+longitude: -69.634
 ---
