@@ -1,6 +1,6 @@
 ---
 title: Harrington
 url: /harrington/
-latitude: 44.62
-longitude: -67.799
+latitude: 44.614
+longitude: -67.806
 ---
